@@ -1,0 +1,3106 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Current Ionic version"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Repo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T23:33:37Z",
+            "owner": "ionic-team",
+            "repo": "ionic-framework",
+            "stars": 52616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic Native",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T10:44:23Z",
+            "owner": "danielsogl",
+            "repo": "awesome-cordova-plugins",
+            "stars": 2454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Capacitor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-29T09:12:08Z",
+            "owner": "riderx",
+            "repo": "awesome-capacitor",
+            "stars": 636
+          }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "capacitor-updater",
+          "description": "Capacitor plugin for Instant updates: Ship updates, fixes, changes, and features within minutes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T17:28:03Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-updater",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-social-login",
+          "description": "Capacitor plugin to make login with Google,Apple,Facebook and so on, simple and fast to implement.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T16:28:51Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-social-login",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-inappbrowser",
+          "description": "Capacitor plugin in app browser with urlChangeEvent.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T20:06:23Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-inappbrowser",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-data-storage-sqlite",
+          "description": "Capacitor Plugin for Data Storage SQLite for iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T02:43:24Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-data-storage-sqlite",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-native-biometric",
+          "description": "Secure biometric authentication for Capacitor with Face ID, Touch ID, and Android biometrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T16:44:50Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-native-biometric",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-native-audio",
+          "description": "Capacitor plugin for native audio engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-03T17:48:30Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-native-audio",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-camera-preview",
+          "description": "Capacitor plugin that allows camera interaction from JavaScript and HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T02:42:15Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-camera-preview",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-native-purchases",
+          "description": "Capacitor plugin to manage IAP on Capacitor with the latest Android and iOS libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T22:57:55Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-native-purchases",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-llm",
+          "description": "Capacitor plugin to run LLM models locally in iOS and Android, with Apple Intelligence support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-11T10:04:34Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-llm",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-nativegeocoder",
+          "description": "Capacitor plugin for native forward and reverse geocoding.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T02:56:32Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-nativegeocoder",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-native-navigation",
+          "description": "Capacitor plugin for Liquid glass native navigation tabs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-24T11:10:14Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-native-navigation",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-navigation-bar",
+          "description": "Capacitor plugin to set the navigation bar color for Android Lollipop and higher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T02:55:17Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-navigation-bar",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-background-geolocation",
+          "description": "Capacitor plugin that sends you accurate geolocation updates, even while the app is in the background.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T18:54:56Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-background-geolocation",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-health",
+          "description": "Capacitor plugin to interact with data from Apple HealthKit and Google Fit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T02:39:48Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-health",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-screen-recorder",
+          "description": "Capacitor plugin to record the screen of the phone in native.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-10T02:48:03Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-screen-recorder",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-uploader",
+          "description": "Capacitor plugin to upload file in native layer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T11:53:01Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-uploader",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-flash",
+          "description": "Capacitor plugin to switch the Flashlight / Torch of your device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T02:59:36Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-flash",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-nfc",
+          "description": "Capacitor plugin allows you to read and write NFC tags. You can also beam to, and receive from, other NFC enabled devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T02:40:51Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-nfc",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-document-scanner",
+          "description": "Capacitor plugin to scan document iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T02:49:41Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-document-scanner",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-shake",
+          "description": "Capacitor Plugin to detect when a physical device performs a shake gesture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T02:58:26Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-shake",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-plus",
+          "description": "Capacitor+ is an always-synced Capacitor fork with community fixes and faster releases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T03:40:24Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-plus",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-transitions",
+          "description": "Framework-agnostic page transitions for Capacitor apps. iOS-style navigation without opinions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T20:36:31Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-transitions",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-share-target",
+          "description": "Capacitor plugin to receive share target intent in app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T02:40:01Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-share-target",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-crisp",
+          "description": "Capacitor plugin to use Crisp native SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-07T23:04:32Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-crisp",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-fast-sql",
+          "description": "Capacitor plugin to connect to local SQL with fast protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T02:43:24Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-fast-sql",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-speech-recognition",
+          "description": "Capacitor plugin for speech recognition.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T10:27:14Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-speech-recognition",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-autofill-save-password",
+          "description": "Capacitor plugin to prompt to display dialog for saving password to keychain for iOS webview app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T02:47:12Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-autofill-save-password",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-native-market",
+          "description": "Capacitor plugin to open native Play Store/App Store.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T02:47:50Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-native-market",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-mute",
+          "description": "Capacitor plugin to detect if the mute switch is enabled/disabled on a device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T02:50:15Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-mute",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-streamcall",
+          "description": "Capacitor plugin for streamcall SDK for capacitor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T20:35:03Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-streamcall",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-alarm",
+          "description": "Capacitor Plugin to set and open the native alarms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T09:41:24Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-alarm",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-audio-recorder",
+          "description": "Capacitor plugin to record audio on iOS and Android, keep active in background.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-11T09:46:06Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-audio-recorder",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-downloader",
+          "description": "Capacitor plugin to download file in background or foreground.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T02:47:59Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-downloader",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-video-player",
+          "description": "Capacitor plugin to play video in native player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-08T10:43:37Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-video-player",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-wechat",
+          "description": "Capacitor plugin to interact with WeChat SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T02:33:48Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-wechat",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-admob",
+          "description": "Capacitor plugin to bridge AdMob SDKs for iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T02:53:22Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-admob",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-is-root",
+          "description": "Capacitor plugin to detect Jailbreak/Root.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T10:26:28Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-is-root",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-ibeacon",
+          "description": "Capacitor plugin for iBeacon.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T06:59:59Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-ibeacon",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-pay",
+          "description": "Capacitor plugin to trigger native payment for iOS(Apple pay) and Android(Google Pay).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T02:45:44Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-pay",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-watch",
+          "description": "Capacitor plugin for Apple Watch communication with bidirectional messaging support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-07T23:00:53Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-watch",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-android-kiosk",
+          "description": "Capacitor plugin to create application with \"kiosk mode\". An app with this plugin can be set as an Android launcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T09:42:06Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-android-kiosk",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-contacts",
+          "description": "Capacitor plugin to interact with native contact iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T10:19:31Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-contacts",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-gtm",
+          "description": "Capacitor plugin to use Google Tag Manager (GTM) natively.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T18:58:04Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-gtm",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-ivs-player",
+          "description": "Capacitor plugin native IVS player for Android and iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-10T11:56:45Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-ivs-player",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-pedometer",
+          "description": "Capacitor plugin for accessing pedometer data including steps, distance, pace, cadence, and floors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T02:54:21Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-pedometer",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-persistent-account",
+          "description": "Capacitor plugin to persist account data between app install.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T02:56:34Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-persistent-account",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-photo-library",
+          "description": "Capacitor plugin Displays photo gallery as web page, or boring native screen which you cannot modify but require no authorization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T09:42:39Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-photo-library",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-realtimekit",
+          "description": "Capacitor plugin to use Cloudflare realtime kit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T02:56:25Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-realtimekit",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-sim",
+          "description": "Capacitor plugin to get information from device's sim cards.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T02:50:33Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-sim",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-ffmpeg",
+          "description": "Capacitor plugin to run FFmpeg locally on device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T09:32:48Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-ffmpeg",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-home-indicator",
+          "description": "Capacitor plugin to hide and show home button indicator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T02:33:49Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-home-indicator",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-jw-player",
+          "description": "Capacitor plugin to play videos natively with JW Player.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-10T07:09:46Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-jw-player",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-media-session",
+          "description": "Capacitor plugin to expose media session controls of the device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T02:49:42Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-media-session",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-mux-player",
+          "description": "Capacitor plugin to play video with Mux Player SDK on iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:32:58Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-mux-player",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-pdf-generator",
+          "description": "Capacitor plugin to generate PDF files from HTML strings or URLs on iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T02:52:46Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-pdf-generator",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-twilio-voice",
+          "description": "Capacitor plugin to create and answer calls with Twilio Voice SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T20:52:44Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-twilio-voice",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-youtube-player",
+          "description": "Capacitor plugin player to embed YouTube player controls in Capacitor apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-08-12T02:38:26Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-youtube-player",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-android-inline-install",
+          "description": "Capacitor plugin to trigger Android inline install feature.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T09:41:36Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-android-inline-install",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-android-usagestatsmanager",
+          "description": "Capacitor plugin to get Android app usage stats natively.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T02:58:31Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-android-usagestatsmanager",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-audiosession",
+          "description": "Capacitor plugin to manage audio session.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T02:29:04Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-audiosession",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-bluetooth-low-energy",
+          "description": "Capacitor plugin Bluetooth Low Energy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-11T09:32:31Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-bluetooth-low-energy",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-env",
+          "description": "Capacitor plugin to store and read env var in capacitor config, helpful for multitenant app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T02:48:53Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-env",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-intent-launcher",
+          "description": "Launch Android intents and open system settings screens from your Capacitor app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T02:45:41Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-intent-launcher",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-launch-navigator",
+          "description": "Capacitor plugin which launches native route navigation apps for Android, iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T02:38:53Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-launch-navigator",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-live-reload",
+          "description": "Capacitor plugin to live reload Capacitor apps from a remote Vite dev server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T09:44:28Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-live-reload",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-textinteraction",
+          "description": "Capacitor plugin to toggle text interaction in iOS apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T02:49:33Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-textinteraction",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-wifi",
+          "description": "Capacitor plugin to manage WiFi connectivity for your Capacitor app.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T10:53:05Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-wifi",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-accelerometer",
+          "description": "Capacitor plugin to read device accelerometer measurements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T02:57:38Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-accelerometer",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-android-age-signals",
+          "description": "Capacitor plugin to use the Play Age Signals API to retrieve age-related signals for users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T02:43:29Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-android-age-signals",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-appinsights",
+          "description": "Capacitor plugin to allow interact with App insights SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T02:33:38Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-appinsights",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-printer",
+          "description": "Capacitor plugin for printing documents, HTML, PDFs, images and web views.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-11T10:21:55Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-printer",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-ricoh360-camera-plugin",
+          "description": "Capacitor Plugin for ricoh camera 360.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-26T13:41:36Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-ricoh360-camera-plugin",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-supabase",
+          "description": "Native Supabase authentication, JWT access, and basic database helpers for Capacitor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-24T11:01:07Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-supabase",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-volume-buttons",
+          "description": "Capacitor plugin to listen to volume button presses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:04:31Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-volume-buttons",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-webview-guardian",
+          "description": "Capacitor plugin to Detect when the WebView was killed in the background and relaunch it on foreground.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T02:28:08Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-webview-guardian",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-barometer",
+          "description": "Capacitor plugin to read device barometer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:02:37Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-barometer",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-file-compressor",
+          "description": "Capacitor plugin for efficient image compression supporting PNG, JPEG, and WebP formats across iOS, Android, and Web platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T02:49:05Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-file-compressor",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-screen-orientation",
+          "description": "Capacitor plugin for screen orientation with support for detecting true physical device orientation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-04T11:14:31Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-screen-orientation",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-speech-synthesis",
+          "description": "Capacitor plugin to synthesize speech from text with full control over language, voice, pitch, rate, and volume.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:03:21Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-speech-synthesis",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-widget-kit",
+          "description": "Capgo WidgetKit plugin with workout Live Activity example and Maestro smoke test.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-11T09:33:46Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-widget-kit",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-app-attest",
+          "description": "Capacitor plugin for App Attest on iOS and Play Integrity attestation on Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T02:34:36Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-app-attest",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-compass",
+          "description": "Capacitor plugin to access native compass.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T09:32:34Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-compass",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-file-picker",
+          "description": "Capacitor plugin File picker - Pick files, images, videos, and directories.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T09:32:47Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-file-picker",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-firebase",
+          "description": "Firebase plugins for Capacitor with Android, iOS, and Web support using current Firebase SDKs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-13T12:02:31Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-firebase",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-in-app-review",
+          "description": "Capacitor plugin to prompt users to submit app store ratings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T09:47:17Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-in-app-review",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-keep-awake",
+          "description": "Capacitor plugin to prevent the device screen from dimming or sleeping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T09:32:59Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-keep-awake",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-live-activities",
+          "description": "Manage iOS Live Activities from Capacitor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-11T09:33:01Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-live-activities",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-sheets",
+          "description": "Capacitor plugin for framework-agnostic sheets, drawers, dialogs, and overlay primitives.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T23:09:37Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-sheets",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-video-thumbnails",
+          "description": "Generate video thumbnails from local or remote video files - Capacitor plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:49:56Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-video-thumbnails",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-brightness",
+          "description": "Capacitor plugin for controlling screen brightness on iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:14:48Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-brightness",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-file",
+          "description": "Capacitor plugin for file system operations. A modern replacement for cordova-plugin-file with a compatible API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-11T09:32:45Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-file",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-light-sensor",
+          "description": "Capacitor plugin for accessing the device light sensor (Android only).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T09:42:25Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-light-sensor",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-proximity",
+          "description": "Capacitor plugin for enabling proximity monitoring in mobile apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:08:14Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-proximity",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-webview-version-checker",
+          "description": "Capacitor plugin for checking outdated Android WebView engines with native update prompts and runtime status events.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T09:48:38Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-webview-version-checker",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-zip",
+          "description": "Capacitor plugin for zipping and unzipping files on iOS, Android, and Web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:14:08Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-zip",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-asset-cache",
+          "description": "Capacitor plugin for transparent local caching of large images and videos.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-11T09:40:55Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-asset-cache",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-contentsquare",
+          "description": "Capacitor plugin for the Contentsquare mobile analytics SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:25:01Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-contentsquare",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-device-info",
+          "description": "Capacitor plugin for reading CPU, memory, GPU, storage, and onboard sensor metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T09:41:30Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-device-info",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-incoming-call-kit",
+          "description": "Capacitor plugin for native incoming call UI with Android full-screen notifications and iOS CallKit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T10:03:46Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-incoming-call-kit",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-install-referrer",
+          "description": "Capacitor plugin for install attribution with Google Play Install Referrer and Apple AdServices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:37:17Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-install-referrer",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-mqtt",
+          "description": "Capacitor plugin for MQTT connectivity on Android and iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-11T10:07:38Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-mqtt",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-pretty-toast",
+          "description": "Native-first pretty toast notifications for Capacitor and the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-11T10:06:37Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-pretty-toast",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-privacy-screen",
+          "description": "Capacitor plugin for hiding app content in Android screenshots and iOS app switcher previews.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T09:56:35Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-privacy-screen",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-stripe-terminal",
+          "description": "Capacitor plugin for Stripe Terminal in-person payments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-11T09:47:06Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-stripe-terminal",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-age-range",
+          "description": "Capacitor plugin age range detection. Google Play Age Signals (Android) + Apple DeclaredAgeRange (iOS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T09:41:10Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-age-range",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-app-tracking-transparency",
+          "description": "Capacitor plugin for iOS App Tracking Transparency.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:36:09Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-app-tracking-transparency",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-appsflyer",
+          "description": "Capacitor plugin for AppsFlyer attribution, analytics, and deep links.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-11T10:16:59Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-appsflyer",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-auto",
+          "description": "Capacitor plugin for CarPlay and Android Auto communication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-11T09:42:52Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-auto",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-facebook-analytics",
+          "description": "Capacitor plugin for Meta/Facebook App Events analytics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T09:50:10Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-facebook-analytics",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-intercom",
+          "description": "Capacitor plugin bridge for Intercom SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T09:47:42Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-intercom",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-mock-location-detector",
+          "description": "Capacitor plugin for detecting simulated GPS locations and developer tooling that enables spoofing apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-07-11T10:07:12Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-mock-location-detector",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-native-loader",
+          "description": "Native animated loaders, transparent overlays, Lottie assets, and WebView resizing for Capacitor apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-11T10:08:18Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-native-loader",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-network-diagnostics",
+          "description": "Capacitor plugin for native network diagnostics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T10:46:34Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-network-diagnostics",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-passkey",
+          "description": "Capacitor passkey plugin with a WebAuthn-compatible shim for native apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-13T09:48:57Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-passkey",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-patch",
+          "description": "Apply vetted Capgo patches during cap sync and cap update.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T09:41:17Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-patch",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-persona",
+          "description": "Capacitor plugin for launching Persona Inquiry flows on iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T09:33:17Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-persona",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-ssl-pinning",
+          "description": "Capacitor SSL pinning plugin for Android and iOS that integrates with CapacitorHttp.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-11T10:46:07Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-ssl-pinning",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-stripe-pay",
+          "description": "Capacitor plugin for Stripe Payment Sheet, Apple Pay, and Google Pay.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-11T09:46:23Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-stripe-pay",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-uwb",
+          "description": "Capacitor plugin for Ultra-Wideband (UWB) ranging on iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:50:23Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-uwb",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-android-sms-retriever",
+          "description": "Capacitor plugin for Android SMS Retriever and Phone Number Hint APIs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T09:42:03Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-android-sms-retriever",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-background-task",
+          "description": "Capacitor plugin for periodic background fetch tasks on iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T09:59:55Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-background-task",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-calendar",
+          "description": "Capacitor plugin for managing calendar events on iOS and Android, with reminders support on iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-11T09:43:09Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-calendar",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-date-picker",
+          "description": "Capacitor plugin for native date, time, date-time, year-month, and range pickers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-11T09:56:41Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-date-picker",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-file-sharer",
+          "description": "Capacitor plugin for sharing and saving files on Android, iOS, and Web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T10:16:53Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-file-sharer",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-intune",
+          "description": "Capacitor plugin for Microsoft Intune MAM enrollment, app protection policies, app config, and MSAL authentication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T09:32:58Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-intune",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-persistent-uuid",
+          "description": "Capacitor plugin for a persistent app UUID that survives reinstalls and updates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:23:18Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-persistent-uuid",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-recaptcha",
+          "description": "Capacitor plugin for generating reCAPTCHA and reCAPTCHA Enterprise tokens.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:51:21Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-recaptcha",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-rudderstack",
+          "description": "Capacitor plugin for RudderStack analytics, identity, and event tracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:05:21Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-rudderstack",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-stripe-identity",
+          "description": "Capacitor plugin for Stripe Identity verification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T10:42:19Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-stripe-identity",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-verisoul",
+          "description": "Capacitor plugin for Verisoul fraud prevention sessions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-11T09:59:34Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-verisoul",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-webview-crash",
+          "description": "Capacitor plugin for detecting recovered WebView crashes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-07-11T10:27:49Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-webview-crash",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-zebra-datawedge",
+          "description": "Capacitor plugin for Zebra DataWedge profile management, notifications, queries, and soft scanning on Zebra Android devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T10:28:33Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-zebra-datawedge",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-device-integrity",
+          "description": "Capacitor plugin for device integrity, Android Widevine fingerprints, Play Integrity, iOS App Attest, and DeviceCheck.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-11T10:13:11Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-device-integrity",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Capgo Capacitor Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Capstart",
+          "description": "CLI and starter toolkit for creating Capacitor apps with React, Supabase, and shadcn/ui, or adding Capacitor to existing web framework projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T17:55:22Z",
+            "owner": "AdrienADV",
+            "repo": "capstart",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vim-ionic2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2017-05-25T10:59:39Z",
+            "owner": "akz92",
+            "repo": "vim-ionic2",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ionic 2 Advanced Components",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-11-27T11:32:21Z",
+            "owner": "yannbf",
+            "repo": "ionic3-components",
+            "stars": 1668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic Official Starter Templates",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T09:50:48Z",
+            "owner": "ionic-team",
+            "repo": "starters",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic Boilerplate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T17:42:18Z",
+            "owner": "marcoturi",
+            "repo": "ionic-boilerplate",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic 2",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T17:42:18Z",
+            "owner": "marcoturi",
+            "repo": "ionic-boilerplate",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OCR Scan App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-12-21T15:21:37Z",
+            "owner": "matiastucci",
+            "repo": "ionic-ocr-example",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cordova File Transfer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2024-12-29T21:39:47Z",
+            "owner": "dsgriffin",
+            "repo": "ionic-3-file-transfer-example",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NFC Demo",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-01-02T18:22:35Z",
+            "owner": "RedFroggy",
+            "repo": "ionic2-nfc-app",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Update your App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-09-04T22:56:55Z",
+            "owner": "NextFaze",
+            "repo": "ionic-manup",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fullscreen Content",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-08-04T18:00:10Z",
+            "owner": "sebaferreras",
+            "repo": "Ionic3-FullscreenContent",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Card Layout",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2017-06-19T02:44:09Z",
+            "owner": "joshuamorony",
+            "repo": "ionic2-card-layout",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Boilerplate/Demo Apps"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Components"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lottie Animation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-07T01:01:05Z",
+            "owner": "chenqingspring",
+            "repo": "ng-lottie",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lottie Animation",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-07-10T12:55:29Z",
+            "owner": "fivethree-team",
+            "repo": "lottie",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Animations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Multi Level Sidemenu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-10-12T13:43:16Z",
+            "owner": "sebaferreras",
+            "repo": "Ionic3-MultiLevelSideMenu",
+            "stars": 135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scrollabel Tabs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-04-26T13:08:17Z",
+            "owner": "SinoThomas",
+            "repo": "Ionic2-ScrollableTabs",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Circular Tabs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-11-28T21:47:08Z",
+            "owner": "SinoThomas",
+            "repo": "Ionic2-CircularTabs",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fab Toolbar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-07-18T16:38:26Z",
+            "owner": "ekhmoi",
+            "repo": "fab-toolbar",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Popover Sidemenu",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-10-30T16:55:51Z",
+            "owner": "philipbrack",
+            "repo": "ionic2-menu-alternative-popover",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drop down Title",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-09-12T15:50:09Z",
+            "owner": "Mohd-PH",
+            "repo": "ionic-drop-down-title",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Menu, Tabs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dynamic Forms",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-02-06T11:28:40Z",
+            "owner": "udos86",
+            "repo": "ng-dynamic-forms",
+            "stars": 1309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Selectable",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-11-08T00:24:29Z",
+            "owner": "eakoriakin",
+            "repo": "ionic-selectable",
+            "stars": 552
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Form Generator based on JSON",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T21:04:24Z",
+            "owner": "guillotinaweb",
+            "repo": "ngx-schema-form",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autocomplete",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-10T20:36:25Z",
+            "owner": "kadoshms",
+            "repo": "ionic2-autocomplete",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Masks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-06-09T21:15:05Z",
+            "owner": "amarkes",
+            "repo": "br-mask",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sidemenu tabs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-01-27T13:13:54Z",
+            "owner": "seanmavley",
+            "repo": "ionic2-sidemenu-tabs",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Form Builder",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2016-11-28T23:38:07Z",
+            "owner": "rohitg7",
+            "repo": "ionic2-form-builder",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Form / Input"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Inputfield Mask",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-05-26T18:32:18Z",
+            "owner": "text-mask",
+            "repo": "text-mask",
+            "stars": 8216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calendar",
+          "description": "(very powerful)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-08T15:19:00Z",
+            "owner": "mattlewis92",
+            "repo": "angular-calendar",
+            "stars": 2824
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datepicker (selectable range dates calendar)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-08T22:14:55Z",
+            "owner": "hsuanxyz",
+            "repo": "ion2-calendar",
+            "stars": 549
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calendar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-31T15:21:43Z",
+            "owner": "twinssbc",
+            "repo": "Ionic2-Calendar",
+            "stars": 389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rating",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-06T18:25:37Z",
+            "owner": "andrucz",
+            "repo": "ionic2-rating",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calendar - Fullcalendar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-05-26T15:34:53Z",
+            "owner": "nekken",
+            "repo": "ng2-fullcalendar",
+            "stars": 94
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datepicker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-12-07T23:24:11Z",
+            "owner": "misha130",
+            "repo": "ion-datepicker",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calendar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-10-12T12:43:25Z",
+            "owner": "alexandretok",
+            "repo": "easy-ionic2-calendar",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datepicker",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2019-11-02T16:34:52Z",
+            "owner": "rajeshwarpatlolla",
+            "repo": "ionic2-datepicker",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Calendar",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-09-22T02:48:21Z",
+            "owner": "redpandatronicsuk",
+            "repo": "ionic2calendar",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Input - Date/Calendar"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Flexible and Light Table",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T04:04:02Z",
+            "owner": "swimlane",
+            "repo": "ngx-datatable",
+            "stars": 4671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart table (sorting, filtering)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-08-12T16:52:31Z",
+            "owner": "akveo",
+            "repo": "ng2-smart-table",
+            "stars": 1620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sortable/Filter Tables",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2022-10-26T15:57:10Z",
+            "owner": "valor-software",
+            "repo": "ng2-table",
+            "stars": 544
+          }
+        }
+      ],
+      "title": "Lists/Table"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lazy Load",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-04T02:27:35Z",
+            "owner": "tjoskar",
+            "repo": "ng-lazyload-image",
+            "stars": 751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Loader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-05T12:31:22Z",
+            "owner": "zyra",
+            "repo": "ionic-image-loader",
+            "stars": 432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Viewer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-10T21:05:45Z",
+            "owner": "Riron",
+            "repo": "ionic-img-viewer",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Signatur",
+          "description": "Works perfect with Ionic.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-04-12T06:57:01Z",
+            "owner": "wulfsolter",
+            "repo": "angular2-signaturepad",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gallery Modal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2019-02-06T19:38:02Z",
+            "owner": "nikini",
+            "repo": "ionic-gallery-modal",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Fallback",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2024-05-20T16:32:10Z",
+            "owner": "VadimDez",
+            "repo": "ngx-img-fallback",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Image Zoom",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2018-10-03T19:45:18Z",
+            "owner": "brtnshrdr",
+            "repo": "angular2-image-zoom",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Facebook Gallery",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2016-12-15T23:05:51Z",
+            "owner": "skyfloyd",
+            "repo": "ionic2-fb-gallery",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Images"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Charts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-05T12:38:00Z",
+            "owner": "valor-software",
+            "repo": "ng2-charts",
+            "stars": 2401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D3 Service",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-03-26T02:21:29Z",
+            "owner": "tomwanzek",
+            "repo": "d3-ng2-service",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D3 Angular Examples",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-02T00:48:09Z",
+            "owner": "datencia",
+            "repo": "d3js-angular-examples",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "D3 Line/Bar/Pie Charts",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-03-02T00:48:09Z",
+            "owner": "datencia",
+            "repo": "d3js-angular-examples",
+            "stars": 199
+          }
+        }
+      ],
+      "title": "Charts/Diagram"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Simple Audioplayer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-03-12T18:41:35Z",
+            "owner": "arielfaur",
+            "repo": "ionic-audio",
+            "stars": 320
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Video Editor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-05-26T16:46:06Z",
+            "owner": "rossmartin",
+            "repo": "video-editor-ionic2",
+            "stars": 70
+          }
+        }
+      ],
+      "title": "Video/Audio"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ionic Conference App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T13:51:53Z",
+            "owner": "ionic-team",
+            "repo": "ionic-conference-app",
+            "stars": 3593
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IonicRealty",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2016-11-15T05:30:34Z",
+            "owner": "ccoenraets",
+            "repo": "ionic2-realty",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic Weather app",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2021-07-09T21:06:14Z",
+            "owner": "aggarwalankush",
+            "repo": "ionic-mosum",
+            "stars": 243
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic 5 Social Network Starter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-01-07T14:06:45Z",
+            "owner": "thenaim",
+            "repo": "ionic-tk-social-network",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic Push Notification",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-06-30T04:20:00Z",
+            "owner": "aggarwalankush",
+            "repo": "ionic-push-base",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic Reddit Reader",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-12-11T05:48:18Z",
+            "owner": "smartapant",
+            "repo": "ionic2-reddit-reader",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic 5 WhatsApp clone",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2020-11-20T01:50:11Z",
+            "owner": "thenaim",
+            "repo": "ionic-whatsapp-clone",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playing music in Ionic 4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-10-29T10:22:26Z",
+            "owner": "EnappdLLC",
+            "repo": "ionic-capacitor-music",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic Firebase Chat App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-03-13T12:48:16Z",
+            "owner": "ionic2blueprints",
+            "repo": "firebase-chat",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic Media Player",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2017-04-03T09:44:09Z",
+            "owner": "ionic2blueprints",
+            "repo": "media-player",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic aiEyes - Azure Computer Vision API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2022-11-16T23:25:45Z",
+            "owner": "brenopolanski",
+            "repo": "aiEyes",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic Social App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2016-09-28T10:24:19Z",
+            "owner": "ionic2blueprints",
+            "repo": "social-app",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic Ecommerce App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-10T20:18:33Z",
+            "owner": "ionic2blueprints",
+            "repo": "ionic2-marketcloud",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic Wordpress Client",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2016-08-31T17:21:25Z",
+            "owner": "ionic2blueprints",
+            "repo": "ionic2-wp-client",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic Stock Tracking App",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-10-10T20:18:27Z",
+            "owner": "ionic2blueprints",
+            "repo": "ionic2-stockmarket",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic Soundboard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2018-09-23T18:53:56Z",
+            "owner": "rkalis",
+            "repo": "ionic-soundboard",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Receive SMS automatically in Ionic 4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-08-26T09:39:10Z",
+            "owner": "EnappdLLC",
+            "repo": "Ionic-4-sms-receive",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic 4 PayPal Payment Integration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2020-07-26T14:21:33Z",
+            "owner": "EnappdLLC",
+            "repo": "ionic4-paypal",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic Conference App based on Lanyrd API",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2016-08-31T17:03:17Z",
+            "owner": "ionic2blueprints",
+            "repo": "conference-app",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic 4 Apple Pay Payment Integration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-08-26T09:42:53Z",
+            "owner": "EnappdLLC",
+            "repo": "ionic4-applepay",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Translation in Ionic 4 - Internationalization and localization",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2021-06-28T21:12:22Z",
+            "owner": "EnappdLLC",
+            "repo": "ionic4-i18n",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Firebase push notifications in Ionic 4",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-08-26T09:40:59Z",
+            "owner": "EnappdLLC",
+            "repo": "ionic-4-push",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic 4 Razorpay Payment Integration",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2019-08-26T09:42:16Z",
+            "owner": "EnappdLLC",
+            "repo": "ionic4-razorpay",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ionic 4 Facebook login with Firebase",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-02-02T04:14:18Z",
+            "owner": "EnappdLLC",
+            "repo": "ionic4-facebookAuth",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Open Source Projects"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "Capgo — Live updates for capacitor",
+      "items": [],
+      "title": "Author"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:08:24.909Z",
+    "original_repository": "Cap-go/awesome-ionic",
+    "original_repository_sha": "c298818ebfcb9bd6ee370b508efcdfec0cdf6bb8",
+    "enhanced_repository": "enhansome/enhansome-ionic",
+    "enhanced_repository_description": null,
+    "title": "Awesome Ionic with stars"
+  }
+}
