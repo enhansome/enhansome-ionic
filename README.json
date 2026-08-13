@@ -67,7 +67,7 @@
             "last_commit": "2026-08-12T17:28:03Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 823
+            "stars": 824
           }
         },
         {
@@ -92,7 +92,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T20:06:23Z",
+            "last_commit": "2026-08-13T08:01:40Z",
             "owner": "Cap-go",
             "repo": "capacitor-inappbrowser",
             "stars": 130
@@ -344,7 +344,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:40:24Z",
+            "last_commit": "2026-08-13T07:56:00Z",
             "owner": "Cap-go",
             "repo": "capacitor-plus",
             "stars": 20
@@ -1660,7 +1660,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-07-11T09:41:17Z",
+            "last_commit": "2026-08-13T06:49:42Z",
             "owner": "Cap-go",
             "repo": "capacitor-patch",
             "stars": 3
@@ -2348,7 +2348,7 @@
             "last_commit": "2025-05-26T18:32:18Z",
             "owner": "text-mask",
             "repo": "text-mask",
-            "stars": 8216
+            "stars": 8217
           }
         },
         {
@@ -3096,7 +3096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:08:24.909Z",
+    "last_updated": "2026-08-13T08:06:21.573Z",
     "original_repository": "Cap-go/awesome-ionic",
     "original_repository_sha": "c298818ebfcb9bd6ee370b508efcdfec0cdf6bb8",
     "enhanced_repository": "enhansome/enhansome-ionic",

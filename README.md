@@ -182,9 +182,9 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Capgo Capacitor Plugins
 
-* [capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 823 | 🐛 6 | 🌐 Java | 📅 2026-08-12 - Capacitor plugin for Instant updates: Ship updates, fixes, changes, and features within minutes.
+* [capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 824 | 🐛 6 | 🌐 Java | 📅 2026-08-12 - Capacitor plugin for Instant updates: Ship updates, fixes, changes, and features within minutes.
 * [capacitor-social-login](https://github.com/Cap-go/capacitor-social-login) ⭐ 218 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-12 - Capacitor plugin to make login with Google,Apple,Facebook and so on, simple and fast to implement.
-* [capacitor-inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 130 | 🐛 3 | 🌐 Java | 📅 2026-08-12 - Capacitor plugin in app browser with urlChangeEvent.
+* [capacitor-inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 130 | 🐛 4 | 🌐 Java | 📅 2026-08-13 - Capacitor plugin in app browser with urlChangeEvent.
 * [capacitor-data-storage-sqlite](https://github.com/Cap-go/capacitor-data-storage-sqlite) ⭐ 104 | 🐛 6 | 🌐 Swift | 📅 2026-08-12 - Capacitor Plugin for Data Storage SQLite for iOS and Android.
 * [capacitor-native-biometric](https://github.com/Cap-go/capacitor-native-biometric) ⭐ 82 | 🐛 3 | 🌐 Java | 📅 2026-08-12 - Secure biometric authentication for Capacitor with Face ID, Touch ID, and Android biometrics.
 * [capacitor-native-audio](https://github.com/Cap-go/capacitor-native-audio) ⭐ 76 | 🐛 1 | 🌐 Java | 📅 2026-08-03 - Capacitor plugin for native audio engine.
@@ -202,7 +202,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 * [capacitor-nfc](https://github.com/Cap-go/capacitor-nfc) ⭐ 24 | 🐛 6 | 🌐 Swift | 📅 2026-08-12 - Capacitor plugin allows you to read and write NFC tags. You can also beam to, and receive from, other NFC enabled devices.
 * [capacitor-document-scanner](https://github.com/Cap-go/capacitor-document-scanner) ⭐ 23 | 🐛 5 | 🌐 Swift | 📅 2026-08-12 - Capacitor plugin to scan document iOS and Android.
 * [capacitor-shake](https://github.com/Cap-go/capacitor-shake) ⭐ 21 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-10 - Capacitor Plugin to detect when a physical device performs a shake gesture.
-* [capacitor-plus](https://github.com/Cap-go/capacitor-plus) ⭐ 20 | 🐛 3 | 🌐 TypeScript | 📅 2026-08-13 - Capacitor+ is an always-synced Capacitor fork with community fixes and faster releases.
+* [capacitor-plus](https://github.com/Cap-go/capacitor-plus) ⭐ 20 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-13 - Capacitor+ is an always-synced Capacitor fork with community fixes and faster releases.
 * [capacitor-transitions](https://github.com/Cap-go/capacitor-transitions) ⭐ 20 | 🐛 6 | 🌐 TypeScript | 📅 2026-08-12 - Framework-agnostic page transitions for Capacitor apps. iOS-style navigation without opinions.
 * [capacitor-share-target](https://github.com/Cap-go/capacitor-share-target) ⭐ 19 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-12 - Capacitor plugin to receive share target intent in app.
 * [capacitor-crisp](https://github.com/Cap-go/capacitor-crisp) ⭐ 18 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-07 - Capacitor plugin to use Crisp native SDK.
@@ -296,7 +296,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 * [capacitor-native-loader](https://github.com/Cap-go/capacitor-native-loader) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2026-07-11 - Native animated loaders, transparent overlays, Lottie assets, and WebView resizing for Capacitor apps.
 * [capacitor-network-diagnostics](https://github.com/Cap-go/capacitor-network-diagnostics) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2026-07-11 - Capacitor plugin for native network diagnostics.
 * [capacitor-passkey](https://github.com/Cap-go/capacitor-passkey) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2026-07-13 - Capacitor passkey plugin with a WebAuthn-compatible shim for native apps.
-* [capacitor-patch](https://github.com/Cap-go/capacitor-patch) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-11 - Apply vetted Capgo patches during cap sync and cap update.
+* [capacitor-patch](https://github.com/Cap-go/capacitor-patch) ⭐ 3 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-13 - Apply vetted Capgo patches during cap sync and cap update.
 * [capacitor-persona](https://github.com/Cap-go/capacitor-persona) ⭐ 3 | 🐛 0 | 🌐 Java | 📅 2026-07-11 - Capacitor plugin for launching Persona Inquiry flows on iOS and Android.
 * [capacitor-ssl-pinning](https://github.com/Cap-go/capacitor-ssl-pinning) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2026-07-11 - Capacitor SSL pinning plugin for Android and iOS that integrates with CapacitorHttp.
 * [capacitor-stripe-pay](https://github.com/Cap-go/capacitor-stripe-pay) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2026-07-11 - Capacitor plugin for Stripe Payment Sheet, Apple Pay, and Google Pay.
@@ -438,7 +438,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ### Input - Date/Calendar
 
-* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,216 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
+* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,217 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
 * [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,824 | 🐛 96 | 🌐 TypeScript | 📅 2026-04-08  (very powerful)
 * [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar) ⭐ 549 | 🐛 167 | 🌐 TypeScript | 📅 2022-12-08
 * [Calendar](https://github.com/twinssbc/Ionic2-Calendar) ⭐ 389 | 🐛 116 | 🌐 TypeScript | 📅 2026-05-31
