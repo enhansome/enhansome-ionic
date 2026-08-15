@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T02:47:41Z",
+            "last_commit": "2026-08-14T23:45:43Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52616
+            "stars": 52618
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-07-29T09:12:08Z",
             "owner": "riderx",
             "repo": "awesome-capacitor",
-            "stars": 636
+            "stars": 635
           }
         }
       ],
@@ -64,7 +64,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T18:25:33Z",
+            "last_commit": "2026-08-14T23:40:45Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 824
@@ -78,7 +78,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T06:58:15Z",
+            "last_commit": "2026-08-14T12:00:12Z",
             "owner": "Cap-go",
             "repo": "capacitor-social-login",
             "stars": 218
@@ -92,7 +92,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T11:44:38Z",
+            "last_commit": "2026-08-14T21:28:32Z",
             "owner": "Cap-go",
             "repo": "capacitor-inappbrowser",
             "stars": 130
@@ -120,7 +120,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T15:15:52Z",
+            "last_commit": "2026-08-14T11:57:18Z",
             "owner": "Cap-go",
             "repo": "capacitor-native-biometric",
             "stars": 82
@@ -137,7 +137,7 @@
             "last_commit": "2026-08-03T17:48:30Z",
             "owner": "Cap-go",
             "repo": "capacitor-native-audio",
-            "stars": 76
+            "stars": 75
           }
         },
         {
@@ -148,10 +148,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T20:45:43Z",
+            "last_commit": "2026-08-14T11:52:42Z",
             "owner": "Cap-go",
             "repo": "capacitor-camera-preview",
-            "stars": 49
+            "stars": 50
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-07-24T11:10:14Z",
             "owner": "Cap-go",
             "repo": "capacitor-native-navigation",
-            "stars": 29
+            "stars": 30
           }
         },
         {
@@ -218,7 +218,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-12T02:39:48Z",
+            "last_commit": "2026-08-14T21:26:40Z",
             "owner": "Cap-go",
             "repo": "capacitor-health",
             "stars": 28
@@ -246,7 +246,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T12:41:13Z",
+            "last_commit": "2026-08-14T21:37:21Z",
             "owner": "Cap-go",
             "repo": "capacitor-background-geolocation",
             "stars": 27
@@ -302,7 +302,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T02:40:51Z",
+            "last_commit": "2026-08-14T21:29:18Z",
             "owner": "Cap-go",
             "repo": "capacitor-nfc",
             "stars": 24
@@ -316,7 +316,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T02:49:41Z",
+            "last_commit": "2026-08-14T21:43:08Z",
             "owner": "Cap-go",
             "repo": "capacitor-document-scanner",
             "stars": 23
@@ -358,7 +358,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T05:29:55Z",
+            "last_commit": "2026-08-14T21:30:26Z",
             "owner": "Cap-go",
             "repo": "capacitor-transitions",
             "stars": 20
@@ -372,7 +372,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T12:40:14Z",
+            "last_commit": "2026-08-14T21:27:02Z",
             "owner": "Cap-go",
             "repo": "capacitor-share-target",
             "stars": 19
@@ -428,7 +428,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T02:47:12Z",
+            "last_commit": "2026-08-14T21:36:10Z",
             "owner": "Cap-go",
             "repo": "capacitor-autofill-save-password",
             "stars": 17
@@ -554,7 +554,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T02:53:22Z",
+            "last_commit": "2026-08-14T21:29:12Z",
             "owner": "Cap-go",
             "repo": "capacitor-admob",
             "stars": 13
@@ -764,7 +764,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T02:33:49Z",
+            "last_commit": "2026-08-14T21:40:30Z",
             "owner": "Cap-go",
             "repo": "capacitor-home-indicator",
             "stars": 10
@@ -792,7 +792,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T02:49:42Z",
+            "last_commit": "2026-08-14T21:43:10Z",
             "owner": "Cap-go",
             "repo": "capacitor-media-session",
             "stars": 10
@@ -820,7 +820,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T02:52:46Z",
+            "last_commit": "2026-08-14T21:40:22Z",
             "owner": "Cap-go",
             "repo": "capacitor-pdf-generator",
             "stars": 10
@@ -834,7 +834,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T20:52:44Z",
+            "last_commit": "2026-08-14T21:29:17Z",
             "owner": "Cap-go",
             "repo": "capacitor-twilio-voice",
             "stars": 10
@@ -848,7 +848,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T02:38:26Z",
+            "last_commit": "2026-08-14T21:34:00Z",
             "owner": "Cap-go",
             "repo": "capacitor-youtube-player",
             "stars": 10
@@ -890,7 +890,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T02:29:04Z",
+            "last_commit": "2026-08-14T21:39:54Z",
             "owner": "Cap-go",
             "repo": "capacitor-audiosession",
             "stars": 9
@@ -932,7 +932,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T02:45:41Z",
+            "last_commit": "2026-08-14T21:50:31Z",
             "owner": "Cap-go",
             "repo": "capacitor-intent-launcher",
             "stars": 9
@@ -946,7 +946,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T02:38:53Z",
+            "last_commit": "2026-08-14T21:30:09Z",
             "owner": "Cap-go",
             "repo": "capacitor-launch-navigator",
             "stars": 9
@@ -974,7 +974,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T02:49:33Z",
+            "last_commit": "2026-08-14T21:35:59Z",
             "owner": "Cap-go",
             "repo": "capacitor-textinteraction",
             "stars": 9
@@ -1016,7 +1016,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T02:43:29Z",
+            "last_commit": "2026-08-14T21:48:04Z",
             "owner": "Cap-go",
             "repo": "capacitor-android-age-signals",
             "stars": 8
@@ -1100,7 +1100,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-12T02:28:08Z",
+            "last_commit": "2026-08-14T21:46:08Z",
             "owner": "Cap-go",
             "repo": "capacitor-webview-guardian",
             "stars": 8
@@ -1828,7 +1828,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T15:15:17Z",
+            "last_commit": "2026-08-14T11:52:10Z",
             "owner": "Cap-go",
             "repo": "capacitor-recaptcha",
             "stars": 2
@@ -1932,7 +1932,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T19:34:27Z",
+            "last_commit": "2026-08-14T23:48:14Z",
             "owner": "AdrienADV",
             "repo": "capstart",
             "stars": 28
@@ -1980,7 +1980,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-13T09:50:47Z",
+            "last_commit": "2026-08-14T18:57:03Z",
             "owner": "ionic-team",
             "repo": "starters",
             "stars": 483
@@ -2753,7 +2753,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-06-29T13:51:53Z",
+            "last_commit": "2026-08-14T20:17:57Z",
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
             "stars": 3593
@@ -3096,7 +3096,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:02:51.745Z",
+    "last_updated": "2026-08-15T07:17:04.194Z",
     "original_repository": "Cap-go/awesome-ionic",
     "original_repository_sha": "c298818ebfcb9bd6ee370b508efcdfec0cdf6bb8",
     "enhanced_repository": "enhansome/enhansome-ionic",
