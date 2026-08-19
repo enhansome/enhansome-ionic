@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T23:21:17Z",
+            "last_commit": "2026-08-19T12:27:23Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52617
+            "stars": 52618
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-18T21:39:40Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16345
+            "stars": 16346
           }
         },
         {
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 442321089,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T06:14:30Z",
+            "last_commit": "2026-08-19T12:30:46Z",
             "owner": "Cap-go",
             "repo": "capgo.app",
             "stars": 205
@@ -252,7 +252,7 @@
             "last_commit": "2026-07-24T11:10:14Z",
             "owner": "Cap-go",
             "repo": "capacitor-native-navigation",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -594,7 +594,7 @@
             "archived": false,
             "id": 1073116914,
             "language": "Java",
-            "last_commit": "2026-08-19T07:16:04Z",
+            "last_commit": "2026-08-19T10:17:57Z",
             "owner": "Cap-go",
             "repo": "capacitor-video-player",
             "stars": 14
@@ -1809,7 +1809,7 @@
             "archived": false,
             "id": 1205313181,
             "language": "TypeScript",
-            "last_commit": "2026-07-13T09:48:57Z",
+            "last_commit": "2026-08-19T10:16:12Z",
             "owner": "Cap-go",
             "repo": "capacitor-passkey",
             "stars": 3
@@ -2286,7 +2286,7 @@
             "archived": false,
             "id": 109052620,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T09:44:01Z",
+            "last_commit": "2026-08-19T09:44:02Z",
             "owner": "ionic-team",
             "repo": "starters",
             "stars": 483
@@ -2738,7 +2738,7 @@
                 "last_commit": "2026-04-08T15:19:00Z",
                 "owner": "mattlewis92",
                 "repo": "angular-calendar",
-                "stars": 2823
+                "stars": 2822
               }
             },
             {
@@ -3520,8 +3520,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:25:35.916Z",
+    "last_updated": "2026-08-19T12:34:26.052Z",
     "original_repository": "Cap-go/awesome-ionic",
+    "original_repository_id": 53809858,
     "original_repository_sha": "199ba2489f47442c821ea46b1890e4aa0f0f5d86",
     "enhanced_repository": "enhansome/enhansome-ionic",
     "enhanced_repository_description": null,
