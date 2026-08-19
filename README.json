@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
-      "title": "Current Ionic version"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T23:03:38Z",
+            "last_commit": "2026-08-18T23:21:17Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52619
+            "stars": 52617
           }
         },
         {
@@ -29,32 +25,55 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46805578,
             "language": "TypeScript",
             "last_commit": "2026-08-17T05:09:55Z",
             "owner": "danielsogl",
             "repo": "awesome-cordova-plugins",
             "stars": 2453
           }
+        }
+      ],
+      "title": "Official Resources"
+    },
+    {
+      "description": "Ionic apps can use Capacitor as a native runtime.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Repository",
+          "description": "Core runtime source.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111241370,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T21:39:40Z",
+            "owner": "ionic-team",
+            "repo": "capacitor",
+            "stars": 16345
+          }
         },
         {
           "node_type": "item",
           "title": "Awesome Capacitor",
-          "description": null,
+          "description": "Curated Capacitor plugins, tools, and guides.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 429233609,
             "language": "HTML",
-            "last_commit": "2026-07-29T09:12:08Z",
+            "last_commit": "2026-08-18T15:23:14Z",
             "owner": "riderx",
             "repo": "awesome-capacitor",
             "stars": 635
           }
         }
       ],
-      "title": "Official Resources"
+      "title": "Capacitor"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -63,8 +82,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 420741081,
             "language": "Java",
-            "last_commit": "2026-08-17T03:53:09Z",
+            "last_commit": "2026-08-18T16:25:57Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 827
@@ -77,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 851610840,
             "language": "TypeScript",
             "last_commit": "2026-08-17T13:59:30Z",
             "owner": "Cap-go",
@@ -86,13 +107,29 @@
         },
         {
           "node_type": "item",
+          "title": "capacitor-notifications",
+          "description": "Send native iOS and Android push notifications with user lookup, badges, and stats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 442321089,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T06:14:30Z",
+            "owner": "Cap-go",
+            "repo": "capgo.app",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
           "title": "capacitor-inappbrowser",
           "description": "Capacitor plugin in app browser with urlChangeEvent.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 515302020,
             "language": "Java",
-            "last_commit": "2026-08-17T14:08:50Z",
+            "last_commit": "2026-08-18T12:21:28Z",
             "owner": "Cap-go",
             "repo": "capacitor-inappbrowser",
             "stars": 131
@@ -105,6 +142,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131804089,
             "language": "Swift",
             "last_commit": "2026-08-17T08:16:35Z",
             "owner": "Cap-go",
@@ -119,6 +157,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 644150478,
             "language": "Java",
             "last_commit": "2026-08-14T11:57:18Z",
             "owner": "Cap-go",
@@ -133,6 +172,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 560317422,
             "language": "Java",
             "last_commit": "2026-08-17T14:14:29Z",
             "owner": "Cap-go",
@@ -147,6 +187,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 573703497,
             "language": "Java",
             "last_commit": "2026-08-17T03:54:19Z",
             "owner": "Cap-go",
@@ -161,6 +202,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 677494519,
             "language": "Java",
             "last_commit": "2026-08-17T15:49:06Z",
             "owner": "Cap-go",
@@ -175,6 +217,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1000598569,
             "language": "Swift",
             "last_commit": "2026-07-11T10:04:34Z",
             "owner": "Cap-go",
@@ -189,6 +232,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 508654246,
             "language": "JavaScript",
             "last_commit": "2026-08-17T23:30:24Z",
             "owner": "Cap-go",
@@ -203,6 +247,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1234535294,
             "language": "Swift",
             "last_commit": "2026-07-24T11:10:14Z",
             "owner": "Cap-go",
@@ -217,6 +262,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1063195756,
             "language": "Kotlin",
             "last_commit": "2026-08-17T13:59:31Z",
             "owner": "Cap-go",
@@ -231,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 611999379,
             "language": "JavaScript",
             "last_commit": "2026-08-17T07:58:45Z",
             "owner": "Cap-go",
@@ -245,8 +292,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1027630268,
             "language": "Java",
-            "last_commit": "2026-08-17T08:00:38Z",
+            "last_commit": "2026-08-18T12:19:50Z",
             "owner": "Cap-go",
             "repo": "capacitor-background-geolocation",
             "stars": 27
@@ -259,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 427230607,
             "language": "Kotlin",
             "last_commit": "2026-08-17T08:45:44Z",
             "owner": "Cap-go",
@@ -273,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 851611239,
             "language": "Java",
             "last_commit": "2026-08-17T14:17:53Z",
             "owner": "Cap-go",
@@ -287,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 428109916,
             "language": "JavaScript",
             "last_commit": "2026-08-17T23:32:22Z",
             "owner": "Cap-go",
@@ -301,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1083985012,
             "language": "Swift",
             "last_commit": "2026-08-17T14:13:34Z",
             "owner": "Cap-go",
@@ -315,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1072619934,
             "language": "Swift",
             "last_commit": "2026-08-17T08:11:54Z",
             "owner": "Cap-go",
@@ -329,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 612020674,
             "language": "JavaScript",
             "last_commit": "2026-08-17T15:58:08Z",
             "owner": "Cap-go",
@@ -343,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 447801603,
             "language": "TypeScript",
             "last_commit": "2026-08-13T08:29:38Z",
             "owner": "Cap-go",
@@ -357,8 +412,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1126922830,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T03:49:18Z",
+            "last_commit": "2026-08-18T19:47:54Z",
             "owner": "Cap-go",
             "repo": "capacitor-transitions",
             "stars": 20
@@ -371,8 +427,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1084037950,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T08:53:49Z",
+            "last_commit": "2026-08-18T12:02:23Z",
             "owner": "Cap-go",
             "repo": "capacitor-share-target",
             "stars": 19
@@ -385,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 429967671,
             "language": "JavaScript",
             "last_commit": "2026-08-17T08:14:12Z",
             "owner": "Cap-go",
@@ -399,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1085595162,
             "language": "TypeScript",
             "last_commit": "2026-08-17T14:09:58Z",
             "owner": "Cap-go",
@@ -413,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1092625661,
             "language": "Java",
             "last_commit": "2026-07-11T10:27:14Z",
             "owner": "Cap-go",
@@ -427,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 987128884,
             "language": "JavaScript",
             "last_commit": "2026-08-17T14:06:54Z",
             "owner": "Cap-go",
@@ -441,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 517331734,
             "language": "JavaScript",
             "last_commit": "2026-08-17T19:15:35Z",
             "owner": "Cap-go",
@@ -455,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 426803627,
             "language": "JavaScript",
             "last_commit": "2026-08-17T14:13:16Z",
             "owner": "Cap-go",
@@ -469,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 926573014,
             "language": "Kotlin",
             "last_commit": "2026-08-17T15:52:07Z",
             "owner": "Cap-go",
@@ -483,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1057254746,
             "language": "JavaScript",
             "last_commit": "2026-07-11T09:41:24Z",
             "owner": "Cap-go",
@@ -497,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1084008196,
             "language": "Swift",
             "last_commit": "2026-07-11T09:46:06Z",
             "owner": "Cap-go",
@@ -511,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 877532922,
             "language": "JavaScript",
             "last_commit": "2026-08-17T08:40:23Z",
             "owner": "Cap-go",
@@ -525,8 +592,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073116914,
             "language": "Java",
-            "last_commit": "2026-08-17T12:57:08Z",
+            "last_commit": "2026-08-19T07:16:04Z",
             "owner": "Cap-go",
             "repo": "capacitor-video-player",
             "stars": 14
@@ -539,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1083754535,
             "language": "Java",
             "last_commit": "2026-08-17T14:16:12Z",
             "owner": "Cap-go",
@@ -553,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073116309,
             "language": "JavaScript",
             "last_commit": "2026-08-17T07:58:58Z",
             "owner": "Cap-go",
@@ -567,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1062180039,
             "language": "Java",
             "last_commit": "2026-07-11T10:26:28Z",
             "owner": "Cap-go",
@@ -581,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1083768524,
             "language": "Java",
             "last_commit": "2026-08-17T03:48:30Z",
             "owner": "Cap-go",
@@ -595,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1072570500,
             "language": "Swift",
             "last_commit": "2026-08-17T08:02:15Z",
             "owner": "Cap-go",
@@ -609,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1126812018,
             "language": "Swift",
             "last_commit": "2026-08-17T03:46:30Z",
             "owner": "Cap-go",
@@ -623,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1090656329,
             "language": "Java",
             "last_commit": "2026-07-11T09:42:06Z",
             "owner": "Cap-go",
@@ -637,8 +712,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1084033375,
             "language": "Java",
-            "last_commit": "2026-07-11T10:19:31Z",
+            "last_commit": "2026-08-18T17:00:41Z",
             "owner": "Cap-go",
             "repo": "capacitor-contacts",
             "stars": 11
@@ -651,6 +727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1028781015,
             "language": "JavaScript",
             "last_commit": "2026-08-17T15:50:20Z",
             "owner": "Cap-go",
@@ -665,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 647532345,
             "language": "Java",
             "last_commit": "2026-08-17T08:05:10Z",
             "owner": "Cap-go",
@@ -679,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1084062717,
             "language": "JavaScript",
             "last_commit": "2026-08-17T08:13:43Z",
             "owner": "Cap-go",
@@ -693,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1036119602,
             "language": "JavaScript",
             "last_commit": "2026-08-17T19:12:54Z",
             "owner": "Cap-go",
@@ -707,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1069032453,
             "language": "Java",
             "last_commit": "2026-08-13T12:39:34Z",
             "owner": "Cap-go",
@@ -721,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1084037762,
             "language": "JavaScript",
             "last_commit": "2026-08-17T08:12:49Z",
             "owner": "Cap-go",
@@ -735,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1072614755,
             "language": "JavaScript",
             "last_commit": "2026-08-17T15:53:03Z",
             "owner": "Cap-go",
@@ -749,6 +832,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1001590019,
             "language": "JavaScript",
             "last_commit": "2026-07-11T09:32:48Z",
             "owner": "Cap-go",
@@ -763,6 +847,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 662211656,
             "language": "JavaScript",
             "last_commit": "2026-08-17T08:40:39Z",
             "owner": "Cap-go",
@@ -777,6 +862,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 967991277,
             "language": "Swift",
             "last_commit": "2026-08-17T14:32:21Z",
             "owner": "Cap-go",
@@ -791,6 +877,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073118546,
             "language": "Java",
             "last_commit": "2026-08-17T08:36:13Z",
             "owner": "Cap-go",
@@ -805,6 +892,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1064414674,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:32:58Z",
             "owner": "Cap-go",
@@ -819,6 +907,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1077290858,
             "language": "Java",
             "last_commit": "2026-08-17T08:14:32Z",
             "owner": "Cap-go",
@@ -833,6 +922,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1029043384,
             "language": "Java",
             "last_commit": "2026-08-17T03:54:22Z",
             "owner": "Cap-go",
@@ -847,6 +937,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073115500,
             "language": "Swift",
             "last_commit": "2026-08-17T14:05:21Z",
             "owner": "Cap-go",
@@ -861,6 +952,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1055555886,
             "language": "JavaScript",
             "last_commit": "2026-07-11T09:41:36Z",
             "owner": "Cap-go",
@@ -875,6 +967,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 962336539,
             "language": "JavaScript",
             "last_commit": "2026-08-17T14:00:47Z",
             "owner": "Cap-go",
@@ -889,6 +982,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1042072803,
             "language": "JavaScript",
             "last_commit": "2026-08-14T21:39:54Z",
             "owner": "Cap-go",
@@ -903,6 +997,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1117226661,
             "language": "TypeScript",
             "last_commit": "2026-07-11T09:32:31Z",
             "owner": "Cap-go",
@@ -917,6 +1012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 881341889,
             "language": "JavaScript",
             "last_commit": "2026-08-17T15:56:54Z",
             "owner": "Cap-go",
@@ -931,6 +1027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1127841551,
             "language": "TypeScript",
             "last_commit": "2026-08-17T08:24:56Z",
             "owner": "Cap-go",
@@ -945,6 +1042,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1062179814,
             "language": "Java",
             "last_commit": "2026-08-17T15:51:47Z",
             "owner": "Cap-go",
@@ -959,6 +1057,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1077358602,
             "language": "JavaScript",
             "last_commit": "2026-07-11T09:44:28Z",
             "owner": "Cap-go",
@@ -973,6 +1072,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1063194762,
             "language": "JavaScript",
             "last_commit": "2026-08-17T14:01:29Z",
             "owner": "Cap-go",
@@ -987,6 +1087,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1099436788,
             "language": "Java",
             "last_commit": "2026-08-07T10:53:05Z",
             "owner": "Cap-go",
@@ -1001,6 +1102,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1084007040,
             "language": "JavaScript",
             "last_commit": "2026-08-17T14:12:12Z",
             "owner": "Cap-go",
@@ -1015,6 +1117,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1083985964,
             "language": "Java",
             "last_commit": "2026-08-17T08:06:33Z",
             "owner": "Cap-go",
@@ -1029,6 +1132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 995812640,
             "language": "JavaScript",
             "last_commit": "2026-08-17T08:06:07Z",
             "owner": "Cap-go",
@@ -1043,6 +1147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1099436531,
             "language": "TypeScript",
             "last_commit": "2026-07-11T10:21:55Z",
             "owner": "Cap-go",
@@ -1057,6 +1162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 888261985,
             "language": "Swift",
             "last_commit": "2026-07-26T13:41:36Z",
             "owner": "Cap-go",
@@ -1071,6 +1177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1106318654,
             "language": "Swift",
             "last_commit": "2026-07-24T11:01:07Z",
             "owner": "Cap-go",
@@ -1085,6 +1192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1073114028,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:04:31Z",
             "owner": "Cap-go",
@@ -1099,6 +1207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1093133732,
             "language": "JavaScript",
             "last_commit": "2026-08-17T14:05:27Z",
             "owner": "Cap-go",
@@ -1113,6 +1222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1084007342,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:02:37Z",
             "owner": "Cap-go",
@@ -1127,6 +1237,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1099436522,
             "language": "JavaScript",
             "last_commit": "2026-08-17T15:55:18Z",
             "owner": "Cap-go",
@@ -1141,6 +1252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1106076182,
             "language": "JavaScript",
             "last_commit": "2026-08-04T11:14:31Z",
             "owner": "Cap-go",
@@ -1155,6 +1267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1099436595,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:03:21Z",
             "owner": "Cap-go",
@@ -1169,6 +1282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1198614988,
             "language": "Swift",
             "last_commit": "2026-07-11T09:33:46Z",
             "owner": "Cap-go",
@@ -1183,6 +1297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1161320493,
             "language": "Java",
             "last_commit": "2026-08-17T14:06:52Z",
             "owner": "Cap-go",
@@ -1197,6 +1312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1106203846,
             "language": "JavaScript",
             "last_commit": "2026-08-13T12:39:29Z",
             "owner": "Cap-go",
@@ -1211,6 +1327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1117244843,
             "language": "Java",
             "last_commit": "2026-07-11T09:32:47Z",
             "owner": "Cap-go",
@@ -1225,6 +1342,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1103184671,
             "language": "Java",
             "last_commit": "2026-07-13T12:02:31Z",
             "owner": "Cap-go",
@@ -1239,6 +1357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1117244678,
             "language": "JavaScript",
             "last_commit": "2026-07-11T09:47:17Z",
             "owner": "Cap-go",
@@ -1253,6 +1372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1117227121,
             "language": "JavaScript",
             "last_commit": "2026-07-11T09:32:59Z",
             "owner": "Cap-go",
@@ -1267,6 +1387,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1141574307,
             "language": "TypeScript",
             "last_commit": "2026-07-11T09:33:01Z",
             "owner": "Cap-go",
@@ -1281,6 +1402,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1238000067,
             "language": "TypeScript",
             "last_commit": "2026-08-17T03:40:55Z",
             "owner": "Cap-go",
@@ -1295,10 +1417,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1127827337,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:49:56Z",
             "owner": "Cap-go",
             "repo": "capacitor-video-thumbnails",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "electron-updater",
+          "description": "OTA live updates for Electron apps with the same API as the updater plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1111780349,
+            "language": "TypeScript",
+            "last_commit": "2026-07-11T09:41:42Z",
+            "owner": "Cap-go",
+            "repo": "electron-updater",
             "stars": 6
           }
         },
@@ -1309,6 +1447,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1127825893,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:14:48Z",
             "owner": "Cap-go",
@@ -1323,6 +1462,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1106203693,
             "language": "TypeScript",
             "last_commit": "2026-07-11T09:32:45Z",
             "owner": "Cap-go",
@@ -1337,6 +1477,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1127822300,
             "language": "JavaScript",
             "last_commit": "2026-07-11T09:42:25Z",
             "owner": "Cap-go",
@@ -1351,6 +1492,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1042588921,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:08:14Z",
             "owner": "Cap-go",
@@ -1365,6 +1507,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1161844138,
             "language": "Java",
             "last_commit": "2026-08-16T12:07:46Z",
             "owner": "Cap-go",
@@ -1379,6 +1522,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1099436544,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:14:08Z",
             "owner": "Cap-go",
@@ -1393,6 +1537,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1281775340,
             "language": "TypeScript",
             "last_commit": "2026-07-11T09:40:55Z",
             "owner": "Cap-go",
@@ -1407,6 +1552,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1191342625,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:25:01Z",
             "owner": "Cap-go",
@@ -1421,6 +1567,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1253592525,
             "language": "Java",
             "last_commit": "2026-07-11T09:41:30Z",
             "owner": "Cap-go",
@@ -1435,6 +1582,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1197110029,
             "language": "Java",
             "last_commit": "2026-07-11T10:03:46Z",
             "owner": "Cap-go",
@@ -1449,6 +1597,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1230630924,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:37:17Z",
             "owner": "Cap-go",
@@ -1463,6 +1612,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1168650701,
             "language": "Swift",
             "last_commit": "2026-07-11T10:07:38Z",
             "owner": "Cap-go",
@@ -1477,6 +1627,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1224417496,
             "language": "Kotlin",
             "last_commit": "2026-07-11T10:06:37Z",
             "owner": "Cap-go",
@@ -1491,6 +1642,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1183759167,
             "language": "JavaScript",
             "last_commit": "2026-07-11T09:56:35Z",
             "owner": "Cap-go",
@@ -1505,6 +1657,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1278281912,
             "language": "Kotlin",
             "last_commit": "2026-07-11T09:47:06Z",
             "owner": "Cap-go",
@@ -1519,6 +1672,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1146945948,
             "language": "JavaScript",
             "last_commit": "2026-07-11T09:41:10Z",
             "owner": "Cap-go",
@@ -1533,6 +1687,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1146929033,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:36:09Z",
             "owner": "Cap-go",
@@ -1547,6 +1702,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1191298358,
             "language": "Swift",
             "last_commit": "2026-07-11T10:16:59Z",
             "owner": "Cap-go",
@@ -1561,6 +1717,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1245763505,
             "language": "Swift",
             "last_commit": "2026-07-11T09:42:52Z",
             "owner": "Cap-go",
@@ -1575,6 +1732,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1230631700,
             "language": "JavaScript",
             "last_commit": "2026-07-11T09:50:10Z",
             "owner": "Cap-go",
@@ -1589,6 +1747,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1145600869,
             "language": "Java",
             "last_commit": "2026-07-11T09:47:42Z",
             "owner": "Cap-go",
@@ -1603,6 +1762,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1278393838,
             "language": "Kotlin",
             "last_commit": "2026-07-11T10:07:12Z",
             "owner": "Cap-go",
@@ -1617,6 +1777,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1258631974,
             "language": "Swift",
             "last_commit": "2026-07-11T10:08:18Z",
             "owner": "Cap-go",
@@ -1631,6 +1792,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1253587022,
             "language": "Java",
             "last_commit": "2026-07-11T10:46:34Z",
             "owner": "Cap-go",
@@ -1645,6 +1807,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1205313181,
             "language": "TypeScript",
             "last_commit": "2026-07-13T09:48:57Z",
             "owner": "Cap-go",
@@ -1659,6 +1822,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1236682936,
             "language": "JavaScript",
             "last_commit": "2026-08-13T06:49:42Z",
             "owner": "Cap-go",
@@ -1673,6 +1837,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1162008589,
             "language": "Java",
             "last_commit": "2026-07-11T09:33:17Z",
             "owner": "Cap-go",
@@ -1687,6 +1852,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1191183699,
             "language": "Swift",
             "last_commit": "2026-07-11T10:46:07Z",
             "owner": "Cap-go",
@@ -1701,6 +1867,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1278281824,
             "language": "Swift",
             "last_commit": "2026-07-11T09:46:23Z",
             "owner": "Cap-go",
@@ -1715,6 +1882,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1286511733,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:50:23Z",
             "owner": "Cap-go",
@@ -1729,6 +1897,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1191290885,
             "language": "Java",
             "last_commit": "2026-07-11T10:28:33Z",
             "owner": "Cap-go",
@@ -1743,6 +1912,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1230595414,
             "language": "Java",
             "last_commit": "2026-07-11T09:42:03Z",
             "owner": "Cap-go",
@@ -1757,6 +1927,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1236481318,
             "language": "JavaScript",
             "last_commit": "2026-07-11T09:59:55Z",
             "owner": "Cap-go",
@@ -1771,6 +1942,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1251765309,
             "language": "Swift",
             "last_commit": "2026-07-11T09:43:09Z",
             "owner": "Cap-go",
@@ -1785,6 +1957,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1251765867,
             "language": "Swift",
             "last_commit": "2026-07-11T09:56:41Z",
             "owner": "Cap-go",
@@ -1799,6 +1972,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1230630401,
             "language": "Java",
             "last_commit": "2026-07-11T10:16:53Z",
             "owner": "Cap-go",
@@ -1813,6 +1987,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1191303390,
             "language": "Java",
             "last_commit": "2026-07-11T09:32:58Z",
             "owner": "Cap-go",
@@ -1827,6 +2002,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1265368100,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:23:18Z",
             "owner": "Cap-go",
@@ -1841,6 +2017,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1235848366,
             "language": "JavaScript",
             "last_commit": "2026-08-14T11:52:10Z",
             "owner": "Cap-go",
@@ -1855,6 +2032,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1192640163,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:05:21Z",
             "owner": "Cap-go",
@@ -1869,6 +2047,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1278282002,
             "language": "JavaScript",
             "last_commit": "2026-07-11T10:42:19Z",
             "owner": "Cap-go",
@@ -1883,6 +2062,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1258623107,
             "language": "JavaScript",
             "last_commit": "2026-07-11T09:59:34Z",
             "owner": "Cap-go",
@@ -1897,6 +2077,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1224459880,
             "language": "Swift",
             "last_commit": "2026-07-11T10:27:49Z",
             "owner": "Cap-go",
@@ -1906,11 +2087,42 @@
         },
         {
           "node_type": "item",
+          "title": "cordova-updater",
+          "description": "OTA live updates for Cordova iOS and Android with the same API as the updater plugin.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1278172201,
+            "language": "Java",
+            "last_commit": "2026-07-11T09:33:47Z",
+            "owner": "Cap-go",
+            "repo": "cordova-updater",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tauri-updater",
+          "description": "OTA live updates for Tauri apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1138055589,
+            "language": "TypeScript",
+            "last_commit": "2026-07-11T09:42:42Z",
+            "owner": "Cap-go",
+            "repo": "tauri-updater",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
           "title": "capacitor-device-integrity",
           "description": "Capacitor plugin for device integrity, Android Widevine fingerprints, Play Integrity, iOS App Attest, and DeviceCheck.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1244495814,
             "language": "Java",
             "last_commit": "2026-07-11T10:13:11Z",
             "owner": "Cap-go",
@@ -1922,7 +2134,7 @@
       "title": "Capgo Capacitor Plugins"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1931,11 +2143,72 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1157860871,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T14:44:04Z",
+            "last_commit": "2026-08-18T20:58:21Z",
             "owner": "AdrienADV",
             "repo": "capstart",
             "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CLI",
+          "description": "Upload and manage live update bundles.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 442966788,
+            "language": "TypeScript",
+            "last_commit": "2026-05-01T13:05:13Z",
+            "owner": "Cap-go",
+            "repo": "CLI",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker",
+          "description": "Image for building native apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 595394875,
+            "language": "Dockerfile",
+            "last_commit": "2026-05-13T15:08:06Z",
+            "owner": "Cap-go",
+            "repo": "docker-capacitor",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vite plugin",
+          "description": "Keep native platform configs in sync with the Vite dev server URL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1077359822,
+            "language": "TypeScript",
+            "last_commit": "2026-06-04T21:49:30Z",
+            "owner": "Cap-go",
+            "repo": "vite-capacitor",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Standard Version",
+          "description": "Automated versioning for apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 486114295,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T21:49:28Z",
+            "owner": "Cap-go",
+            "repo": "standard-version-for-capacitor",
+            "stars": 4
           }
         },
         {
@@ -1945,18 +2218,49 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71894195,
             "language": "Vim script",
             "last_commit": "2017-05-25T10:59:39Z",
             "owner": "akz92",
             "repo": "vim-ionic2",
             "stars": 2
           }
+        },
+        {
+          "node_type": "item",
+          "title": "Live Update Action",
+          "description": "GitHub Action to deploy a live update.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1062764881,
+            "language": "JavaScript",
+            "last_commit": "2025-09-23T18:29:54Z",
+            "owner": "Cap-go",
+            "repo": "live-update-action",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "n8n nodes",
+          "description": "Automate live updates and native builds from n8n workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1177981634,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T14:51:54Z",
+            "owner": "Cap-go",
+            "repo": "n8n-nodes-capgo",
+            "stars": 1
+          }
         }
       ],
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1965,6 +2269,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 72818140,
             "language": "TypeScript",
             "last_commit": "2025-11-27T11:32:21Z",
             "owner": "yannbf",
@@ -1979,8 +2284,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109052620,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T09:46:14Z",
+            "last_commit": "2026-08-18T09:44:01Z",
             "owner": "ionic-team",
             "repo": "starters",
             "stars": 483
@@ -1993,6 +2299,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 69553868,
             "language": "JavaScript",
             "last_commit": "2022-12-07T17:42:18Z",
             "owner": "marcoturi",
@@ -2007,6 +2314,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 69553868,
             "language": "JavaScript",
             "last_commit": "2022-12-07T17:42:18Z",
             "owner": "marcoturi",
@@ -2021,6 +2329,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45185555,
             "language": "JavaScript",
             "last_commit": "2016-12-21T15:21:37Z",
             "owner": "matiastucci",
@@ -2035,6 +2344,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 56239358,
             "language": "TypeScript",
             "last_commit": "2024-12-29T21:39:47Z",
             "owner": "dsgriffin",
@@ -2049,6 +2359,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53404821,
             "language": "TypeScript",
             "last_commit": "2017-01-02T18:22:35Z",
             "owner": "RedFroggy",
@@ -2063,6 +2374,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80796138,
             "language": "TypeScript",
             "last_commit": "2020-09-04T22:56:55Z",
             "owner": "NextFaze",
@@ -2077,6 +2389,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82105247,
             "language": "TypeScript",
             "last_commit": "2018-08-04T18:00:10Z",
             "owner": "sebaferreras",
@@ -2091,659 +2404,756 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 77190099,
             "language": "CSS",
             "last_commit": "2017-06-19T02:44:09Z",
             "owner": "joshuamorony",
             "repo": "ionic2-card-layout",
             "stars": 19
           }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-updater-plugin-demo",
+          "description": "Ionic Vue app demonstrating OTA updates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 469603308,
+            "language": "Vue",
+            "last_commit": "2026-07-16T12:03:46Z",
+            "owner": "Cap-go",
+            "repo": "demo-app",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-data-storage-sqlite-app-starter",
+          "description": "Vue starter for SQLite key/value storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 309617936,
+            "language": "Vue",
+            "last_commit": "2026-03-19T08:40:56Z",
+            "owner": "Cap-go",
+            "repo": "vue-data-storage-sqlite-app-starter",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-data-storage-sqlite-app-starter",
+          "description": "React starter for SQLite key/value storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 289431241,
+            "language": "TypeScript",
+            "last_commit": "2026-03-19T08:41:00Z",
+            "owner": "Cap-go",
+            "repo": "react-data-storage-sqlite-app-starter",
+            "stars": 2
+          }
         }
       ],
       "title": "Boilerplate/Demo Apps"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lottie Animation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82019369,
+                "language": "JavaScript",
+                "last_commit": "2022-12-07T01:01:05Z",
+                "owner": "chenqingspring",
+                "repo": "ng-lottie",
+                "stars": 336
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lottie Animation",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 169904401,
+                "language": "TypeScript",
+                "last_commit": "2020-07-10T12:55:29Z",
+                "owner": "fivethree-team",
+                "repo": "lottie",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Animations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Multi Level Sidemenu",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79659414,
+                "language": "TypeScript",
+                "last_commit": "2018-10-12T13:43:16Z",
+                "owner": "sebaferreras",
+                "repo": "Ionic3-MultiLevelSideMenu",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Scrollabel Tabs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71677542,
+                "language": "TypeScript",
+                "last_commit": "2017-04-26T13:08:17Z",
+                "owner": "SinoThomas",
+                "repo": "Ionic2-ScrollableTabs",
+                "stars": 73
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Circular Tabs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71371051,
+                "language": "TypeScript",
+                "last_commit": "2017-11-28T21:47:08Z",
+                "owner": "SinoThomas",
+                "repo": "Ionic2-CircularTabs",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Fab Toolbar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69704656,
+                "language": "TypeScript",
+                "last_commit": "2023-07-18T16:38:26Z",
+                "owner": "ekhmoi",
+                "repo": "fab-toolbar",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Popover Sidemenu",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72322213,
+                "language": "HTML",
+                "last_commit": "2016-10-30T16:55:51Z",
+                "owner": "philipbrack",
+                "repo": "ionic2-menu-alternative-popover",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Drop down Title",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103284315,
+                "language": "TypeScript",
+                "last_commit": "2017-09-12T15:50:09Z",
+                "owner": "Mohd-PH",
+                "repo": "ionic-drop-down-title",
+                "stars": 2
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Menu, Tabs"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dynamic Forms",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60208434,
+                "language": "TypeScript",
+                "last_commit": "2024-02-06T11:28:40Z",
+                "owner": "udos86",
+                "repo": "ng-dynamic-forms",
+                "stars": 1308
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Selectable",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120589481,
+                "language": "TypeScript",
+                "last_commit": "2024-11-08T00:24:29Z",
+                "owner": "eakoriakin",
+                "repo": "ionic-selectable",
+                "stars": 552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Form Generator based on JSON",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60182693,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T21:04:24Z",
+                "owner": "guillotinaweb",
+                "repo": "ngx-schema-form",
+                "stars": 483
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Autocomplete",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66005644,
+                "language": "TypeScript",
+                "last_commit": "2023-10-10T20:36:25Z",
+                "owner": "kadoshms",
+                "repo": "ionic2-autocomplete",
+                "stars": 147
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Masks",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147748491,
+                "language": "TypeScript",
+                "last_commit": "2023-06-09T21:15:05Z",
+                "owner": "amarkes",
+                "repo": "br-mask",
+                "stars": 116
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sidemenu tabs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58328106,
+                "language": "TypeScript",
+                "last_commit": "2017-01-27T13:13:54Z",
+                "owner": "seanmavley",
+                "repo": "ionic2-sidemenu-tabs",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Form Builder",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68972724,
+                "language": "TypeScript",
+                "last_commit": "2016-11-28T23:38:07Z",
+                "owner": "rohitg7",
+                "repo": "ionic2-form-builder",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Form / Input"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Inputfield Mask",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50213667,
+                "language": "JavaScript",
+                "last_commit": "2025-05-26T18:32:18Z",
+                "owner": "text-mask",
+                "repo": "text-mask",
+                "stars": 8216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Calendar",
+              "description": "(very powerful)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 57139102,
+                "language": "TypeScript",
+                "last_commit": "2026-04-08T15:19:00Z",
+                "owner": "mattlewis92",
+                "repo": "angular-calendar",
+                "stars": 2823
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datepicker (selectable range dates calendar)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77778527,
+                "language": "TypeScript",
+                "last_commit": "2022-12-08T22:14:55Z",
+                "owner": "hsuanxyz",
+                "repo": "ion2-calendar",
+                "stars": 549
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Calendar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 63908983,
+                "language": "TypeScript",
+                "last_commit": "2026-05-31T15:21:43Z",
+                "owner": "twinssbc",
+                "repo": "Ionic2-Calendar",
+                "stars": 389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rating",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69420730,
+                "language": "TypeScript",
+                "last_commit": "2022-12-06T18:25:37Z",
+                "owner": "andrucz",
+                "repo": "ionic2-rating",
+                "stars": 176
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Calendar - Fullcalendar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73530870,
+                "language": "TypeScript",
+                "last_commit": "2018-05-26T15:34:53Z",
+                "owner": "nekken",
+                "repo": "ng2-fullcalendar",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datepicker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70128902,
+                "language": "TypeScript",
+                "last_commit": "2022-12-07T23:24:11Z",
+                "owner": "misha130",
+                "repo": "ion-datepicker",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Calendar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81155202,
+                "language": "TypeScript",
+                "last_commit": "2017-10-12T12:43:25Z",
+                "owner": "alexandretok",
+                "repo": "easy-ionic2-calendar",
+                "stars": 16
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Datepicker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72607578,
+                "language": "JavaScript",
+                "last_commit": "2019-11-02T16:34:52Z",
+                "owner": "rajeshwarpatlolla",
+                "repo": "ionic2-datepicker",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Calendar",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64175125,
+                "language": "TypeScript",
+                "last_commit": "2017-09-22T02:48:21Z",
+                "owner": "redpandatronicsuk",
+                "repo": "ionic2calendar",
+                "stars": 3
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Input - Date/Calendar"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Flexible and Light Table",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60117259,
+                "language": "TypeScript",
+                "last_commit": "2026-08-11T04:04:02Z",
+                "owner": "swimlane",
+                "repo": "ngx-datatable",
+                "stars": 4669
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Smart table (sorting, filtering)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65373403,
+                "language": "TypeScript",
+                "last_commit": "2024-08-12T16:52:31Z",
+                "owner": "akveo",
+                "repo": "ng2-smart-table",
+                "stars": 1620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sortable/Filter Tables",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41477999,
+                "language": "TypeScript",
+                "last_commit": "2022-10-26T15:57:10Z",
+                "owner": "valor-software",
+                "repo": "ng2-table",
+                "stars": 544
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lists/Table"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Lazy Load",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52146170,
+                "language": "TypeScript",
+                "last_commit": "2023-03-04T02:27:35Z",
+                "owner": "tjoskar",
+                "repo": "ng-lazyload-image",
+                "stars": 751
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Image Loader",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70659082,
+                "language": "TypeScript",
+                "last_commit": "2026-08-05T12:31:22Z",
+                "owner": "zyra",
+                "repo": "ionic-image-loader",
+                "stars": 431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Image Viewer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65241910,
+                "language": "TypeScript",
+                "last_commit": "2023-10-10T21:05:45Z",
+                "owner": "Riron",
+                "repo": "ionic-img-viewer",
+                "stars": 279
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Signatur",
+              "description": "Works perfect with Ionic.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 50682569,
+                "language": "TypeScript",
+                "last_commit": "2022-04-12T06:57:01Z",
+                "owner": "wulfsolter",
+                "repo": "angular2-signaturepad",
+                "stars": 173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gallery Modal",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 78153445,
+                "language": "TypeScript",
+                "last_commit": "2019-02-06T19:38:02Z",
+                "owner": "nikini",
+                "repo": "ionic-gallery-modal",
+                "stars": 164
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Image Fallback",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60298404,
+                "language": "TypeScript",
+                "last_commit": "2024-05-20T16:32:10Z",
+                "owner": "VadimDez",
+                "repo": "ngx-img-fallback",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Image Zoom",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61401975,
+                "language": "TypeScript",
+                "last_commit": "2018-10-03T19:45:18Z",
+                "owner": "brtnshrdr",
+                "repo": "angular2-image-zoom",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Facebook Gallery",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 76408419,
+                "language": "TypeScript",
+                "last_commit": "2016-12-15T23:05:51Z",
+                "owner": "skyfloyd",
+                "repo": "ionic2-fb-gallery",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Images"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Charts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41480724,
+                "language": "TypeScript",
+                "last_commit": "2026-03-05T12:38:00Z",
+                "owner": "valor-software",
+                "repo": "ng2-charts",
+                "stars": 2400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "D3 Service",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66854079,
+                "language": "TypeScript",
+                "last_commit": "2020-03-26T02:21:29Z",
+                "owner": "tomwanzek",
+                "repo": "d3-ng2-service",
+                "stars": 204
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "D3 Angular Examples",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70255085,
+                "language": "TypeScript",
+                "last_commit": "2023-03-02T00:48:09Z",
+                "owner": "datencia",
+                "repo": "d3js-angular-examples",
+                "stars": 199
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "D3 Line/Bar/Pie Charts",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70255085,
+                "language": "TypeScript",
+                "last_commit": "2023-03-02T00:48:09Z",
+                "owner": "datencia",
+                "repo": "d3js-angular-examples",
+                "stars": 199
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Charts/Diagram"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Simple Audioplayer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34830892,
+                "language": "CSS",
+                "last_commit": "2018-03-12T18:41:35Z",
+                "owner": "arielfaur",
+                "repo": "ionic-audio",
+                "stars": 320
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Video Editor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53471694,
+                "language": "JavaScript",
+                "last_commit": "2016-05-26T16:46:06Z",
+                "owner": "rossmartin",
+                "repo": "video-editor-ionic2",
+                "stars": 69
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Video/Audio"
+        }
+      ],
       "title": "Components"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Lottie Animation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-07T01:01:05Z",
-            "owner": "chenqingspring",
-            "repo": "ng-lottie",
-            "stars": 337
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lottie Animation",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-07-10T12:55:29Z",
-            "owner": "fivethree-team",
-            "repo": "lottie",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Animations"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Multi Level Sidemenu",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2018-10-12T13:43:16Z",
-            "owner": "sebaferreras",
-            "repo": "Ionic3-MultiLevelSideMenu",
-            "stars": 135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Scrollabel Tabs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2017-04-26T13:08:17Z",
-            "owner": "SinoThomas",
-            "repo": "Ionic2-ScrollableTabs",
-            "stars": 73
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Circular Tabs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2017-11-28T21:47:08Z",
-            "owner": "SinoThomas",
-            "repo": "Ionic2-CircularTabs",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Fab Toolbar",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-07-18T16:38:26Z",
-            "owner": "ekhmoi",
-            "repo": "fab-toolbar",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Popover Sidemenu",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2016-10-30T16:55:51Z",
-            "owner": "philipbrack",
-            "repo": "ionic2-menu-alternative-popover",
-            "stars": 2
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Drop down Title",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2017-09-12T15:50:09Z",
-            "owner": "Mohd-PH",
-            "repo": "ionic-drop-down-title",
-            "stars": 2
-          }
-        }
-      ],
-      "title": "Menu, Tabs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Dynamic Forms",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-02-06T11:28:40Z",
-            "owner": "udos86",
-            "repo": "ng-dynamic-forms",
-            "stars": 1309
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Selectable",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-11-08T00:24:29Z",
-            "owner": "eakoriakin",
-            "repo": "ionic-selectable",
-            "stars": 552
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Form Generator based on JSON",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T21:04:24Z",
-            "owner": "guillotinaweb",
-            "repo": "ngx-schema-form",
-            "stars": 483
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Autocomplete",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-10-10T20:36:25Z",
-            "owner": "kadoshms",
-            "repo": "ionic2-autocomplete",
-            "stars": 147
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Masks",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-06-09T21:15:05Z",
-            "owner": "amarkes",
-            "repo": "br-mask",
-            "stars": 116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sidemenu tabs",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2017-01-27T13:13:54Z",
-            "owner": "seanmavley",
-            "repo": "ionic2-sidemenu-tabs",
-            "stars": 46
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Form Builder",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2016-11-28T23:38:07Z",
-            "owner": "rohitg7",
-            "repo": "ionic2-form-builder",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Form / Input"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Inputfield Mask",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-05-26T18:32:18Z",
-            "owner": "text-mask",
-            "repo": "text-mask",
-            "stars": 8216
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Calendar",
-          "description": "(very powerful)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-08T15:19:00Z",
-            "owner": "mattlewis92",
-            "repo": "angular-calendar",
-            "stars": 2823
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Datepicker (selectable range dates calendar)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-12-08T22:14:55Z",
-            "owner": "hsuanxyz",
-            "repo": "ion2-calendar",
-            "stars": 549
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Calendar",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-05-31T15:21:43Z",
-            "owner": "twinssbc",
-            "repo": "Ionic2-Calendar",
-            "stars": 389
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rating",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-12-06T18:25:37Z",
-            "owner": "andrucz",
-            "repo": "ionic2-rating",
-            "stars": 176
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Calendar - Fullcalendar",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2018-05-26T15:34:53Z",
-            "owner": "nekken",
-            "repo": "ng2-fullcalendar",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Datepicker",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-12-07T23:24:11Z",
-            "owner": "misha130",
-            "repo": "ion-datepicker",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Calendar",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2017-10-12T12:43:25Z",
-            "owner": "alexandretok",
-            "repo": "easy-ionic2-calendar",
-            "stars": 16
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Datepicker",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-11-02T16:34:52Z",
-            "owner": "rajeshwarpatlolla",
-            "repo": "ionic2-datepicker",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Calendar",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2017-09-22T02:48:21Z",
-            "owner": "redpandatronicsuk",
-            "repo": "ionic2calendar",
-            "stars": 3
-          }
-        }
-      ],
-      "title": "Input - Date/Calendar"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Flexible and Light Table",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-11T04:04:02Z",
-            "owner": "swimlane",
-            "repo": "ngx-datatable",
-            "stars": 4670
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Smart table (sorting, filtering)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-08-12T16:52:31Z",
-            "owner": "akveo",
-            "repo": "ng2-smart-table",
-            "stars": 1620
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sortable/Filter Tables",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2022-10-26T15:57:10Z",
-            "owner": "valor-software",
-            "repo": "ng2-table",
-            "stars": 544
-          }
-        }
-      ],
-      "title": "Lists/Table"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Lazy Load",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-04T02:27:35Z",
-            "owner": "tjoskar",
-            "repo": "ng-lazyload-image",
-            "stars": 751
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Image Loader",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-05T12:31:22Z",
-            "owner": "zyra",
-            "repo": "ionic-image-loader",
-            "stars": 431
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Image Viewer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-10-10T21:05:45Z",
-            "owner": "Riron",
-            "repo": "ionic-img-viewer",
-            "stars": 279
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Signatur",
-          "description": "Works perfect with Ionic.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2022-04-12T06:57:01Z",
-            "owner": "wulfsolter",
-            "repo": "angular2-signaturepad",
-            "stars": 173
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gallery Modal",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2019-02-06T19:38:02Z",
-            "owner": "nikini",
-            "repo": "ionic-gallery-modal",
-            "stars": 164
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Image Fallback",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-05-20T16:32:10Z",
-            "owner": "VadimDez",
-            "repo": "ngx-img-fallback",
-            "stars": 82
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Image Zoom",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2018-10-03T19:45:18Z",
-            "owner": "brtnshrdr",
-            "repo": "angular2-image-zoom",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Facebook Gallery",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2016-12-15T23:05:51Z",
-            "owner": "skyfloyd",
-            "repo": "ionic2-fb-gallery",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Images"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Charts",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-03-05T12:38:00Z",
-            "owner": "valor-software",
-            "repo": "ng2-charts",
-            "stars": 2401
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "D3 Service",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2020-03-26T02:21:29Z",
-            "owner": "tomwanzek",
-            "repo": "d3-ng2-service",
-            "stars": 204
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "D3 Angular Examples",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-02T00:48:09Z",
-            "owner": "datencia",
-            "repo": "d3js-angular-examples",
-            "stars": 199
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "D3 Line/Bar/Pie Charts",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-03-02T00:48:09Z",
-            "owner": "datencia",
-            "repo": "d3js-angular-examples",
-            "stars": 199
-          }
-        }
-      ],
-      "title": "Charts/Diagram"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Simple Audioplayer",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "CSS",
-            "last_commit": "2018-03-12T18:41:35Z",
-            "owner": "arielfaur",
-            "repo": "ionic-audio",
-            "stars": 320
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Video Editor",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2016-05-26T16:46:06Z",
-            "owner": "rossmartin",
-            "repo": "video-editor-ionic2",
-            "stars": 70
-          }
-        }
-      ],
-      "title": "Video/Audio"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2752,6 +3162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43385504,
             "language": "TypeScript",
             "last_commit": "2026-08-14T20:17:57Z",
             "owner": "ionic-team",
@@ -2766,6 +3177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50440802,
             "language": "JavaScript",
             "last_commit": "2016-11-15T05:30:34Z",
             "owner": "ccoenraets",
@@ -2780,6 +3192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73542725,
             "language": "TypeScript",
             "last_commit": "2021-07-09T21:06:14Z",
             "owner": "aggarwalankush",
@@ -2794,6 +3207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 275180566,
             "language": "TypeScript",
             "last_commit": "2023-01-07T14:06:45Z",
             "owner": "thenaim",
@@ -2808,6 +3222,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 63896358,
             "language": "TypeScript",
             "last_commit": "2017-06-30T04:20:00Z",
             "owner": "aggarwalankush",
@@ -2822,6 +3237,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75440292,
             "language": "TypeScript",
             "last_commit": "2017-12-11T05:48:18Z",
             "owner": "smartapant",
@@ -2836,6 +3252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308425624,
             "language": "TypeScript",
             "last_commit": "2020-11-20T01:50:11Z",
             "owner": "thenaim",
@@ -2850,6 +3267,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 194088223,
             "language": "TypeScript",
             "last_commit": "2019-10-29T10:22:26Z",
             "owner": "EnappdLLC",
@@ -2864,6 +3282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67054274,
             "language": "TypeScript",
             "last_commit": "2017-03-13T12:48:16Z",
             "owner": "ionic2blueprints",
@@ -2878,6 +3297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67058552,
             "language": "TypeScript",
             "last_commit": "2017-04-03T09:44:09Z",
             "owner": "ionic2blueprints",
@@ -2892,6 +3312,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 102798785,
             "language": "TypeScript",
             "last_commit": "2022-11-16T23:25:45Z",
             "owner": "brenopolanski",
@@ -2906,6 +3327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67058712,
             "language": "TypeScript",
             "last_commit": "2016-09-28T10:24:19Z",
             "owner": "ionic2blueprints",
@@ -2920,6 +3342,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67056376,
             "language": "TypeScript",
             "last_commit": "2023-10-10T20:18:33Z",
             "owner": "ionic2blueprints",
@@ -2934,6 +3357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67057964,
             "language": "TypeScript",
             "last_commit": "2016-08-31T17:21:25Z",
             "owner": "ionic2blueprints",
@@ -2948,6 +3372,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67057858,
             "language": "TypeScript",
             "last_commit": "2023-10-10T20:18:27Z",
             "owner": "ionic2blueprints",
@@ -2962,6 +3387,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 65981611,
             "language": "TypeScript",
             "last_commit": "2018-09-23T18:53:56Z",
             "owner": "rkalis",
@@ -2976,6 +3402,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 192893207,
             "language": "TypeScript",
             "last_commit": "2019-08-26T09:39:10Z",
             "owner": "EnappdLLC",
@@ -2990,6 +3417,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 185805414,
             "language": "TypeScript",
             "last_commit": "2020-07-26T14:21:33Z",
             "owner": "EnappdLLC",
@@ -3004,6 +3432,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67057097,
             "language": "TypeScript",
             "last_commit": "2016-08-31T17:03:17Z",
             "owner": "ionic2blueprints",
@@ -3018,6 +3447,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 187846519,
             "language": "TypeScript",
             "last_commit": "2019-08-26T09:42:53Z",
             "owner": "EnappdLLC",
@@ -3032,6 +3462,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 175263717,
             "language": "TypeScript",
             "last_commit": "2021-06-28T21:12:22Z",
             "owner": "EnappdLLC",
@@ -3046,6 +3477,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 191330906,
             "language": "TypeScript",
             "last_commit": "2019-08-26T09:40:59Z",
             "owner": "EnappdLLC",
@@ -3060,6 +3492,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 187576491,
             "language": "TypeScript",
             "last_commit": "2019-08-26T09:42:16Z",
             "owner": "EnappdLLC",
@@ -3074,6 +3507,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 188954480,
             "language": "TypeScript",
             "last_commit": "2023-02-02T04:14:18Z",
             "owner": "EnappdLLC",
@@ -3083,22 +3517,12 @@
         }
       ],
       "title": "Open Source Projects"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "Capgo — Live updates for capacitor",
-      "items": [],
-      "title": "Author"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:25:02.025Z",
+    "last_updated": "2026-08-19T07:25:35.916Z",
     "original_repository": "Cap-go/awesome-ionic",
-    "original_repository_sha": "c298818ebfcb9bd6ee370b508efcdfec0cdf6bb8",
+    "original_repository_sha": "199ba2489f47442c821ea46b1890e4aa0f0f5d86",
     "enhanced_repository": "enhansome/enhansome-ionic",
     "enhanced_repository_description": null,
     "title": "Awesome Ionic with stars"
