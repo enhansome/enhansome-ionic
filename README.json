@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T04:34:19Z",
+            "last_commit": "2026-08-21T22:11:45Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52621
+            "stars": 52622
           }
         },
         {
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-20T19:16:42Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16364
+            "stars": 16365
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-08-20T15:03:05Z",
             "owner": "riderx",
             "repo": "awesome-capacitor",
-            "stars": 636
+            "stars": 637
           }
         }
       ],
@@ -84,10 +84,10 @@
             "archived": false,
             "id": 420741081,
             "language": "Java",
-            "last_commit": "2026-08-20T17:29:51Z",
+            "last_commit": "2026-08-21T21:04:30Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 829
+            "stars": 830
           }
         },
         {
@@ -99,7 +99,7 @@
             "archived": false,
             "id": 851610840,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T10:55:20Z",
+            "last_commit": "2026-08-22T04:32:34Z",
             "owner": "Cap-go",
             "repo": "capacitor-social-login",
             "stars": 218
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 442321089,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T18:28:43Z",
+            "last_commit": "2026-08-22T07:00:46Z",
             "owner": "Cap-go",
             "repo": "capgo.app",
             "stars": 205
@@ -144,7 +144,7 @@
             "archived": false,
             "id": 131804089,
             "language": "Swift",
-            "last_commit": "2026-08-20T17:09:45Z",
+            "last_commit": "2026-08-21T21:04:23Z",
             "owner": "Cap-go",
             "repo": "capacitor-data-storage-sqlite",
             "stars": 104
@@ -204,7 +204,7 @@
             "archived": false,
             "id": 677494519,
             "language": "Java",
-            "last_commit": "2026-08-20T23:25:33Z",
+            "last_commit": "2026-08-22T04:24:30Z",
             "owner": "Cap-go",
             "repo": "capacitor-native-purchases",
             "stars": 47
@@ -234,7 +234,7 @@
             "archived": false,
             "id": 508654246,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T09:40:08Z",
+            "last_commit": "2026-08-21T21:06:19Z",
             "owner": "Cap-go",
             "repo": "capacitor-nativegeocoder",
             "stars": 41
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-20T09:47:32Z",
             "owner": "Cap-go",
             "repo": "capacitor-native-navigation",
-            "stars": 30
+            "stars": 31
           }
         },
         {
@@ -264,7 +264,7 @@
             "archived": false,
             "id": 1063195756,
             "language": "Kotlin",
-            "last_commit": "2026-08-20T09:46:31Z",
+            "last_commit": "2026-08-21T21:11:04Z",
             "owner": "Cap-go",
             "repo": "capacitor-health",
             "stars": 28
@@ -279,7 +279,7 @@
             "archived": false,
             "id": 611999379,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T17:30:52Z",
+            "last_commit": "2026-08-21T21:05:15Z",
             "owner": "Cap-go",
             "repo": "capacitor-navigation-bar",
             "stars": 28
@@ -294,7 +294,7 @@
             "archived": false,
             "id": 1027630268,
             "language": "Java",
-            "last_commit": "2026-08-20T17:07:54Z",
+            "last_commit": "2026-08-21T21:10:03Z",
             "owner": "Cap-go",
             "repo": "capacitor-background-geolocation",
             "stars": 27
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 427230607,
             "language": "Kotlin",
-            "last_commit": "2026-08-20T11:04:43Z",
+            "last_commit": "2026-08-21T21:07:15Z",
             "owner": "Cap-go",
             "repo": "capacitor-screen-recorder",
             "stars": 27
@@ -339,7 +339,7 @@
             "archived": false,
             "id": 1083985012,
             "language": "Swift",
-            "last_commit": "2026-08-20T11:12:41Z",
+            "last_commit": "2026-08-21T21:00:10Z",
             "owner": "Cap-go",
             "repo": "capacitor-nfc",
             "stars": 25
@@ -354,7 +354,7 @@
             "archived": false,
             "id": 428109916,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T10:03:33Z",
+            "last_commit": "2026-08-21T20:58:14Z",
             "owner": "Cap-go",
             "repo": "capacitor-flash",
             "stars": 24
@@ -369,25 +369,10 @@
             "archived": false,
             "id": 1072619934,
             "language": "Swift",
-            "last_commit": "2026-08-20T17:32:12Z",
+            "last_commit": "2026-08-21T21:11:07Z",
             "owner": "Cap-go",
             "repo": "capacitor-document-scanner",
             "stars": 23
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-shake",
-          "description": "Capacitor Plugin to detect when a physical device performs a shake gesture.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 612020674,
-            "language": "JavaScript",
-            "last_commit": "2026-08-20T10:48:03Z",
-            "owner": "Cap-go",
-            "repo": "capacitor-shake",
-            "stars": 21
           }
         },
         {
@@ -399,9 +384,24 @@
             "archived": false,
             "id": 447801603,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T05:11:09Z",
+            "last_commit": "2026-08-22T05:07:31Z",
             "owner": "Cap-go",
             "repo": "capacitor-plus",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-shake",
+          "description": "Capacitor Plugin to detect when a physical device performs a shake gesture.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 612020674,
+            "language": "JavaScript",
+            "last_commit": "2026-08-21T20:59:10Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-shake",
             "stars": 20
           }
         },
@@ -429,7 +429,7 @@
             "archived": false,
             "id": 1084037950,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T09:46:22Z",
+            "last_commit": "2026-08-21T21:07:13Z",
             "owner": "Cap-go",
             "repo": "capacitor-share-target",
             "stars": 19
@@ -444,7 +444,7 @@
             "archived": false,
             "id": 429967671,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T10:33:22Z",
+            "last_commit": "2026-08-21T21:13:25Z",
             "owner": "Cap-go",
             "repo": "capacitor-crisp",
             "stars": 18
@@ -459,7 +459,7 @@
             "archived": false,
             "id": 1085595162,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T11:08:42Z",
+            "last_commit": "2026-08-21T21:13:39Z",
             "owner": "Cap-go",
             "repo": "capacitor-fast-sql",
             "stars": 18
@@ -489,7 +489,7 @@
             "archived": false,
             "id": 987128884,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T11:03:38Z",
+            "last_commit": "2026-08-21T21:04:30Z",
             "owner": "Cap-go",
             "repo": "capacitor-autofill-save-password",
             "stars": 17
@@ -504,7 +504,7 @@
             "archived": false,
             "id": 517331734,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T09:46:38Z",
+            "last_commit": "2026-08-21T20:57:29Z",
             "owner": "Cap-go",
             "repo": "capacitor-native-market",
             "stars": 16
@@ -519,7 +519,7 @@
             "archived": false,
             "id": 426803627,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T10:21:52Z",
+            "last_commit": "2026-08-21T20:59:08Z",
             "owner": "Cap-go",
             "repo": "capacitor-mute",
             "stars": 15
@@ -579,7 +579,7 @@
             "archived": false,
             "id": 877532922,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T10:01:39Z",
+            "last_commit": "2026-08-21T20:56:28Z",
             "owner": "Cap-go",
             "repo": "capacitor-downloader",
             "stars": 14
@@ -594,7 +594,7 @@
             "archived": false,
             "id": 1073116914,
             "language": "Java",
-            "last_commit": "2026-08-20T17:10:56Z",
+            "last_commit": "2026-08-22T04:44:18Z",
             "owner": "Cap-go",
             "repo": "capacitor-video-player",
             "stars": 14
@@ -609,7 +609,7 @@
             "archived": false,
             "id": 1083754535,
             "language": "Java",
-            "last_commit": "2026-08-20T10:53:15Z",
+            "last_commit": "2026-08-21T21:03:21Z",
             "owner": "Cap-go",
             "repo": "capacitor-wechat",
             "stars": 14
@@ -624,7 +624,7 @@
             "archived": false,
             "id": 1073116309,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T10:30:18Z",
+            "last_commit": "2026-08-21T21:14:31Z",
             "owner": "Cap-go",
             "repo": "capacitor-admob",
             "stars": 13
@@ -654,7 +654,7 @@
             "archived": false,
             "id": 1083768524,
             "language": "Java",
-            "last_commit": "2026-08-20T17:07:58Z",
+            "last_commit": "2026-08-21T21:06:11Z",
             "owner": "Cap-go",
             "repo": "capacitor-ibeacon",
             "stars": 12
@@ -669,7 +669,7 @@
             "archived": false,
             "id": 1072570500,
             "language": "Swift",
-            "last_commit": "2026-08-20T17:31:04Z",
+            "last_commit": "2026-08-21T21:10:05Z",
             "owner": "Cap-go",
             "repo": "capacitor-pay",
             "stars": 12
@@ -684,7 +684,7 @@
             "archived": false,
             "id": 1126812018,
             "language": "Swift",
-            "last_commit": "2026-08-20T10:55:55Z",
+            "last_commit": "2026-08-21T21:00:59Z",
             "owner": "Cap-go",
             "repo": "capacitor-watch",
             "stars": 12
@@ -729,7 +729,7 @@
             "archived": false,
             "id": 1028781015,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T17:28:11Z",
+            "last_commit": "2026-08-21T21:13:25Z",
             "owner": "Cap-go",
             "repo": "capacitor-gtm",
             "stars": 11
@@ -759,7 +759,7 @@
             "archived": false,
             "id": 1084062717,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T10:31:42Z",
+            "last_commit": "2026-08-21T20:57:13Z",
             "owner": "Cap-go",
             "repo": "capacitor-pedometer",
             "stars": 11
@@ -774,7 +774,7 @@
             "archived": false,
             "id": 1036119602,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T09:53:27Z",
+            "last_commit": "2026-08-21T20:57:20Z",
             "owner": "Cap-go",
             "repo": "capacitor-persistent-account",
             "stars": 11
@@ -804,7 +804,7 @@
             "archived": false,
             "id": 1084037762,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T11:06:49Z",
+            "last_commit": "2026-08-21T21:09:04Z",
             "owner": "Cap-go",
             "repo": "capacitor-realtimekit",
             "stars": 11
@@ -819,7 +819,7 @@
             "archived": false,
             "id": 1072614755,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T09:41:48Z",
+            "last_commit": "2026-08-21T20:57:22Z",
             "owner": "Cap-go",
             "repo": "capacitor-sim",
             "stars": 11
@@ -849,7 +849,7 @@
             "archived": false,
             "id": 662211656,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T17:04:08Z",
+            "last_commit": "2026-08-21T21:07:16Z",
             "owner": "Cap-go",
             "repo": "capacitor-home-indicator",
             "stars": 10
@@ -879,7 +879,7 @@
             "archived": false,
             "id": 1073118546,
             "language": "Java",
-            "last_commit": "2026-08-20T17:08:23Z",
+            "last_commit": "2026-08-21T21:09:59Z",
             "owner": "Cap-go",
             "repo": "capacitor-media-session",
             "stars": 10
@@ -909,7 +909,7 @@
             "archived": false,
             "id": 1077290858,
             "language": "Java",
-            "last_commit": "2026-08-20T17:32:38Z",
+            "last_commit": "2026-08-21T21:12:06Z",
             "owner": "Cap-go",
             "repo": "capacitor-pdf-generator",
             "stars": 10
@@ -939,7 +939,7 @@
             "archived": false,
             "id": 1073115500,
             "language": "Swift",
-            "last_commit": "2026-08-20T10:24:21Z",
+            "last_commit": "2026-08-21T20:59:10Z",
             "owner": "Cap-go",
             "repo": "capacitor-youtube-player",
             "stars": 10
@@ -969,7 +969,7 @@
             "archived": false,
             "id": 962336539,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T09:55:52Z",
+            "last_commit": "2026-08-21T21:00:14Z",
             "owner": "Cap-go",
             "repo": "capacitor-android-usagestatsmanager",
             "stars": 9
@@ -984,7 +984,7 @@
             "archived": false,
             "id": 1042072803,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T10:26:24Z",
+            "last_commit": "2026-08-21T20:59:01Z",
             "owner": "Cap-go",
             "repo": "capacitor-audiosession",
             "stars": 9
@@ -1014,7 +1014,7 @@
             "archived": false,
             "id": 881341889,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T11:01:56Z",
+            "last_commit": "2026-08-21T21:07:21Z",
             "owner": "Cap-go",
             "repo": "capacitor-env",
             "stars": 9
@@ -1029,7 +1029,7 @@
             "archived": false,
             "id": 1127841551,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T10:37:01Z",
+            "last_commit": "2026-08-21T21:08:01Z",
             "owner": "Cap-go",
             "repo": "capacitor-intent-launcher",
             "stars": 9
@@ -1044,7 +1044,7 @@
             "archived": false,
             "id": 1062179814,
             "language": "Java",
-            "last_commit": "2026-08-20T09:49:29Z",
+            "last_commit": "2026-08-21T21:04:23Z",
             "owner": "Cap-go",
             "repo": "capacitor-launch-navigator",
             "stars": 9
@@ -1074,7 +1074,7 @@
             "archived": false,
             "id": 1063194762,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T10:21:14Z",
+            "last_commit": "2026-08-21T21:03:28Z",
             "owner": "Cap-go",
             "repo": "capacitor-textinteraction",
             "stars": 9
@@ -1104,7 +1104,7 @@
             "archived": false,
             "id": 1084007040,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T10:12:28Z",
+            "last_commit": "2026-08-21T20:57:12Z",
             "owner": "Cap-go",
             "repo": "capacitor-accelerometer",
             "stars": 8
@@ -1119,7 +1119,7 @@
             "archived": false,
             "id": 1083985964,
             "language": "Java",
-            "last_commit": "2026-08-20T17:16:48Z",
+            "last_commit": "2026-08-21T21:07:06Z",
             "owner": "Cap-go",
             "repo": "capacitor-android-age-signals",
             "stars": 8
@@ -1134,7 +1134,7 @@
             "archived": false,
             "id": 995812640,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T09:55:12Z",
+            "last_commit": "2026-08-21T21:02:27Z",
             "owner": "Cap-go",
             "repo": "capacitor-appinsights",
             "stars": 8
@@ -1209,7 +1209,7 @@
             "archived": false,
             "id": 1093133732,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T10:48:04Z",
+            "last_commit": "2026-08-21T21:00:04Z",
             "owner": "Cap-go",
             "repo": "capacitor-webview-guardian",
             "stars": 8
@@ -1239,7 +1239,7 @@
             "archived": false,
             "id": 1099436522,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T10:01:59Z",
+            "last_commit": "2026-08-21T20:59:20Z",
             "owner": "Cap-go",
             "repo": "capacitor-file-compressor",
             "stars": 7
@@ -1299,7 +1299,7 @@
             "archived": false,
             "id": 1161320493,
             "language": "Java",
-            "last_commit": "2026-08-20T10:04:21Z",
+            "last_commit": "2026-08-21T21:07:13Z",
             "owner": "Cap-go",
             "repo": "capacitor-app-attest",
             "stars": 6
@@ -1404,7 +1404,7 @@
             "archived": false,
             "id": 1238000067,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T09:32:53Z",
+            "last_commit": "2026-08-21T21:12:28Z",
             "owner": "Cap-go",
             "repo": "capacitor-sheets",
             "stars": 6
@@ -1667,6 +1667,21 @@
         },
         {
           "node_type": "item",
+          "title": "capacitor-zebra-datawedge",
+          "description": "Capacitor plugin for Zebra DataWedge profile management, notifications, queries, and soft scanning on Zebra Android devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1191290885,
+            "language": "Java",
+            "last_commit": "2026-08-20T09:39:30Z",
+            "owner": "Cap-go",
+            "repo": "capacitor-zebra-datawedge",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
           "title": "capacitor-age-range",
           "description": "Capacitor plugin age range detection. Google Play Age Signals (Android) + Apple DeclaredAgeRange (iOS).",
           "children": [],
@@ -1892,21 +1907,6 @@
         },
         {
           "node_type": "item",
-          "title": "capacitor-zebra-datawedge",
-          "description": "Capacitor plugin for Zebra DataWedge profile management, notifications, queries, and soft scanning on Zebra Android devices.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1191290885,
-            "language": "Java",
-            "last_commit": "2026-08-20T09:39:30Z",
-            "owner": "Cap-go",
-            "repo": "capacitor-zebra-datawedge",
-            "stars": 3
-          }
-        },
-        {
-          "node_type": "item",
           "title": "capacitor-android-sms-retriever",
           "description": "Capacitor plugin for Android SMS Retriever and Phone Number Hint APIs.",
           "children": [],
@@ -2019,7 +2019,7 @@
             "archived": false,
             "id": 1235848366,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T09:27:40Z",
+            "last_commit": "2026-08-22T04:30:43Z",
             "owner": "Cap-go",
             "repo": "capacitor-recaptcha",
             "stars": 2
@@ -2145,7 +2145,7 @@
             "archived": false,
             "id": 1157860871,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T18:50:11Z",
+            "last_commit": "2026-08-21T22:56:57Z",
             "owner": "AdrienADV",
             "repo": "capstart",
             "stars": 28
@@ -2286,7 +2286,7 @@
             "archived": false,
             "id": 109052620,
             "language": "JavaScript",
-            "last_commit": "2026-08-20T09:44:28Z",
+            "last_commit": "2026-08-21T09:45:21Z",
             "owner": "ionic-team",
             "repo": "starters",
             "stars": 483
@@ -3059,7 +3059,7 @@
                 "last_commit": "2026-03-05T12:38:00Z",
                 "owner": "valor-software",
                 "repo": "ng2-charts",
-                "stars": 2400
+                "stars": 2401
               }
             },
             {
@@ -3164,7 +3164,7 @@
             "archived": false,
             "id": 43385504,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T21:40:14Z",
+            "last_commit": "2026-08-21T17:23:20Z",
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
             "stars": 3593
@@ -3520,7 +3520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:29:40.257Z",
+    "last_updated": "2026-08-22T07:19:27.385Z",
     "original_repository": "Cap-go/awesome-ionic",
     "original_repository_id": 53809858,
     "original_repository_sha": "199ba2489f47442c821ea46b1890e4aa0f0f5d86",
