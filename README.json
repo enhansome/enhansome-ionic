@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T22:11:45Z",
+            "last_commit": "2026-08-24T03:12:14Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52624
+            "stars": 52628
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 46805578,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T21:55:28Z",
+            "last_commit": "2026-08-24T06:09:00Z",
             "owner": "danielsogl",
             "repo": "awesome-cordova-plugins",
             "stars": 2454
@@ -51,7 +51,7 @@
             "last_commit": "2026-08-20T19:16:42Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16370
+            "stars": 16375
           }
         },
         {
@@ -84,7 +84,7 @@
             "archived": false,
             "id": 420741081,
             "language": "Java",
-            "last_commit": "2026-08-21T21:04:30Z",
+            "last_commit": "2026-08-23T17:10:12Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 833
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 442321089,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T16:44:44Z",
+            "last_commit": "2026-08-24T06:26:18Z",
             "owner": "Cap-go",
             "repo": "capgo.app",
             "stars": 205
@@ -384,7 +384,7 @@
             "archived": false,
             "id": 447801603,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T05:09:05Z",
+            "last_commit": "2026-08-24T05:15:26Z",
             "owner": "Cap-go",
             "repo": "capacitor-plus",
             "stars": 20
@@ -414,7 +414,7 @@
             "archived": false,
             "id": 1126922830,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T15:47:57Z",
+            "last_commit": "2026-08-23T23:47:08Z",
             "owner": "Cap-go",
             "repo": "capacitor-transitions",
             "stars": 20
@@ -2145,10 +2145,10 @@
             "archived": false,
             "id": 1157860871,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T00:51:39Z",
+            "last_commit": "2026-08-24T06:51:02Z",
             "owner": "AdrienADV",
             "repo": "capstart",
-            "stars": 28
+            "stars": 29
           }
         },
         {
@@ -2286,7 +2286,7 @@
             "archived": false,
             "id": 109052620,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T09:40:36Z",
+            "last_commit": "2026-08-23T09:40:50Z",
             "owner": "ionic-team",
             "repo": "starters",
             "stars": 483
@@ -3520,7 +3520,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:20:59.484Z",
+    "last_updated": "2026-08-24T07:45:03.304Z",
     "original_repository": "Cap-go/awesome-ionic",
     "original_repository_id": 53809858,
     "original_repository_sha": "199ba2489f47442c821ea46b1890e4aa0f0f5d86",
