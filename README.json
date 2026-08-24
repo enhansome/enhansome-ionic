@@ -51,7 +51,7 @@
             "last_commit": "2026-08-20T19:16:42Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16375
+            "stars": 16380
           }
         },
         {
@@ -84,7 +84,7 @@
             "archived": false,
             "id": 420741081,
             "language": "Java",
-            "last_commit": "2026-08-23T17:10:12Z",
+            "last_commit": "2026-08-24T14:03:04Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 833
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 442321089,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T06:26:18Z",
+            "last_commit": "2026-08-24T14:17:19Z",
             "owner": "Cap-go",
             "repo": "capgo.app",
             "stars": 205
@@ -204,7 +204,7 @@
             "archived": false,
             "id": 677494519,
             "language": "Java",
-            "last_commit": "2026-08-22T04:24:30Z",
+            "last_commit": "2026-08-24T13:26:05Z",
             "owner": "Cap-go",
             "repo": "capacitor-native-purchases",
             "stars": 47
@@ -594,7 +594,7 @@
             "archived": false,
             "id": 1073116914,
             "language": "Java",
-            "last_commit": "2026-08-22T04:44:18Z",
+            "last_commit": "2026-08-24T14:16:54Z",
             "owner": "Cap-go",
             "repo": "capacitor-video-player",
             "stars": 14
@@ -2138,6 +2138,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Stripe Payment Integration in Ionic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 186225124,
+            "language": "TypeScript",
+            "last_commit": "2019-08-26T09:24:25Z",
+            "owner": "EnappdLLC",
+            "repo": "ionic4-stripe",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Payment Gateway Integrations"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "attranslate",
+          "description": "Semi-automated translation of JSON and other resource files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 295669524,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:22:13Z",
+            "owner": "fkirc",
+            "repo": "attranslate",
+            "stars": 358
+          }
+        }
+      ],
+      "title": "i18n & l10n"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Capstart",
           "description": "CLI and starter toolkit for creating Capacitor apps with React, Supabase, and shadcn/ui, or adding Capacitor to existing web framework projects.",
           "children": [],
@@ -2286,7 +2328,7 @@
             "archived": false,
             "id": 109052620,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T09:40:50Z",
+            "last_commit": "2026-08-24T09:47:08Z",
             "owner": "ionic-team",
             "repo": "starters",
             "stars": 483
@@ -2467,6 +2509,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Capacitor Tailwind",
+              "description": "A Tailwind CSS plugin for Capacitor.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 823195645,
+                "language": "JavaScript",
+                "last_commit": "2026-08-17T07:54:44Z",
+                "owner": "Cap-go",
+                "repo": "tailwind-capacitor",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Lottie Animation",
               "description": null,
               "children": [],
@@ -2499,6 +2563,28 @@
           "description": null,
           "node_type": "group",
           "title": "Animations"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Ionic 4 UI Component Library",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 144169125,
+                "language": "TypeScript",
+                "last_commit": "2021-05-27T20:39:33Z",
+                "owner": "fivethree-team",
+                "repo": "ionic-4-components",
+                "stars": 223
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "UI Library"
         },
         {
           "children": [
@@ -3148,6 +3234,72 @@
           "description": null,
           "node_type": "group",
           "title": "Video/Audio"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Digit Keyboard",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81668625,
+                "language": "TypeScript",
+                "last_commit": "2026-06-16T00:46:19Z",
+                "owner": "skol-pro",
+                "repo": "ion-digit-keyboard-v2",
+                "stars": 92
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Keyboards"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Dialogbox with Counter",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82540132,
+                "language": "CSS",
+                "last_commit": "2017-03-02T09:38:28Z",
+                "owner": "hsuanxyz",
+                "repo": "ionic2-extend-alert",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dialog"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ng Lightning (for Salesforce Apps)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52876196,
+                "language": "TypeScript",
+                "last_commit": "2024-07-03T18:59:06Z",
+                "owner": "ng-lightning",
+                "repo": "ng-lightning",
+                "stars": 914
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frames"
         }
       ],
       "title": "Components"
@@ -3164,7 +3316,7 @@
             "archived": false,
             "id": 43385504,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:23:20Z",
+            "last_commit": "2026-08-24T14:03:57Z",
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
             "stars": 3593
@@ -3520,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:45:03.304Z",
+    "last_updated": "2026-08-24T14:17:21.006Z",
     "original_repository": "Cap-go/awesome-ionic",
     "original_repository_id": 53809858,
     "original_repository_sha": "199ba2489f47442c821ea46b1890e4aa0f0f5d86",
