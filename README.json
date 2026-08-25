@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T03:12:14Z",
+            "last_commit": "2026-08-24T20:30:43Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52628
+            "stars": 52632
           }
         },
         {
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 111241370,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T19:16:42Z",
+            "last_commit": "2026-08-24T23:45:24Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16380
+            "stars": 16383
           }
         },
         {
@@ -84,7 +84,7 @@
             "archived": false,
             "id": 420741081,
             "language": "Java",
-            "last_commit": "2026-08-24T14:03:04Z",
+            "last_commit": "2026-08-25T01:25:49Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 833
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 442321089,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:17:19Z",
+            "last_commit": "2026-08-25T01:57:37Z",
             "owner": "Cap-go",
             "repo": "capgo.app",
             "stars": 205
@@ -129,7 +129,7 @@
             "archived": false,
             "id": 515302020,
             "language": "Java",
-            "last_commit": "2026-08-20T09:39:04Z",
+            "last_commit": "2026-08-25T01:15:15Z",
             "owner": "Cap-go",
             "repo": "capacitor-inappbrowser",
             "stars": 131
@@ -384,7 +384,7 @@
             "archived": false,
             "id": 447801603,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T05:15:26Z",
+            "last_commit": "2026-08-25T06:06:32Z",
             "owner": "Cap-go",
             "repo": "capacitor-plus",
             "stars": 20
@@ -594,7 +594,7 @@
             "archived": false,
             "id": 1073116914,
             "language": "Java",
-            "last_commit": "2026-08-24T14:16:54Z",
+            "last_commit": "2026-08-25T01:14:31Z",
             "owner": "Cap-go",
             "repo": "capacitor-video-player",
             "stars": 14
@@ -3316,7 +3316,7 @@
             "archived": false,
             "id": 43385504,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:03:57Z",
+            "last_commit": "2026-08-24T18:17:07Z",
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
             "stars": 3593
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:17:21.006Z",
+    "last_updated": "2026-08-25T06:09:14.964Z",
     "original_repository": "Cap-go/awesome-ionic",
     "original_repository_id": 53809858,
     "original_repository_sha": "199ba2489f47442c821ea46b1890e4aa0f0f5d86",
