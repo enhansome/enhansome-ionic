@@ -84,7 +84,7 @@
             "archived": false,
             "id": 420741081,
             "language": "Java",
-            "last_commit": "2026-08-25T01:25:49Z",
+            "last_commit": "2026-08-25T07:17:24Z",
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 833
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 442321089,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T01:57:37Z",
+            "last_commit": "2026-08-25T07:18:09Z",
             "owner": "Cap-go",
             "repo": "capgo.app",
             "stars": 205
@@ -309,7 +309,7 @@
             "archived": false,
             "id": 427230607,
             "language": "Kotlin",
-            "last_commit": "2026-08-21T21:07:15Z",
+            "last_commit": "2026-08-25T06:48:49Z",
             "owner": "Cap-go",
             "repo": "capacitor-screen-recorder",
             "stars": 27
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:09:14.964Z",
+    "last_updated": "2026-08-25T07:31:12.856Z",
     "original_repository": "Cap-go/awesome-ionic",
     "original_repository_id": 53809858,
     "original_repository_sha": "199ba2489f47442c821ea46b1890e4aa0f0f5d86",

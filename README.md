@@ -219,7 +219,7 @@ Ionic apps can use Capacitor as a native runtime.
 
 * [capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 833 | 🐛 6 | 🌐 Java | 📅 2026-08-25 - Capacitor plugin for Instant updates: Ship updates, fixes, changes, and features within minutes.
 * [capacitor-social-login](https://github.com/Cap-go/capacitor-social-login) ⭐ 218 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-22 - Capacitor plugin to make login with Google,Apple,Facebook and so on, simple and fast to implement.
-* [capacitor-notifications](https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications) ⭐ 205 | 🐛 44 | 🌐 TypeScript | 📅 2026-08-25 - Send native iOS and Android push notifications with user lookup, badges, and stats.
+* [capacitor-notifications](https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications) ⭐ 205 | 🐛 47 | 🌐 TypeScript | 📅 2026-08-25 - Send native iOS and Android push notifications with user lookup, badges, and stats.
 * [capacitor-inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 131 | 🐛 0 | 🌐 Java | 📅 2026-08-25 - Capacitor plugin in app browser with urlChangeEvent.
 * [capacitor-data-storage-sqlite](https://github.com/Cap-go/capacitor-data-storage-sqlite) ⭐ 104 | 🐛 7 | 🌐 Swift | 📅 2026-08-21 - Capacitor Plugin for Data Storage SQLite for iOS and Android.
 * [capacitor-native-biometric](https://github.com/Cap-go/capacitor-native-biometric) ⭐ 82 | 🐛 0 | 🌐 Java | 📅 2026-08-20 - Secure biometric authentication for Capacitor with Face ID, Touch ID, and Android biometrics.
@@ -232,7 +232,7 @@ Ionic apps can use Capacitor as a native runtime.
 * [capacitor-health](https://github.com/Cap-go/capacitor-health) ⭐ 28 | 🐛 5 | 🌐 Kotlin | 📅 2026-08-21 - Capacitor plugin to interact with data from Apple HealthKit and Google Fit.
 * [capacitor-navigation-bar](https://github.com/Cap-go/capacitor-navigation-bar) ⭐ 28 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-21 - Capacitor plugin to set the navigation bar color for Android Lollipop and higher.
 * [capacitor-background-geolocation](https://github.com/Cap-go/capacitor-background-geolocation) ⭐ 27 | 🐛 5 | 🌐 Java | 📅 2026-08-21 - Capacitor plugin that sends you accurate geolocation updates, even while the app is in the background.
-* [capacitor-screen-recorder](https://github.com/Cap-go/capacitor-screen-recorder) ⭐ 27 | 🐛 12 | 🌐 Kotlin | 📅 2026-08-21 - Capacitor plugin to record the screen of the phone in native.
+* [capacitor-screen-recorder](https://github.com/Cap-go/capacitor-screen-recorder) ⭐ 27 | 🐛 13 | 🌐 Kotlin | 📅 2026-08-25 - Capacitor plugin to record the screen of the phone in native.
 * [capacitor-uploader](https://github.com/Cap-go/capacitor-uploader) ⭐ 27 | 🐛 0 | 🌐 Java | 📅 2026-08-20 - Capacitor plugin to upload file in native layer.
 * [capacitor-nfc](https://github.com/Cap-go/capacitor-nfc) ⭐ 25 | 🐛 6 | 🌐 Swift | 📅 2026-08-21 - Capacitor plugin allows you to read and write NFC tags. You can also beam to, and receive from, other NFC enabled devices.
 * [capacitor-flash](https://github.com/Cap-go/capacitor-flash) ⭐ 24 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-21 - Capacitor plugin to switch the Flashlight / Torch of your device.
