@@ -12,10 +12,10 @@
             "archived": false,
             "id": 12256376,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T00:55:36Z",
+            "last_commit": "2026-08-27T16:40:00Z",
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52632
+            "stars": 52633
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-08-24T06:09:00Z",
             "owner": "danielsogl",
             "repo": "awesome-cordova-plugins",
-            "stars": 2454
+            "stars": 2452
           }
         }
       ],
@@ -48,10 +48,10 @@
             "archived": false,
             "id": 111241370,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T09:24:20Z",
+            "last_commit": "2026-08-27T13:31:41Z",
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16397
+            "stars": 16399
           }
         },
         {
@@ -99,7 +99,7 @@
             "archived": false,
             "id": 851610840,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:46:44Z",
+            "last_commit": "2026-08-27T17:16:12Z",
             "owner": "Cap-go",
             "repo": "capacitor-social-login",
             "stars": 218
@@ -114,7 +114,7 @@
             "archived": false,
             "id": 442321089,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:42:35Z",
+            "last_commit": "2026-08-27T17:11:18Z",
             "owner": "Cap-go",
             "repo": "capgo.app",
             "stars": 205
@@ -129,7 +129,7 @@
             "archived": false,
             "id": 515302020,
             "language": "Java",
-            "last_commit": "2026-08-27T09:06:45Z",
+            "last_commit": "2026-08-27T17:13:38Z",
             "owner": "Cap-go",
             "repo": "capacitor-inappbrowser",
             "stars": 131
@@ -159,7 +159,7 @@
             "archived": false,
             "id": 644150478,
             "language": "Java",
-            "last_commit": "2026-08-27T11:13:52Z",
+            "last_commit": "2026-08-27T12:20:37Z",
             "owner": "Cap-go",
             "repo": "capacitor-native-biometric",
             "stars": 82
@@ -204,7 +204,7 @@
             "archived": false,
             "id": 677494519,
             "language": "Java",
-            "last_commit": "2026-08-27T10:52:25Z",
+            "last_commit": "2026-08-27T12:20:20Z",
             "owner": "Cap-go",
             "repo": "capacitor-native-purchases",
             "stars": 47
@@ -473,8 +473,8 @@
           "repo_info": {
             "archived": false,
             "id": 1092625661,
-            "language": "Java",
-            "last_commit": "2026-08-27T11:30:15Z",
+            "language": "Swift",
+            "last_commit": "2026-08-27T14:13:46Z",
             "owner": "Cap-go",
             "repo": "capacitor-speech-recognition",
             "stars": 18
@@ -2187,7 +2187,7 @@
             "archived": false,
             "id": 1157860871,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T12:58:17Z",
+            "last_commit": "2026-08-27T14:54:08Z",
             "owner": "AdrienADV",
             "repo": "capstart",
             "stars": 29
@@ -2328,7 +2328,7 @@
             "archived": false,
             "id": 109052620,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T09:46:27Z",
+            "last_commit": "2026-08-27T13:01:31Z",
             "owner": "ionic-team",
             "repo": "starters",
             "stars": 483
@@ -2709,7 +2709,7 @@
                 "archived": false,
                 "id": 120589481,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T15:38:20Z",
+                "last_commit": "2026-08-27T15:02:05Z",
                 "owner": "eakoriakin",
                 "repo": "ionic-selectable",
                 "stars": 553
@@ -3672,7 +3672,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:47:39.920Z",
+    "last_updated": "2026-08-27T17:54:32.882Z",
     "original_repository_info": {
       "archived": false,
       "id": 53809858,
