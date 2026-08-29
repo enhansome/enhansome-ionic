@@ -68,7 +68,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Official Resources
 
-* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,632 | 🐛 591 | 🌐 TypeScript | 📅 2026-08-28
+* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,632 | 🐛 592 | 🌐 TypeScript | 📅 2026-08-28
 * [Ionic Native](https://github.com/driftyco/ionic-native/) ⭐ 2,452 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-24
 * [Site](http://ionicframework.com/)
 * [Blog](http://blog.ionic.io/)
@@ -83,7 +83,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 Ionic apps can use Capacitor as a native runtime.
 
-* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,410 | 🐛 123 | 🌐 TypeScript | 📅 2026-08-28 - Core runtime source.
+* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,411 | 🐛 123 | 🌐 TypeScript | 📅 2026-08-28 - Core runtime source.
 * [Awesome Capacitor](https://github.com/riderx/awesome-capacitor) ⭐ 637 | 🐛 1 | 🌐 HTML | 📅 2026-08-20 - Curated Capacitor plugins, tools, and guides.
 * [Website](https://capacitorjs.com/) - Project homepage.
 * [Documentation](https://capacitorjs.com/docs) - Official docs.
@@ -217,7 +217,7 @@ Ionic apps can use Capacitor as a native runtime.
 
 ## Capgo Capacitor Plugins
 
-* [capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 833 | 🐛 8 | 🌐 Java | 📅 2026-08-26 - Capacitor plugin for Instant updates: Ship updates, fixes, changes, and features within minutes.
+* [capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 834 | 🐛 8 | 🌐 Java | 📅 2026-08-26 - Capacitor plugin for Instant updates: Ship updates, fixes, changes, and features within minutes.
 * [capacitor-social-login](https://github.com/Cap-go/capacitor-social-login) ⭐ 218 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-28 - Capacitor plugin to make login with Google,Apple,Facebook and so on, simple and fast to implement.
 * [capacitor-notifications](https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications) ⭐ 205 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-28 - Send native iOS and Android push notifications with user lookup, badges, and stats.
 * [capacitor-inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 131 | 🐛 1 | 🌐 Java | 📅 2026-08-27 - Capacitor plugin in app browser with urlChangeEvent.
@@ -276,7 +276,7 @@ Ionic apps can use Capacitor as a native runtime.
 * [capacitor-twilio-voice](https://github.com/Cap-go/capacitor-twilio-voice) ⭐ 10 | 🐛 8 | 🌐 Java | 📅 2026-08-20 - Capacitor plugin to create and answer calls with Twilio Voice SDK.
 * [capacitor-youtube-player](https://github.com/Cap-go/capacitor-youtube-player) ⭐ 10 | 🐛 7 | 🌐 Swift | 📅 2026-08-27 - Capacitor plugin player to embed YouTube player controls in Capacitor apps.
 * [capacitor-android-inline-install](https://github.com/Cap-go/capacitor-android-inline-install) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-20 - Capacitor plugin to trigger Android inline install feature.
-* [capacitor-android-usagestatsmanager](https://github.com/Cap-go/capacitor-android-usagestatsmanager) ⭐ 9 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-27 - Capacitor plugin to get Android app usage stats natively.
+* [capacitor-android-usagestatsmanager](https://github.com/Cap-go/capacitor-android-usagestatsmanager) ⭐ 9 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-28 - Capacitor plugin to get Android app usage stats natively.
 * [capacitor-audiosession](https://github.com/Cap-go/capacitor-audiosession) ⭐ 9 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-27 - Capacitor plugin to manage audio session.
 * [capacitor-bluetooth-low-energy](https://github.com/Cap-go/capacitor-bluetooth-low-energy) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-20 - Capacitor plugin Bluetooth Low Energy.
 * [capacitor-env](https://github.com/Cap-go/capacitor-env) ⭐ 9 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-27 - Capacitor plugin to store and read env var in capacitor config, helpful for multitenant app.
@@ -632,4 +632,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
