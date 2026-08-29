@@ -19,7 +19,7 @@
             "open_issues": 592,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52632,
+            "stars": 52634,
             "topics": [
               "angular",
               "capacitor",
@@ -92,7 +92,7 @@
             "open_issues": 123,
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16411,
+            "stars": 16413,
             "topics": [
               "android",
               "capacitor",
@@ -240,7 +240,7 @@
             "open_issues": 1,
             "owner": "Cap-go",
             "repo": "capacitor-inappbrowser",
-            "stars": 131,
+            "stars": 132,
             "topics": [
               "browser",
               "capacitor",
@@ -653,8 +653,8 @@
             "id": 447801603,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T09:02:28Z",
-            "open_issues": 16,
+            "last_commit": "2026-08-29T05:07:38Z",
+            "open_issues": 17,
             "owner": "Cap-go",
             "repo": "capacitor-plus",
             "stars": 20,
@@ -2400,6 +2400,30 @@
         },
         {
           "node_type": "item",
+          "title": "capacitor-mqtt",
+          "description": "Capacitor plugin for MQTT connectivity on Android and iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Capacitor plugin for MQTT connectivity on Android and iOS",
+            "homepage": "https://capgo.app/docs/plugins/mqtt/",
+            "id": 1168650701,
+            "language": "Swift",
+            "license": "MPL-2.0",
+            "last_commit": "2026-08-20T09:54:19Z",
+            "open_issues": 0,
+            "owner": "Cap-go",
+            "repo": "capacitor-mqtt",
+            "stars": 5,
+            "topics": [
+              "capacitor",
+              "capacitor-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
           "title": "capacitor-pretty-toast",
           "description": "Native-first pretty toast notifications for Capacitor and the web.",
           "children": [],
@@ -2587,30 +2611,6 @@
             "repo": "capacitor-install-referrer",
             "stars": 4,
             "topics": []
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-mqtt",
-          "description": "Capacitor plugin for MQTT connectivity on Android and iOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Capacitor plugin for MQTT connectivity on Android and iOS",
-            "homepage": "https://capgo.app/docs/plugins/mqtt/",
-            "id": 1168650701,
-            "language": "Swift",
-            "license": "MPL-2.0",
-            "last_commit": "2026-08-20T09:54:19Z",
-            "open_issues": 0,
-            "owner": "Cap-go",
-            "repo": "capacitor-mqtt",
-            "stars": 4,
-            "topics": [
-              "capacitor",
-              "capacitor-plugin"
-            ]
           },
           "first_seen": "2026-08-28T19:01:11.379Z"
         },
@@ -3614,7 +3614,7 @@
             "id": 109052620,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T13:23:48Z",
+            "last_commit": "2026-08-29T09:34:25Z",
             "open_issues": 15,
             "owner": "ionic-team",
             "repo": "starters",
@@ -4844,7 +4844,7 @@
                 "open_issues": 28,
                 "owner": "nikini",
                 "repo": "ionic-gallery-modal",
-                "stars": 164,
+                "stars": 163,
                 "topics": [
                   "gallery",
                   "ionic2",
@@ -5763,7 +5763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:41:34.106Z",
+    "last_updated": "2026-08-29T12:50:12.507Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Ionic resources. Made by Capgo",
