@@ -19,7 +19,7 @@
             "open_issues": 592,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52634,
+            "stars": 52635,
             "topics": [
               "angular",
               "capacitor",
@@ -59,7 +59,7 @@
             "open_issues": 2,
             "owner": "danielsogl",
             "repo": "awesome-cordova-plugins",
-            "stars": 2452,
+            "stars": 2453,
             "topics": [
               "angular",
               "cordova",
@@ -92,7 +92,7 @@
             "open_issues": 123,
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16413,
+            "stars": 16430,
             "topics": [
               "android",
               "capacitor",
@@ -159,7 +159,7 @@
             "open_issues": 8,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
-            "stars": 834,
+            "stars": 835,
             "topics": [
               "android",
               "capacitor",
@@ -210,8 +210,8 @@
             "id": 442321089,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-28T14:09:42Z",
-            "open_issues": 36,
+            "last_commit": "2026-08-30T11:48:03Z",
+            "open_issues": 37,
             "owner": "Cap-go",
             "repo": "capgo.app",
             "stars": 205,
@@ -290,7 +290,7 @@
             "open_issues": 2,
             "owner": "Cap-go",
             "repo": "capacitor-native-biometric",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "capacitor",
               "capacitor-plugin",
@@ -462,7 +462,7 @@
             "language": "Kotlin",
             "license": "MPL-2.0",
             "last_commit": "2026-08-27T04:04:21Z",
-            "open_issues": 5,
+            "open_issues": 7,
             "owner": "Cap-go",
             "repo": "capacitor-health",
             "stars": 28,
@@ -653,8 +653,8 @@
             "id": 447801603,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T05:07:38Z",
-            "open_issues": 17,
+            "last_commit": "2026-08-30T05:08:10Z",
+            "open_issues": 18,
             "owner": "Cap-go",
             "repo": "capacitor-plus",
             "stars": 20,
@@ -699,7 +699,7 @@
             "id": 1126922830,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T18:53:30Z",
+            "last_commit": "2026-08-29T15:29:19Z",
             "open_issues": 8,
             "owner": "Cap-go",
             "repo": "capacitor-transitions",
@@ -3614,7 +3614,7 @@
             "id": 109052620,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T09:34:25Z",
+            "last_commit": "2026-08-30T09:34:21Z",
             "open_issues": 15,
             "owner": "ionic-team",
             "repo": "starters",
@@ -5205,7 +5205,7 @@
             "open_issues": 9,
             "owner": "ionic-team",
             "repo": "ionic-conference-app",
-            "stars": 3593,
+            "stars": 3594,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:11.379Z"
@@ -5763,7 +5763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:50:12.507Z",
+    "last_updated": "2026-08-30T12:15:26.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Ionic resources. Made by Capgo",
