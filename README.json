@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-09-04T21:00:14Z",
-            "open_issues": 588,
+            "open_issues": 591,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52645,
+            "stars": 52644,
             "topics": [
               "angular",
               "capacitor",
@@ -59,7 +59,7 @@
             "open_issues": 4,
             "owner": "danielsogl",
             "repo": "awesome-cordova-plugins",
-            "stars": 2453,
+            "stars": 2452,
             "topics": [
               "angular",
               "cordova",
@@ -92,7 +92,7 @@
             "open_issues": 125,
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16577,
+            "stars": 16587,
             "topics": [
               "android",
               "capacitor",
@@ -210,8 +210,8 @@
             "id": 442321089,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-04T16:59:56Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-05T22:08:16Z",
+            "open_issues": 30,
             "owner": "Cap-go",
             "repo": "capgo.app",
             "stars": 205,
@@ -597,6 +597,27 @@
         },
         {
           "node_type": "item",
+          "title": "capacitor-document-scanner",
+          "description": "Capacitor plugin to scan document iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Capacitor plugin to scan document iOS and Android",
+            "homepage": "https://capgo.app/docs/plugins/document-scanner/",
+            "id": 1072619934,
+            "language": "Swift",
+            "license": "MPL-2.0",
+            "last_commit": "2026-09-04T19:55:26Z",
+            "open_issues": 7,
+            "owner": "Cap-go",
+            "repo": "capacitor-document-scanner",
+            "stars": 24,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
           "title": "capacitor-flash",
           "description": "Capacitor plugin to switch the Flashlight / Torch of your device.",
           "children": [],
@@ -622,27 +643,6 @@
         },
         {
           "node_type": "item",
-          "title": "capacitor-document-scanner",
-          "description": "Capacitor plugin to scan document iOS and Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Capacitor plugin to scan document iOS and Android",
-            "homepage": "https://capgo.app/docs/plugins/document-scanner/",
-            "id": 1072619934,
-            "language": "Swift",
-            "license": "MPL-2.0",
-            "last_commit": "2026-09-04T19:55:26Z",
-            "open_issues": 7,
-            "owner": "Cap-go",
-            "repo": "capacitor-document-scanner",
-            "stars": 23,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
           "title": "capacitor-plus",
           "description": "Capacitor+ is an always-synced Capacitor fork with community fixes and faster releases.",
           "children": [],
@@ -653,8 +653,8 @@
             "id": 447801603,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-05T05:08:03Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-06T05:08:05Z",
+            "open_issues": 25,
             "owner": "Cap-go",
             "repo": "capacitor-plus",
             "stars": 20,
@@ -1226,7 +1226,7 @@
             "id": 647532345,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-09-03T08:05:44Z",
+            "last_commit": "2026-09-06T03:52:50Z",
             "open_issues": 5,
             "owner": "Cap-go",
             "repo": "capacitor-ivs-player",
@@ -4384,7 +4384,7 @@
                 "open_issues": 331,
                 "owner": "text-mask",
                 "repo": "text-mask",
-                "stars": 8212,
+                "stars": 8211,
                 "topics": [
                   "angular",
                   "ember",
@@ -5763,7 +5763,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T10:56:29.936Z",
+    "last_updated": "2026-09-06T11:22:12.967Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Ionic resources. Made by Capgo",
