@@ -68,7 +68,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Official Resources
 
-* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,685 | 🐛 575 | 🌐 TypeScript | 📅 2026-10-02
+* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,686 | 🐛 575 | 🌐 TypeScript | 📅 2026-10-02
 * [Ionic Native](https://github.com/driftyco/ionic-native/) ⭐ 2,451 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-01
 * [Site](http://ionicframework.com/)
 * [Blog](http://blog.ionic.io/)
@@ -83,7 +83,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 Ionic apps can use Capacitor as a native runtime.
 
-* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,770 | 🐛 141 | 🌐 TypeScript | 📅 2026-10-02 - Core runtime source.
+* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,772 | 🐛 141 | 🌐 TypeScript | 📅 2026-10-02 - Core runtime source.
 * [Awesome Capacitor](https://github.com/riderx/awesome-capacitor) ⭐ 637 | 🐛 4 | 🌐 HTML | 📅 2026-09-15 - Curated Capacitor plugins, tools, and guides.
 * [Website](https://capacitorjs.com/) - Project homepage.
 * [Documentation](https://capacitorjs.com/docs) - Official docs.
@@ -219,7 +219,7 @@ Ionic apps can use Capacitor as a native runtime.
 
 * [capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 864 | 🐛 5 | 🌐 Java | 📅 2026-10-02 - Capacitor plugin for Instant updates: Ship updates, fixes, changes, and features within minutes.
 * [capacitor-social-login](https://github.com/Cap-go/capacitor-social-login) ⭐ 220 | 🐛 3 | 🌐 TypeScript | 📅 2026-10-01 - Capacitor plugin to make login with Google,Apple,Facebook and so on, simple and fast to implement.
-* [capacitor-notifications](https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications) ⭐ 209 | 🐛 70 | 🌐 TypeScript | 📅 2026-10-03 - Send native iOS and Android push notifications with user lookup, badges, and stats.
+* [capacitor-notifications](https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications) ⭐ 209 | 🐛 71 | 🌐 TypeScript | 📅 2026-10-03 - Send native iOS and Android push notifications with user lookup, badges, and stats.
 * [capacitor-inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 134 | 🐛 11 | 🌐 Java | 📅 2026-10-02 - Capacitor plugin in app browser with urlChangeEvent.
 * [capacitor-data-storage-sqlite](https://github.com/Cap-go/capacitor-data-storage-sqlite) ⭐ 106 | 🐛 7 | 🌐 Swift | 📅 2026-10-01 - Capacitor Plugin for Data Storage SQLite for iOS and Android.
 * [capacitor-native-biometric](https://github.com/Cap-go/capacitor-native-biometric) ⭐ 87 | 🐛 3 | 🌐 Java | 📅 2026-09-27 - Secure biometric authentication for Capacitor with Face ID, Touch ID, and Android biometrics.
@@ -238,7 +238,7 @@ Ionic apps can use Capacitor as a native runtime.
 * [capacitor-document-scanner](https://github.com/Cap-go/capacitor-document-scanner) ⭐ 25 | 🐛 7 | 🌐 Swift | 📅 2026-10-01 - Capacitor plugin to scan document iOS and Android.
 * [capacitor-flash](https://github.com/Cap-go/capacitor-flash) ⭐ 25 | 🐛 6 | 🌐 JavaScript | 📅 2026-09-24 - Capacitor plugin to switch the Flashlight / Torch of your device.
 * [capacitor-transitions](https://github.com/Cap-go/capacitor-transitions) ⭐ 24 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-02 - Framework-agnostic page transitions for Capacitor apps. iOS-style navigation without opinions.
-* [capacitor-plus](https://github.com/Cap-go/capacitor-plus) ⭐ 22 | 🐛 66 | 🌐 TypeScript | 📅 2026-10-02 - Capacitor+ is an always-synced Capacitor fork with community fixes and faster releases.
+* [capacitor-plus](https://github.com/Cap-go/capacitor-plus) ⭐ 22 | 🐛 67 | 🌐 TypeScript | 📅 2026-10-03 - Capacitor+ is an always-synced Capacitor fork with community fixes and faster releases.
 * [capacitor-shake](https://github.com/Cap-go/capacitor-shake) ⭐ 21 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-01 - Capacitor Plugin to detect when a physical device performs a shake gesture.
 * [capacitor-share-target](https://github.com/Cap-go/capacitor-share-target) ⭐ 20 | 🐛 7 | 🌐 JavaScript | 📅 2026-09-24 - Capacitor plugin to receive share target intent in app.
 * [capacitor-autofill-save-password](https://github.com/Cap-go/capacitor-autofill-save-password) ⭐ 19 | 🐛 1 | 🌐 JavaScript | 📅 2026-09-24 - Capacitor plugin to prompt to display dialog for saving password to keychain for iOS webview app.
@@ -431,7 +431,7 @@ Tutorials that cover the path from an existing web app to a published mobile app
 
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ⭐ 1,664 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27
 
-* [Ionic Official Starter Templates](https://github.com/ionic-team/starters) ⭐ 483 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-02
+* [Ionic Official Starter Templates](https://github.com/ionic-team/starters) ⭐ 483 | 🐛 19 | 🌐 JavaScript | 📅 2026-10-03
 
 * [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ⚠️ Archived
 
