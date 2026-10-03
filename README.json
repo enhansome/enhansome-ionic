@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "GitHub Repo",
-          "description": null,
+          "description": "ionic-team/ionic-framework",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -15,11 +15,11 @@
             "id": 12256376,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T01:00:42Z",
+            "last_commit": "2026-10-02T22:56:52Z",
             "open_issues": 575,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52688,
+            "stars": 52685,
             "topics": [
               "angular",
               "capacitor",
@@ -46,7 +46,7 @@
         {
           "node_type": "item",
           "title": "Ionic Native",
-          "description": null,
+          "description": "danielsogl/awesome-cordova-plugins",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -88,11 +88,11 @@
             "id": 111241370,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T22:32:48Z",
+            "last_commit": "2026-10-02T18:01:15Z",
             "open_issues": 141,
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16768,
+            "stars": 16770,
             "topics": [
               "android",
               "capacitor",
@@ -126,7 +126,7 @@
             "open_issues": 4,
             "owner": "riderx",
             "repo": "awesome-capacitor",
-            "stars": 639,
+            "stars": 637,
             "topics": [
               "awesome",
               "awesome-list",
@@ -155,8 +155,8 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-01T17:06:46Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-02T22:43:36Z",
+            "open_issues": 5,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 864,
@@ -210,11 +210,11 @@
             "id": 442321089,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T13:05:38Z",
-            "open_issues": 73,
+            "last_commit": "2026-10-03T00:35:18Z",
+            "open_issues": 70,
             "owner": "Cap-go",
             "repo": "capgo.app",
-            "stars": 208,
+            "stars": 209,
             "topics": [
               "android",
               "capacitor",
@@ -653,7 +653,7 @@
             "id": 1126922830,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T23:24:00Z",
+            "last_commit": "2026-10-02T15:38:44Z",
             "open_issues": 7,
             "owner": "Cap-go",
             "repo": "capacitor-transitions",
@@ -858,6 +858,27 @@
         },
         {
           "node_type": "item",
+          "title": "capacitor-audio-recorder",
+          "description": "Capacitor plugin to record audio on iOS and Android, keep active in background.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Capacitor plugin to record audio on iOS and Android, keep active in background",
+            "homepage": "https://capgo.app/docs/plugins/audio-recorder/",
+            "id": 1084008196,
+            "language": "JavaScript",
+            "license": "MPL-2.0",
+            "last_commit": "2026-10-02T10:24:41Z",
+            "open_issues": 4,
+            "owner": "Cap-go",
+            "repo": "capacitor-audio-recorder",
+            "stars": 16,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
           "title": "capacitor-mute",
           "description": "Capacitor plugin to detect if the mute switch is enabled/disabled on a device.",
           "children": [],
@@ -955,27 +976,6 @@
               "capacitor",
               "ionic"
             ]
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-audio-recorder",
-          "description": "Capacitor plugin to record audio on iOS and Android, keep active in background.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Capacitor plugin to record audio on iOS and Android, keep active in background",
-            "homepage": "https://capgo.app/docs/plugins/audio-recorder/",
-            "id": 1084008196,
-            "language": "JavaScript",
-            "license": "MPL-2.0",
-            "last_commit": "2026-10-02T10:24:41Z",
-            "open_issues": 4,
-            "owner": "Cap-go",
-            "repo": "capacitor-audio-recorder",
-            "stars": 15,
-            "topics": []
           },
           "first_seen": "2026-08-28T19:01:11.379Z"
         },
@@ -2068,7 +2068,7 @@
             "id": 1106076182,
             "language": "Swift",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-01T13:16:01Z",
+            "last_commit": "2026-10-02T21:14:37Z",
             "open_issues": 1,
             "owner": "Cap-go",
             "repo": "capacitor-screen-orientation",
@@ -3022,7 +3022,7 @@
             "id": 1278172201,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-02T13:01:38Z",
+            "last_commit": "2026-10-02T20:38:23Z",
             "open_issues": 13,
             "owner": "Cap-go",
             "repo": "cordova-updater",
@@ -3339,7 +3339,7 @@
         {
           "node_type": "item",
           "title": "Stripe Payment Integration in Ionic",
-          "description": null,
+          "description": "EnappdLLC/ionic4-stripe",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3512,7 +3512,7 @@
         {
           "node_type": "item",
           "title": "Vim-ionic2",
-          "description": null,
+          "description": "akz92/vim-ionic2",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3585,7 +3585,7 @@
         {
           "node_type": "item",
           "title": "Ionic 2 Advanced Components",
-          "description": null,
+          "description": "yannbf/ionic3-components",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3614,7 +3614,7 @@
         {
           "node_type": "item",
           "title": "Ionic Official Starter Templates",
-          "description": null,
+          "description": "ionic-team/starters",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3638,7 +3638,7 @@
         {
           "node_type": "item",
           "title": "Ionic Boilerplate",
-          "description": null,
+          "description": "marcoturi/ionic-boilerplate",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3676,7 +3676,7 @@
         {
           "node_type": "item",
           "title": "Ionic 2",
-          "description": null,
+          "description": "marcoturi/ionic-boilerplate",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3714,7 +3714,7 @@
         {
           "node_type": "item",
           "title": "OCR Scan App",
-          "description": null,
+          "description": "matiastucci/ionic-ocr-example",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3740,7 +3740,7 @@
         {
           "node_type": "item",
           "title": "Cordova File Transfer",
-          "description": null,
+          "description": "dsgriffin/ionic-3-file-transfer-example",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3768,7 +3768,7 @@
         {
           "node_type": "item",
           "title": "NFC Demo",
-          "description": null,
+          "description": "RedFroggy/ionic2-nfc-app",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3789,7 +3789,7 @@
         {
           "node_type": "item",
           "title": "Update your App",
-          "description": null,
+          "description": "NextFaze/ionic-manup",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3812,7 +3812,7 @@
         {
           "node_type": "item",
           "title": "Fullscreen Content",
-          "description": null,
+          "description": "sebaferreras/Ionic3-FullscreenContent",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3837,7 +3837,7 @@
         {
           "node_type": "item",
           "title": "Card Layout",
-          "description": null,
+          "description": "joshuamorony/ionic2-card-layout",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3957,7 +3957,7 @@
             {
               "node_type": "item",
               "title": "Lottie Animation",
-              "description": null,
+              "description": "chenqingspring/ng-lottie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3990,7 +3990,7 @@
             {
               "node_type": "item",
               "title": "Lottie Animation",
-              "description": null,
+              "description": "fivethree-team/lottie",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4022,7 +4022,7 @@
             {
               "node_type": "item",
               "title": "Ionic 4 UI Component Library",
-              "description": null,
+              "description": "fivethree-team/ionic-4-components",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -4056,7 +4056,7 @@
             {
               "node_type": "item",
               "title": "Multi Level Sidemenu",
-              "description": null,
+              "description": "sebaferreras/Ionic3-MultiLevelSideMenu",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4084,7 +4084,7 @@
             {
               "node_type": "item",
               "title": "Scrollabel Tabs",
-              "description": null,
+              "description": "SinoThomas/Ionic2-ScrollableTabs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4105,7 +4105,7 @@
             {
               "node_type": "item",
               "title": "Circular Tabs",
-              "description": null,
+              "description": "SinoThomas/Ionic2-CircularTabs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4126,7 +4126,7 @@
             {
               "node_type": "item",
               "title": "Fab Toolbar",
-              "description": null,
+              "description": "ekhmoi/fab-toolbar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4147,7 +4147,7 @@
             {
               "node_type": "item",
               "title": "Popover Sidemenu",
-              "description": null,
+              "description": "philipbrack/ionic2-menu-alternative-popover",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4168,7 +4168,7 @@
             {
               "node_type": "item",
               "title": "Drop down Title",
-              "description": null,
+              "description": "Mohd-PH/ionic-drop-down-title",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4199,7 +4199,7 @@
             {
               "node_type": "item",
               "title": "Dynamic Forms",
-              "description": null,
+              "description": "udos86/ng-dynamic-forms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4232,7 +4232,7 @@
             {
               "node_type": "item",
               "title": "Selectable",
-              "description": null,
+              "description": "eakoriakin/ionic-selectable",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4259,7 +4259,7 @@
             {
               "node_type": "item",
               "title": "Form Generator based on JSON",
-              "description": null,
+              "description": "guillotinaweb/ngx-schema-form",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4284,7 +4284,7 @@
             {
               "node_type": "item",
               "title": "Autocomplete",
-              "description": null,
+              "description": "kadoshms/ionic2-autocomplete",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4305,7 +4305,7 @@
             {
               "node_type": "item",
               "title": "Masks",
-              "description": null,
+              "description": "amarkes/br-mask",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4326,7 +4326,7 @@
             {
               "node_type": "item",
               "title": "Sidemenu tabs",
-              "description": null,
+              "description": "seanmavley/ionic2-sidemenu-tabs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4352,7 +4352,7 @@
             {
               "node_type": "item",
               "title": "Form Builder",
-              "description": null,
+              "description": "rohitg7/ionic2-form-builder",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4380,7 +4380,7 @@
             {
               "node_type": "item",
               "title": "Inputfield Mask",
-              "description": null,
+              "description": "text-mask/text-mask",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4434,7 +4434,7 @@
             {
               "node_type": "item",
               "title": "Datepicker (selectable range dates calendar)",
-              "description": null,
+              "description": "hsuanxyz/ion2-calendar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4469,7 +4469,7 @@
             {
               "node_type": "item",
               "title": "Calendar",
-              "description": null,
+              "description": "twinssbc/Ionic2-Calendar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4501,7 +4501,7 @@
             {
               "node_type": "item",
               "title": "Rating",
-              "description": null,
+              "description": "andrucz/ionic2-rating",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4532,7 +4532,7 @@
             {
               "node_type": "item",
               "title": "Calendar - Fullcalendar",
-              "description": null,
+              "description": "nekken/ng2-fullcalendar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4553,7 +4553,7 @@
             {
               "node_type": "item",
               "title": "Datepicker",
-              "description": null,
+              "description": "misha130/ion-datepicker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4579,7 +4579,7 @@
             {
               "node_type": "item",
               "title": "Calendar",
-              "description": null,
+              "description": "alexandretok/easy-ionic2-calendar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4600,7 +4600,7 @@
             {
               "node_type": "item",
               "title": "Datepicker",
-              "description": null,
+              "description": "rajeshwarpatlolla/ionic2-datepicker",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4621,7 +4621,7 @@
             {
               "node_type": "item",
               "title": "Calendar",
-              "description": null,
+              "description": "redpandatronicsuk/ionic2calendar",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4649,7 +4649,7 @@
             {
               "node_type": "item",
               "title": "Flexible and Light Table",
-              "description": null,
+              "description": "swimlane/ngx-datatable",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4681,7 +4681,7 @@
             {
               "node_type": "item",
               "title": "Smart table (sorting, filtering)",
-              "description": null,
+              "description": "akveo/ng2-smart-table",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4717,7 +4717,7 @@
             {
               "node_type": "item",
               "title": "Sortable/Filter Tables",
-              "description": null,
+              "description": "valor-software/ng2-table",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4745,7 +4745,7 @@
             {
               "node_type": "item",
               "title": "Lazy Load",
-              "description": null,
+              "description": "tjoskar/ng-lazyload-image",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4769,7 +4769,7 @@
             {
               "node_type": "item",
               "title": "Image Loader",
-              "description": null,
+              "description": "zyra/ionic-image-loader",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4792,7 +4792,7 @@
             {
               "node_type": "item",
               "title": "Image Viewer",
-              "description": null,
+              "description": "Riron/ionic-img-viewer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4840,7 +4840,7 @@
             {
               "node_type": "item",
               "title": "Gallery Modal",
-              "description": null,
+              "description": "nikini/ionic-gallery-modal",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4865,7 +4865,7 @@
             {
               "node_type": "item",
               "title": "Image Fallback",
-              "description": null,
+              "description": "VadimDez/ngx-img-fallback",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4893,7 +4893,7 @@
             {
               "node_type": "item",
               "title": "Image Zoom",
-              "description": null,
+              "description": "brtnshrdr/angular2-image-zoom",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4914,7 +4914,7 @@
             {
               "node_type": "item",
               "title": "Facebook Gallery",
-              "description": null,
+              "description": "skyfloyd/ionic2-fb-gallery",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4942,7 +4942,7 @@
             {
               "node_type": "item",
               "title": "Charts",
-              "description": null,
+              "description": "valor-software/ng2-charts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4963,7 +4963,7 @@
             {
               "node_type": "item",
               "title": "D3 Service",
-              "description": null,
+              "description": "tomwanzek/d3-ng2-service",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -4988,7 +4988,7 @@
             {
               "node_type": "item",
               "title": "D3 Angular Examples",
-              "description": null,
+              "description": "datencia/d3js-angular-examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5009,7 +5009,7 @@
             {
               "node_type": "item",
               "title": "D3 Line/Bar/Pie Charts",
-              "description": null,
+              "description": "datencia/d3js-angular-examples",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5037,7 +5037,7 @@
             {
               "node_type": "item",
               "title": "Simple Audioplayer",
-              "description": null,
+              "description": "arielfaur/ionic-audio",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5067,7 +5067,7 @@
             {
               "node_type": "item",
               "title": "Video Editor",
-              "description": null,
+              "description": "rossmartin/video-editor-ionic2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5095,7 +5095,7 @@
             {
               "node_type": "item",
               "title": "Digit Keyboard",
-              "description": null,
+              "description": "skol-pro/ion-digit-keyboard-v2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5131,7 +5131,7 @@
             {
               "node_type": "item",
               "title": "Dialogbox with Counter",
-              "description": null,
+              "description": "hsuanxyz/ionic2-extend-alert",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5164,7 +5164,7 @@
             {
               "node_type": "item",
               "title": "ng Lightning (for Salesforce Apps)",
-              "description": null,
+              "description": "ng-lightning/ng-lightning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -5201,7 +5201,7 @@
         {
           "node_type": "item",
           "title": "Ionic Conference App",
-          "description": null,
+          "description": "ionic-team/ionic-conference-app",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5222,7 +5222,7 @@
         {
           "node_type": "item",
           "title": "IonicRealty",
-          "description": null,
+          "description": "ccoenraets/ionic2-realty",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5243,7 +5243,7 @@
         {
           "node_type": "item",
           "title": "Ionic Weather app",
-          "description": null,
+          "description": "aggarwalankush/ionic-mosum",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5270,7 +5270,7 @@
         {
           "node_type": "item",
           "title": "Ionic 5 Social Network Starter",
-          "description": null,
+          "description": "thenaim/ionic-tk-social-network",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5305,7 +5305,7 @@
         {
           "node_type": "item",
           "title": "Ionic Push Notification",
-          "description": null,
+          "description": "aggarwalankush/ionic-push-base",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5332,7 +5332,7 @@
         {
           "node_type": "item",
           "title": "Ionic Reddit Reader",
-          "description": null,
+          "description": "smartapant/ionic2-reddit-reader",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5362,7 +5362,7 @@
         {
           "node_type": "item",
           "title": "Ionic 5 WhatsApp clone",
-          "description": null,
+          "description": "thenaim/ionic-whatsapp-clone",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5394,7 +5394,7 @@
         {
           "node_type": "item",
           "title": "Playing music in Ionic 4",
-          "description": null,
+          "description": "EnappdLLC/ionic-capacitor-music",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5415,7 +5415,7 @@
         {
           "node_type": "item",
           "title": "Ionic Firebase Chat App",
-          "description": null,
+          "description": "ionic2blueprints/firebase-chat",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5436,7 +5436,7 @@
         {
           "node_type": "item",
           "title": "Ionic Media Player",
-          "description": null,
+          "description": "ionic2blueprints/media-player",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5457,7 +5457,7 @@
         {
           "node_type": "item",
           "title": "Ionic aiEyes - Azure Computer Vision API",
-          "description": null,
+          "description": "brenopolanski/aiEyes",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5488,7 +5488,7 @@
         {
           "node_type": "item",
           "title": "Ionic Social App",
-          "description": null,
+          "description": "ionic2blueprints/social-app",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5509,7 +5509,7 @@
         {
           "node_type": "item",
           "title": "Ionic Ecommerce App",
-          "description": null,
+          "description": "ionic2blueprints/ionic2-marketcloud",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5530,7 +5530,7 @@
         {
           "node_type": "item",
           "title": "Ionic Wordpress Client",
-          "description": null,
+          "description": "ionic2blueprints/ionic2-wp-client",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5551,7 +5551,7 @@
         {
           "node_type": "item",
           "title": "Ionic Stock Tracking App",
-          "description": null,
+          "description": "ionic2blueprints/ionic2-stockmarket",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5572,7 +5572,7 @@
         {
           "node_type": "item",
           "title": "Ionic Soundboard",
-          "description": null,
+          "description": "rkalis/ionic-soundboard",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5602,7 +5602,7 @@
         {
           "node_type": "item",
           "title": "Receive SMS automatically in Ionic 4",
-          "description": null,
+          "description": "EnappdLLC/Ionic-4-sms-receive",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5623,7 +5623,7 @@
         {
           "node_type": "item",
           "title": "Ionic 4 PayPal Payment Integration",
-          "description": null,
+          "description": "EnappdLLC/ionic4-paypal",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5644,7 +5644,7 @@
         {
           "node_type": "item",
           "title": "Ionic Conference App based on Lanyrd API",
-          "description": null,
+          "description": "ionic2blueprints/conference-app",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5665,7 +5665,7 @@
         {
           "node_type": "item",
           "title": "Ionic 4 Apple Pay Payment Integration",
-          "description": null,
+          "description": "EnappdLLC/ionic4-applepay",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5686,7 +5686,7 @@
         {
           "node_type": "item",
           "title": "Translation in Ionic 4 - Internationalization and localization",
-          "description": null,
+          "description": "EnappdLLC/ionic4-i18n",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5707,7 +5707,7 @@
         {
           "node_type": "item",
           "title": "Firebase push notifications in Ionic 4",
-          "description": null,
+          "description": "EnappdLLC/ionic-4-push",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5728,7 +5728,7 @@
         {
           "node_type": "item",
           "title": "Ionic 4 Razorpay Payment Integration",
-          "description": null,
+          "description": "EnappdLLC/ionic4-razorpay",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5749,7 +5749,7 @@
         {
           "node_type": "item",
           "title": "Ionic 4 Facebook login with Firebase",
-          "description": null,
+          "description": "EnappdLLC/ionic4-facebookAuth",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -5772,7 +5772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:12:50.015Z",
+    "last_updated": "2026-10-03T04:51:13.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Ionic resources. Made by Capgo",
