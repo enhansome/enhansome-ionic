@@ -68,7 +68,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Official Resources
 
-* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,686 | 🐛 562 | 🌐 TypeScript | 📅 2026-10-06
+* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,685 | 🐛 562 | 🌐 TypeScript | 📅 2026-10-06
 * [Ionic Native](https://github.com/driftyco/ionic-native/) ⭐ 2,451 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-05
 * [Site](http://ionicframework.com/)
 * [Blog](http://blog.ionic.io/)
@@ -83,7 +83,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 Ionic apps can use Capacitor as a native runtime.
 
-* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,788 | 🐛 144 | 🌐 TypeScript | 📅 2026-10-05 - Core runtime source.
+* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,790 | 🐛 144 | 🌐 TypeScript | 📅 2026-10-05 - Core runtime source.
 * [Awesome Capacitor](https://github.com/riderx/awesome-capacitor) ⭐ 637 | 🐛 4 | 🌐 HTML | 📅 2026-09-15 - Curated Capacitor plugins, tools, and guides.
 * [Website](https://capacitorjs.com/) - Project homepage.
 * [Documentation](https://capacitorjs.com/docs) - Official docs.
@@ -479,7 +479,7 @@ Tutorials that cover the path from an existing web app to a published mobile app
 
 ### Libraries
 
-* [Capacitor Tailwind](https://github.com/Cap-go/tailwind-capacitor) ⭐ 21 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-05 - A Tailwind CSS plugin for Capacitor.
+* [Capacitor Tailwind](https://github.com/Cap-go/tailwind-capacitor) ⭐ 21 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-06 - A Tailwind CSS plugin for Capacitor.
 * [Ionic Blocks](https://ionicblocks.com/) - A collection of free and premium Ionic components.
 
 ### Animations
@@ -525,7 +525,7 @@ Tutorials that cover the path from an existing web app to a published mobile app
 
 ### Lists/Table
 
-* [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) ⭐ 4,667 | 🐛 918 | 🌐 TypeScript | 📅 2026-08-11
+* [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) ⭐ 4,668 | 🐛 918 | 🌐 TypeScript | 📅 2026-08-11
 * [Smart table (sorting, filtering)](https://github.com/akveo/ng2-smart-table) ⭐ 1,618 | 🐛 954 | 🌐 TypeScript | 📅 2024-08-12
 * [Sortable/Filter Tables](https://github.com/valor-software/ng2-table) ⭐ 544 | 🐛 319 | 🌐 TypeScript | 📅 2022-10-26
 

@@ -19,7 +19,7 @@
             "open_issues": 562,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52686,
+            "stars": 52685,
             "topics": [
               "angular",
               "capacitor",
@@ -92,7 +92,7 @@
             "open_issues": 144,
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16788,
+            "stars": 16790,
             "topics": [
               "android",
               "capacitor",
@@ -210,7 +210,7 @@
             "id": 442321089,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-06T10:32:16Z",
+            "last_commit": "2026-10-06T13:37:11Z",
             "open_issues": 71,
             "owner": "Cap-go",
             "repo": "capgo.app",
@@ -3938,8 +3938,8 @@
                 "id": 823195645,
                 "language": "JavaScript",
                 "license": "MIT",
-                "last_commit": "2026-10-05T02:53:33Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-06T11:52:49Z",
+                "open_issues": 2,
                 "owner": "Cap-go",
                 "repo": "tailwind-capacitor",
                 "stars": 21,
@@ -4662,7 +4662,7 @@
                 "open_issues": 918,
                 "owner": "swimlane",
                 "repo": "ngx-datatable",
-                "stars": 4667,
+                "stars": 4668,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -5772,7 +5772,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:38:38.603Z",
+    "last_updated": "2026-10-06T13:38:43.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Ionic resources. Made by Capgo",
