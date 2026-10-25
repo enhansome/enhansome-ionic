@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-24T03:09:41Z",
-            "open_issues": 513,
+            "open_issues": 518,
             "owner": "ionic-team",
             "repo": "ionic-framework",
-            "stars": 52717,
+            "stars": 52718,
             "topics": [
               "angular",
               "capacitor",
@@ -55,8 +55,8 @@
             "id": 46805578,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T20:30:44Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-24T22:53:13Z",
+            "open_issues": 3,
             "owner": "danielsogl",
             "repo": "awesome-cordova-plugins",
             "stars": 2451,
@@ -89,10 +89,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-23T20:04:44Z",
-            "open_issues": 146,
+            "open_issues": 144,
             "owner": "ionic-team",
             "repo": "capacitor",
-            "stars": 16944,
+            "stars": 16949,
             "topics": [
               "android",
               "capacitor",
@@ -215,8 +215,8 @@
             "id": 420741081,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-24T09:57:32Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-25T10:16:39Z",
+            "open_issues": 7,
             "owner": "Cap-go",
             "repo": "capacitor-updater",
             "stars": 876,
@@ -249,7 +249,7 @@
             "open_issues": 0,
             "owner": "Cap-go",
             "repo": "capacitor-social-login",
-            "stars": 219,
+            "stars": 221,
             "topics": [
               "capacitor",
               "capacitor-plugin",
@@ -270,8 +270,8 @@
             "id": 442321089,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-24T11:34:41Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-25T11:16:54Z",
+            "open_issues": 49,
             "owner": "Cap-go",
             "repo": "capgo.app",
             "stars": 211,
@@ -296,11 +296,11 @@
             "id": 515302020,
             "language": "Java",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-21T17:20:17Z",
+            "last_commit": "2026-10-24T13:24:07Z",
             "open_issues": 1,
             "owner": "Cap-go",
             "repo": "capacitor-inappbrowser",
-            "stars": 134,
+            "stars": 135,
             "topics": [
               "browser",
               "capacitor",
@@ -473,11 +473,11 @@
             "id": 1234535294,
             "language": "Swift",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-21T13:34:11Z",
+            "last_commit": "2026-10-25T11:05:52Z",
             "open_issues": 0,
             "owner": "Cap-go",
             "repo": "capacitor-native-navigation",
-            "stars": 42,
+            "stars": 43,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:11.379Z"
@@ -525,7 +525,7 @@
             "open_issues": 1,
             "owner": "Cap-go",
             "repo": "capacitor-health",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "capacitor",
               "ionic",
@@ -650,7 +650,7 @@
             "open_issues": 0,
             "owner": "Cap-go",
             "repo": "capacitor-nfc",
-            "stars": 27,
+            "stars": 28,
             "topics": []
           },
           "first_seen": "2026-08-28T19:01:11.379Z"
@@ -667,12 +667,35 @@
             "id": 1072619934,
             "language": "Swift",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-19T12:03:45Z",
+            "last_commit": "2026-10-24T13:47:53Z",
             "open_issues": 0,
             "owner": "Cap-go",
             "repo": "capacitor-document-scanner",
             "stars": 26,
             "topics": []
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-transitions",
+          "description": "Framework-agnostic page transitions for Capacitor apps. iOS-style navigation without opinions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Framework-agnostic page transitions for Capacitor apps. iOS-style navigation without opinions.",
+            "homepage": "https://capgo.app/docs/plugins/transitions/",
+            "id": 1126922830,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-22T16:56:55Z",
+            "open_issues": 2,
+            "owner": "Cap-go",
+            "repo": "capacitor-transitions",
+            "stars": 26,
+            "topics": [
+              "capacitor"
+            ]
           },
           "first_seen": "2026-08-28T19:01:11.379Z"
         },
@@ -697,29 +720,6 @@
               "capacitor",
               "capacitor-plugin",
               "ionic"
-            ]
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-transitions",
-          "description": "Framework-agnostic page transitions for Capacitor apps. iOS-style navigation without opinions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Framework-agnostic page transitions for Capacitor apps. iOS-style navigation without opinions.",
-            "homepage": "https://capgo.app/docs/plugins/transitions/",
-            "id": 1126922830,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-22T16:56:55Z",
-            "open_issues": 2,
-            "owner": "Cap-go",
-            "repo": "capacitor-transitions",
-            "stars": 25,
-            "topics": [
-              "capacitor"
             ]
           },
           "first_seen": "2026-08-28T19:01:11.379Z"
@@ -760,8 +760,8 @@
             "id": 447801603,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T05:07:55Z",
-            "open_issues": 23,
+            "last_commit": "2026-10-25T05:08:09Z",
+            "open_issues": 24,
             "owner": "Cap-go",
             "repo": "capacitor-plus",
             "stars": 22,
@@ -854,7 +854,7 @@
             "id": 429967671,
             "language": "JavaScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-19T07:29:22Z",
+            "last_commit": "2026-10-24T22:18:17Z",
             "open_issues": 2,
             "owner": "Cap-go",
             "repo": "capacitor-crisp",
@@ -905,10 +905,10 @@
             "description": "Capacitor plugin for speech recognition.",
             "homepage": "https://capgo.app/docs/plugins/speech-recognition/",
             "id": 1092625661,
-            "language": "Java",
+            "language": "Swift",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-24T08:41:52Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-24T14:44:03Z",
+            "open_issues": 0,
             "owner": "Cap-go",
             "repo": "capacitor-speech-recognition",
             "stars": 18,
@@ -1041,6 +1041,30 @@
         },
         {
           "node_type": "item",
+          "title": "capacitor-android-kiosk",
+          "description": "Capacitor plugin to create application with \"kiosk mode\". An app with this plugin can be set as an Android launcher.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Capacitor plugin to create application with \"kiosk mode\". An app with this plugin can be set as an Android launcher.",
+            "homepage": "https://capgo.app/docs/plugins/android-kiosk/",
+            "id": 1090656329,
+            "language": "Java",
+            "license": "MPL-2.0",
+            "last_commit": "2026-10-15T02:21:50Z",
+            "open_issues": 0,
+            "owner": "Cap-go",
+            "repo": "capacitor-android-kiosk",
+            "stars": 15,
+            "topics": [
+              "capacitor",
+              "capacitor-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
           "title": "capacitor-downloader",
           "description": "Capacitor plugin to download file in background or foreground.",
           "children": [],
@@ -1090,6 +1114,39 @@
         },
         {
           "node_type": "item",
+          "title": "capacitor-watch",
+          "description": "Capacitor plugin for Apple Watch communication with bidirectional messaging support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Capacitor plugin for Apple Watch communication with bidirectional messaging support",
+            "homepage": "https://capgo.app/docs/plugins/watch/",
+            "id": 1126812018,
+            "language": "Swift",
+            "license": "MPL-2.0",
+            "last_commit": "2026-10-19T12:14:47Z",
+            "open_issues": 2,
+            "owner": "Cap-go",
+            "repo": "capacitor-watch",
+            "stars": 15,
+            "topics": [
+              "android",
+              "apple-watch",
+              "capacitor",
+              "capacitor-plugin",
+              "ios",
+              "smartwatch",
+              "watchconnectivity",
+              "watchos",
+              "wear-os",
+              "wearable",
+              "wearos"
+            ]
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
           "title": "capacitor-wechat",
           "description": "Capacitor plugin to interact with WeChat SDK.",
           "children": [],
@@ -1129,63 +1186,6 @@
             "topics": [
               "capacitor",
               "capacitor-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-android-kiosk",
-          "description": "Capacitor plugin to create application with \"kiosk mode\". An app with this plugin can be set as an Android launcher.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Capacitor plugin to create application with \"kiosk mode\". An app with this plugin can be set as an Android launcher.",
-            "homepage": "https://capgo.app/docs/plugins/android-kiosk/",
-            "id": 1090656329,
-            "language": "Java",
-            "license": "MPL-2.0",
-            "last_commit": "2026-10-15T02:21:50Z",
-            "open_issues": 0,
-            "owner": "Cap-go",
-            "repo": "capacitor-android-kiosk",
-            "stars": 14,
-            "topics": [
-              "capacitor",
-              "capacitor-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-watch",
-          "description": "Capacitor plugin for Apple Watch communication with bidirectional messaging support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Capacitor plugin for Apple Watch communication with bidirectional messaging support",
-            "homepage": "https://capgo.app/docs/plugins/watch/",
-            "id": 1126812018,
-            "language": "Swift",
-            "license": "MPL-2.0",
-            "last_commit": "2026-10-19T12:14:47Z",
-            "open_issues": 2,
-            "owner": "Cap-go",
-            "repo": "capacitor-watch",
-            "stars": 14,
-            "topics": [
-              "android",
-              "apple-watch",
-              "capacitor",
-              "capacitor-plugin",
-              "ios",
-              "smartwatch",
-              "watchconnectivity",
-              "watchos",
-              "wear-os",
-              "wearable",
-              "wearos"
             ]
           },
           "first_seen": "2026-08-28T19:01:11.379Z"
@@ -1792,6 +1792,27 @@
         },
         {
           "node_type": "item",
+          "title": "capacitor-sheets",
+          "description": "Capacitor plugin for framework-agnostic sheets, drawers, dialogs, and overlay primitives.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Capacitor plugin for framework-agnostic sheets, drawers, dialogs, and overlay primitives.",
+            "homepage": "https://capgo.app/docs/plugins/sheets/",
+            "id": 1238000067,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-19T12:01:22Z",
+            "open_issues": 0,
+            "owner": "Cap-go",
+            "repo": "capacitor-sheets",
+            "stars": 10,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
           "title": "capacitor-textinteraction",
           "description": "Capacitor plugin to toggle text interaction in iOS apps.",
           "children": [],
@@ -1813,6 +1834,27 @@
               "ios",
               "plugin"
             ]
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-widget-kit",
+          "description": "Capgo WidgetKit plugin with workout Live Activity example and Maestro smoke test.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Capgo WidgetKit plugin with workout Live Activity example and Maestro smoke test",
+            "homepage": "https://capgo.app/docs/plugins/widget-kit/",
+            "id": 1198614988,
+            "language": "Swift",
+            "license": "MPL-2.0",
+            "last_commit": "2026-10-19T18:40:59Z",
+            "open_issues": 0,
+            "owner": "Cap-go",
+            "repo": "capacitor-widget-kit",
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:01:11.379Z"
         },
@@ -1935,27 +1977,6 @@
         },
         {
           "node_type": "item",
-          "title": "capacitor-sheets",
-          "description": "Capacitor plugin for framework-agnostic sheets, drawers, dialogs, and overlay primitives.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Capacitor plugin for framework-agnostic sheets, drawers, dialogs, and overlay primitives.",
-            "homepage": "https://capgo.app/docs/plugins/sheets/",
-            "id": 1238000067,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-10-19T12:01:22Z",
-            "open_issues": 0,
-            "owner": "Cap-go",
-            "repo": "capacitor-sheets",
-            "stars": 9,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
           "title": "capacitor-volume-buttons",
           "description": "Capacitor plugin to listen to volume button presses.",
           "children": [],
@@ -1975,27 +1996,6 @@
               "capacitor",
               "capacitor-plugin"
             ]
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-widget-kit",
-          "description": "Capgo WidgetKit plugin with workout Live Activity example and Maestro smoke test.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Capgo WidgetKit plugin with workout Live Activity example and Maestro smoke test",
-            "homepage": "https://capgo.app/docs/plugins/widget-kit/",
-            "id": 1198614988,
-            "language": "Swift",
-            "license": "MPL-2.0",
-            "last_commit": "2026-10-19T18:40:59Z",
-            "open_issues": 0,
-            "owner": "Cap-go",
-            "repo": "capacitor-widget-kit",
-            "stars": 9,
-            "topics": []
           },
           "first_seen": "2026-08-28T19:01:11.379Z"
         },
@@ -2025,6 +2025,27 @@
         },
         {
           "node_type": "item",
+          "title": "capacitor-app-attest",
+          "description": "Capacitor plugin for App Attest on iOS and Play Integrity attestation on Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Capacitor plugin for App Attest on iOS and Play Integrity attestation on Android",
+            "homepage": "https://capgo.app/docs/plugins/app-attest/",
+            "id": 1161320493,
+            "language": "Java",
+            "license": "MPL-2.0",
+            "last_commit": "2026-10-21T14:09:03Z",
+            "open_issues": 3,
+            "owner": "Cap-go",
+            "repo": "capacitor-app-attest",
+            "stars": 8,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
           "title": "capacitor-barometer",
           "description": "Capacitor plugin to read device barometer.",
           "children": [],
@@ -2046,6 +2067,30 @@
         },
         {
           "node_type": "item",
+          "title": "capacitor-live-activities",
+          "description": "Manage iOS Live Activities from Capacitor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Manage iOS Live Activities from Capacitor",
+            "homepage": "https://capgo.app/docs/plugins/live-activities/",
+            "id": 1141574307,
+            "language": "TypeScript",
+            "license": null,
+            "last_commit": "2026-10-15T02:50:11Z",
+            "open_issues": 2,
+            "owner": "Cap-go",
+            "repo": "capacitor-live-activities",
+            "stars": 8,
+            "topics": [
+              "capacitor",
+              "capacitor-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
           "title": "capacitor-printer",
           "description": "Capacitor plugin for printing documents, HTML, PDFs, images and web views.",
           "children": [],
@@ -2060,6 +2105,30 @@
             "open_issues": 0,
             "owner": "Cap-go",
             "repo": "capacitor-printer",
+            "stars": 8,
+            "topics": [
+              "capacitor",
+              "capacitor-plugin"
+            ]
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-screen-orientation",
+          "description": "Capacitor plugin for screen orientation with support for detecting true physical device orientation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Capacitor plugin  for screen orientation with support for detecting true physical device orientation",
+            "homepage": "https://capgo.app/docs/plugins/screen-orientation/",
+            "id": 1106076182,
+            "language": "TypeScript",
+            "license": "MPL-2.0",
+            "last_commit": "2026-10-15T02:32:17Z",
+            "open_issues": 0,
+            "owner": "Cap-go",
+            "repo": "capacitor-screen-orientation",
             "stars": 8,
             "topics": [
               "capacitor",
@@ -2118,27 +2187,6 @@
         },
         {
           "node_type": "item",
-          "title": "capacitor-app-attest",
-          "description": "Capacitor plugin for App Attest on iOS and Play Integrity attestation on Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Capacitor plugin for App Attest on iOS and Play Integrity attestation on Android",
-            "homepage": "https://capgo.app/docs/plugins/app-attest/",
-            "id": 1161320493,
-            "language": "Java",
-            "license": "MPL-2.0",
-            "last_commit": "2026-10-21T14:09:03Z",
-            "open_issues": 3,
-            "owner": "Cap-go",
-            "repo": "capacitor-app-attest",
-            "stars": 7,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
           "title": "capacitor-file-compressor",
           "description": "Capacitor plugin for efficient image compression supporting PNG, JPEG, and WebP formats across iOS, Android, and Web platforms.",
           "children": [],
@@ -2160,48 +2208,24 @@
         },
         {
           "node_type": "item",
-          "title": "capacitor-live-activities",
-          "description": "Manage iOS Live Activities from Capacitor.",
+          "title": "capacitor-in-app-review",
+          "description": "Capacitor plugin to prompt users to submit app store ratings.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Manage iOS Live Activities from Capacitor",
-            "homepage": "https://capgo.app/docs/plugins/live-activities/",
-            "id": 1141574307,
-            "language": "TypeScript",
-            "license": null,
-            "last_commit": "2026-10-15T02:50:11Z",
-            "open_issues": 2,
-            "owner": "Cap-go",
-            "repo": "capacitor-live-activities",
-            "stars": 7,
-            "topics": [
-              "capacitor",
-              "capacitor-plugin"
-            ]
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-screen-orientation",
-          "description": "Capacitor plugin for screen orientation with support for detecting true physical device orientation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Capacitor plugin  for screen orientation with support for detecting true physical device orientation",
-            "homepage": "https://capgo.app/docs/plugins/screen-orientation/",
-            "id": 1106076182,
-            "language": "TypeScript",
-            "license": "MPL-2.0",
-            "last_commit": "2026-10-15T02:32:17Z",
+            "description": "Capacitor plugin to prompt users to submit app store ratings",
+            "homepage": "https://capgo.app/docs/plugins/in-app-review/",
+            "id": 1117244678,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-10-15T02:24:55Z",
             "open_issues": 0,
             "owner": "Cap-go",
-            "repo": "capacitor-screen-orientation",
+            "repo": "capacitor-in-app-review",
             "stars": 7,
             "topics": [
-              "capacitor",
-              "capacitor-plugin"
+              "capacitor-plugin",
+              "capacitorjs"
             ]
           },
           "first_seen": "2026-08-28T19:01:11.379Z"
@@ -2325,30 +2349,6 @@
         },
         {
           "node_type": "item",
-          "title": "capacitor-in-app-review",
-          "description": "Capacitor plugin to prompt users to submit app store ratings.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Capacitor plugin to prompt users to submit app store ratings",
-            "homepage": "https://capgo.app/docs/plugins/in-app-review/",
-            "id": 1117244678,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2026-10-15T02:24:55Z",
-            "open_issues": 0,
-            "owner": "Cap-go",
-            "repo": "capacitor-in-app-review",
-            "stars": 6,
-            "topics": [
-              "capacitor-plugin",
-              "capacitorjs"
-            ]
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
           "title": "capacitor-keep-awake",
           "description": "Capacitor plugin to prevent the device screen from dimming or sleeping.",
           "children": [],
@@ -2368,6 +2368,27 @@
               "capacitor-plugin",
               "capacitorjs"
             ]
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-pretty-toast",
+          "description": "Native-first pretty toast notifications for Capacitor and the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Native-first pretty toast notifications for Capacitor and the web",
+            "homepage": "https://capgo.app/docs/plugins/pretty-toast/",
+            "id": 1224417496,
+            "language": "Kotlin",
+            "license": "MPL-2.0",
+            "last_commit": "2026-10-19T12:12:13Z",
+            "open_issues": 0,
+            "owner": "Cap-go",
+            "repo": "capacitor-pretty-toast",
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:01:11.379Z"
         },
@@ -2559,20 +2580,20 @@
         },
         {
           "node_type": "item",
-          "title": "capacitor-pretty-toast",
-          "description": "Native-first pretty toast notifications for Capacitor and the web.",
+          "title": "capacitor-passkey",
+          "description": "Capacitor passkey plugin with a WebAuthn-compatible shim for native apps.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Native-first pretty toast notifications for Capacitor and the web",
-            "homepage": "https://capgo.app/docs/plugins/pretty-toast/",
-            "id": 1224417496,
-            "language": "Kotlin",
+            "description": "Capacitor passkey plugin with a WebAuthn-compatible shim for native apps",
+            "homepage": "https://capgo.app/docs/plugins/passkey/",
+            "id": 1205313181,
+            "language": "TypeScript",
             "license": "MPL-2.0",
-            "last_commit": "2026-10-19T12:12:13Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-24T14:04:47Z",
+            "open_issues": 2,
             "owner": "Cap-go",
-            "repo": "capacitor-pretty-toast",
+            "repo": "capacitor-passkey",
             "stars": 5,
             "topics": []
           },
@@ -2596,6 +2617,30 @@
             "repo": "capacitor-webview-version-checker",
             "stars": 5,
             "topics": []
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-age-range",
+          "description": "Capacitor plugin age range detection. Google Play Age Signals (Android) + Apple DeclaredAgeRange (iOS).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Capacitor plugin age range detection. Google Play Age Signals (Android) + Apple DeclaredAgeRange (iOS).",
+            "homepage": "https://capgo.app/docs/plugins/age-range/",
+            "id": 1146945948,
+            "language": "JavaScript",
+            "license": "MPL-2.0",
+            "last_commit": "2026-10-15T01:49:27Z",
+            "open_issues": 0,
+            "owner": "Cap-go",
+            "repo": "capacitor-age-range",
+            "stars": 4,
+            "topics": [
+              "capacitor",
+              "capacitor-plugin"
+            ]
           },
           "first_seen": "2026-08-28T19:01:11.379Z"
         },
@@ -2706,27 +2751,6 @@
         },
         {
           "node_type": "item",
-          "title": "capacitor-passkey",
-          "description": "Capacitor passkey plugin with a WebAuthn-compatible shim for native apps.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Capacitor passkey plugin with a WebAuthn-compatible shim for native apps",
-            "homepage": "https://capgo.app/docs/plugins/passkey/",
-            "id": 1205313181,
-            "language": "TypeScript",
-            "license": "MPL-2.0",
-            "last_commit": "2026-10-23T17:15:25Z",
-            "open_issues": 2,
-            "owner": "Cap-go",
-            "repo": "capacitor-passkey",
-            "stars": 4,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
           "title": "capacitor-privacy-screen",
           "description": "Capacitor plugin for hiding app content in Android screenshots and iOS app switcher previews.",
           "children": [],
@@ -2769,6 +2793,27 @@
         },
         {
           "node_type": "item",
+          "title": "capacitor-uwb",
+          "description": "Capacitor plugin for Ultra-Wideband (UWB) ranging on iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Capacitor plugin for Ultra-Wideband (UWB) ranging on iOS and Android.",
+            "homepage": "https://capgo.app/docs/plugins/uwb/",
+            "id": 1286511733,
+            "language": "JavaScript",
+            "license": "MPL-2.0",
+            "last_commit": "2026-10-15T02:39:50Z",
+            "open_issues": 0,
+            "owner": "Cap-go",
+            "repo": "capacitor-uwb",
+            "stars": 4,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
           "title": "capacitor-zebra-datawedge",
           "description": "Capacitor plugin for Zebra DataWedge profile management, notifications, queries, and soft scanning on Zebra Android devices.",
           "children": [],
@@ -2785,30 +2830,6 @@
             "repo": "capacitor-zebra-datawedge",
             "stars": 4,
             "topics": []
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-age-range",
-          "description": "Capacitor plugin age range detection. Google Play Age Signals (Android) + Apple DeclaredAgeRange (iOS).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Capacitor plugin age range detection. Google Play Age Signals (Android) + Apple DeclaredAgeRange (iOS).",
-            "homepage": "https://capgo.app/docs/plugins/age-range/",
-            "id": 1146945948,
-            "language": "JavaScript",
-            "license": "MPL-2.0",
-            "last_commit": "2026-10-15T01:49:27Z",
-            "open_issues": 0,
-            "owner": "Cap-go",
-            "repo": "capacitor-age-range",
-            "stars": 3,
-            "topics": [
-              "capacitor",
-              "capacitor-plugin"
-            ]
           },
           "first_seen": "2026-08-28T19:01:11.379Z"
         },
@@ -2873,6 +2894,48 @@
             "open_issues": 0,
             "owner": "Cap-go",
             "repo": "capacitor-auto",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-background-task",
+          "description": "Capacitor plugin for periodic background fetch tasks on iOS and Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Capacitor plugin for periodic background fetch tasks on iOS and Android.",
+            "homepage": "https://capgo.app/docs/plugins/background-task/",
+            "id": 1236481318,
+            "language": "JavaScript",
+            "license": "MPL-2.0",
+            "last_commit": "2026-10-15T02:20:52Z",
+            "open_issues": 0,
+            "owner": "Cap-go",
+            "repo": "capacitor-background-task",
+            "stars": 3,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:01:11.379Z"
+        },
+        {
+          "node_type": "item",
+          "title": "capacitor-calendar",
+          "description": "Capacitor plugin for managing calendar events on iOS and Android, with reminders support on iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Capacitor plugin for managing calendar events on iOS and Android, with reminders support on iOS.",
+            "homepage": "https://capgo.app/docs/plugins/calendar/",
+            "id": 1251765309,
+            "language": "Swift",
+            "license": "MPL-2.0",
+            "last_commit": "2026-10-15T01:35:48Z",
+            "open_issues": 0,
+            "owner": "Cap-go",
+            "repo": "capacitor-calendar",
             "stars": 3,
             "topics": []
           },
@@ -3051,27 +3114,6 @@
         },
         {
           "node_type": "item",
-          "title": "capacitor-uwb",
-          "description": "Capacitor plugin for Ultra-Wideband (UWB) ranging on iOS and Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Capacitor plugin for Ultra-Wideband (UWB) ranging on iOS and Android.",
-            "homepage": "https://capgo.app/docs/plugins/uwb/",
-            "id": 1286511733,
-            "language": "JavaScript",
-            "license": "MPL-2.0",
-            "last_commit": "2026-10-15T02:39:50Z",
-            "open_issues": 0,
-            "owner": "Cap-go",
-            "repo": "capacitor-uwb",
-            "stars": 3,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
           "title": "cordova-updater",
           "description": "OTA live updates for Cordova iOS and Android with the same API as the updater plugin.",
           "children": [],
@@ -3112,48 +3154,6 @@
             "open_issues": 0,
             "owner": "Cap-go",
             "repo": "capacitor-android-sms-retriever",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-background-task",
-          "description": "Capacitor plugin for periodic background fetch tasks on iOS and Android.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Capacitor plugin for periodic background fetch tasks on iOS and Android.",
-            "homepage": "https://capgo.app/docs/plugins/background-task/",
-            "id": 1236481318,
-            "language": "JavaScript",
-            "license": "MPL-2.0",
-            "last_commit": "2026-10-15T02:20:52Z",
-            "open_issues": 0,
-            "owner": "Cap-go",
-            "repo": "capacitor-background-task",
-            "stars": 2,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:01:11.379Z"
-        },
-        {
-          "node_type": "item",
-          "title": "capacitor-calendar",
-          "description": "Capacitor plugin for managing calendar events on iOS and Android, with reminders support on iOS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Capacitor plugin for managing calendar events on iOS and Android, with reminders support on iOS.",
-            "homepage": "https://capgo.app/docs/plugins/calendar/",
-            "id": 1251765309,
-            "language": "Swift",
-            "license": "MPL-2.0",
-            "last_commit": "2026-10-15T01:35:48Z",
-            "open_issues": 0,
-            "owner": "Cap-go",
-            "repo": "capacitor-calendar",
             "stars": 2,
             "topics": []
           },
@@ -3683,7 +3683,7 @@
             "id": 109052620,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T09:38:30Z",
+            "last_commit": "2026-10-25T09:38:34Z",
             "open_issues": 17,
             "owner": "ionic-team",
             "repo": "starters",
@@ -4722,7 +4722,7 @@
                 "open_issues": 916,
                 "owner": "swimlane",
                 "repo": "ngx-datatable",
-                "stars": 4666,
+                "stars": 4667,
                 "topics": [
                   "angular",
                   "angular-components",
@@ -5832,7 +5832,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T11:39:41.877Z",
+    "last_updated": "2026-10-25T12:02:42.067Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome list of Ionic resources. Made by Capgo",
