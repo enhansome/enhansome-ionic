@@ -69,7 +69,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Official Resources
 
-* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,727 | 🐛 515 | 🌐 TypeScript | 📅 2026-10-29
+* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,728 | 🐛 517 | 🌐 TypeScript | 📅 2026-10-30
 * [Ionic Native](https://github.com/driftyco/ionic-native/) ⭐ 2,451 | 🐛 4 | 🌐 TypeScript | 📅 2026-10-26
 * [Site](http://ionicframework.com/)
 * [Blog](http://blog.ionic.io/)
@@ -84,8 +84,8 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 Ionic apps can use Capacitor as a native runtime.
 
-* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,988 | 🐛 141 | 🌐 TypeScript | 📅 2026-10-29 - Core runtime source.
-* [Awesome Capacitor](https://github.com/riderx/awesome-capacitor) ⭐ 640 | 🐛 3 | 🌐 HTML | 📅 2026-10-22 - Curated Capacitor plugins, tools, and guides.
+* [Repository](https://github.com/ionic-team/capacitor) ⭐ 16,996 | 🐛 142 | 🌐 TypeScript | 📅 2026-10-30 - Core runtime source.
+* [Awesome Capacitor](https://github.com/riderx/awesome-capacitor) ⭐ 640 | 🐛 4 | 🌐 HTML | 📅 2026-10-30 - Curated Capacitor plugins, tools, and guides.
 * [Website](https://capacitorjs.com/) - Project homepage.
 * [Documentation](https://capacitorjs.com/docs) - Official docs.
 * [CLI](https://capacitorjs.com/docs/cli) - Command-line reference.
@@ -97,7 +97,7 @@ Ionic apps can use Capacitor as a native runtime.
 
 Resources for building, shipping, and maintaining Capacitor apps with AI coding agents such as Claude Code, Codex, Cursor, Copilot, and Gemini CLI.
 
-* [Capgo Skills](https://github.com/Cap-go/capgo-skills) ⭐ 73 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-17 - 55 open-source agent skills for Capacitor: plugins, Capacitor 9 and Xcode 27 upgrades, debugging, testing, live updates. Install with `npx skills add Cap-go/capgo-skills`.
+* [Capgo Skills](https://github.com/Cap-go/capgo-skills) ⭐ 75 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-17 - 55 open-source agent skills for Capacitor: plugins, Capacitor 9 and Xcode 27 upgrades, debugging, testing, live updates. Install with `npx skills add Cap-go/capgo-skills`.
 * [Capgo Cursor plugin](https://github.com/Cap-go/cursor-capgo-plugin) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-07 - Cursor plugin with Capacitor rules, Capgo CLI skills, and MCP servers to ship, live-update, and roll back apps.
 * [Capgo MCP server](https://capgo.app/docs/ai/mcp/) - Hosted MCP server at `https://api.capgo.app/mcp` to manage apps, bundles, channels, rollouts, and native builds from an agent.
 * [Capgo AI agent setup](https://capgo.app/agents/) - Guides to build, publish, live-update, and roll back Capacitor apps from Claude Code, Codex, Cursor, Copilot, and Gemini CLI.
@@ -228,29 +228,29 @@ Resources for building, shipping, and maintaining Capacitor apps with AI coding 
 
 ## Capgo Capacitor Plugins
 
-* [capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 877 | 🐛 7 | 🌐 Java | 📅 2026-10-29 - Capacitor plugin for Instant updates: Ship updates, fixes, changes, and features within minutes.
+* [capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 878 | 🐛 7 | 🌐 Java | 📅 2026-10-30 - Capacitor plugin for Instant updates: Ship updates, fixes, changes, and features within minutes.
 * [capacitor-social-login](https://github.com/Cap-go/capacitor-social-login) ⭐ 222 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-26 - Capacitor plugin to make login with Google,Apple,Facebook and so on, simple and fast to implement.
-* [capacitor-notifications](https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications) ⭐ 211 | 🐛 28 | 🌐 TypeScript | 📅 2026-10-29 - Send native iOS and Android push notifications with user lookup, badges, and stats.
+* [capacitor-notifications](https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications) ⭐ 211 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-30 - Send native iOS and Android push notifications with user lookup, badges, and stats.
 * [capacitor-inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 135 | 🐛 1 | 🌐 Java | 📅 2026-10-28 - Capacitor plugin in app browser with urlChangeEvent.
 * [capacitor-data-storage-sqlite](https://github.com/Cap-go/capacitor-data-storage-sqlite) ⭐ 106 | 🐛 0 | 🌐 Swift | 📅 2026-10-26 - Capacitor Plugin for Data Storage SQLite for iOS and Android.
 * [capacitor-native-biometric](https://github.com/Cap-go/capacitor-native-biometric) ⭐ 88 | 🐛 0 | 🌐 Java | 📅 2026-10-20 - Secure biometric authentication for Capacitor with Face ID, Touch ID, and Android biometrics.
 * [capacitor-native-audio](https://github.com/Cap-go/capacitor-native-audio) ⭐ 79 | 🐛 1 | 🌐 Java | 📅 2026-10-26 - Capacitor plugin for native audio engine.
 * [capacitor-camera-preview](https://github.com/Cap-go/capacitor-camera-preview) ⭐ 52 | 🐛 1 | 🌐 Java | 📅 2026-10-26 - Capacitor plugin that allows camera interaction from JavaScript and HTML.
-* [capacitor-native-purchases](https://github.com/Cap-go/capacitor-native-purchases) ⭐ 50 | 🐛 4 | 🌐 Java | 📅 2026-10-26 - Capacitor plugin to manage IAP on Capacitor with the latest Android and iOS libraries.
-* [capacitor-llm](https://github.com/Cap-go/capacitor-llm) ⭐ 43 | 🐛 1 | 🌐 Swift | 📅 2026-10-29 - Capacitor plugin to run LLM models locally in iOS and Android, with Apple Intelligence support.
-* [capacitor-native-navigation](https://github.com/Cap-go/capacitor-native-navigation) ⭐ 43 | 🐛 1 | 🌐 Swift | 📅 2026-10-28 - Capacitor plugin for Liquid glass native navigation tabs.
+* [capacitor-native-purchases](https://github.com/Cap-go/capacitor-native-purchases) ⭐ 50 | 🐛 3 | 🌐 Java | 📅 2026-10-26 - Capacitor plugin to manage IAP on Capacitor with the latest Android and iOS libraries.
+* [capacitor-llm](https://github.com/Cap-go/capacitor-llm) ⭐ 43 | 🐛 1 | 🌐 Swift | 📅 2026-10-30 - Capacitor plugin to run LLM models locally in iOS and Android, with Apple Intelligence support.
+* [capacitor-native-navigation](https://github.com/Cap-go/capacitor-native-navigation) ⭐ 43 | 🐛 1 | 🌐 Swift | 📅 2026-10-30 - Capacitor plugin for Liquid glass native navigation tabs.
 * [capacitor-nativegeocoder](https://github.com/Cap-go/capacitor-nativegeocoder) ⭐ 41 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-26 - Capacitor plugin for native forward and reverse geocoding.
 * [capacitor-health](https://github.com/Cap-go/capacitor-health) ⭐ 32 | 🐛 1 | 🌐 Kotlin | 📅 2026-10-26 - Capacitor plugin to interact with data from Apple HealthKit and Google Fit.
 * [capacitor-navigation-bar](https://github.com/Cap-go/capacitor-navigation-bar) ⭐ 31 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-26 - Capacitor plugin to set the navigation bar color for Android Lollipop and higher.
-* [capacitor-background-geolocation](https://github.com/Cap-go/capacitor-background-geolocation) ⭐ 29 | 🐛 0 | 🌐 Java | 📅 2026-10-27 - Capacitor plugin that sends you accurate geolocation updates, even while the app is in the background.
 * [capacitor-screen-recorder](https://github.com/Cap-go/capacitor-screen-recorder) ⭐ 29 | 🐛 5 | 🌐 Swift | 📅 2026-10-26 - Capacitor plugin to record the screen of the phone in native.
 * [capacitor-uploader](https://github.com/Cap-go/capacitor-uploader) ⭐ 29 | 🐛 0 | 🌐 Java | 📅 2026-10-26 - Capacitor plugin to upload file in native layer.
+* [capacitor-background-geolocation](https://github.com/Cap-go/capacitor-background-geolocation) ⭐ 28 | 🐛 0 | 🌐 Java | 📅 2026-10-27 - Capacitor plugin that sends you accurate geolocation updates, even while the app is in the background.
 * [capacitor-nfc](https://github.com/Cap-go/capacitor-nfc) ⭐ 28 | 🐛 0 | 🌐 Swift | 📅 2026-10-26 - Capacitor plugin allows you to read and write NFC tags. You can also beam to, and receive from, other NFC enabled devices.
 * [capacitor-document-scanner](https://github.com/Cap-go/capacitor-document-scanner) ⭐ 26 | 🐛 0 | 🌐 Swift | 📅 2026-10-26 - Capacitor plugin to scan document iOS and Android.
 * [capacitor-transitions](https://github.com/Cap-go/capacitor-transitions) ⭐ 26 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-26 - Framework-agnostic page transitions for Capacitor apps. iOS-style navigation without opinions.
 * [capacitor-flash](https://github.com/Cap-go/capacitor-flash) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-26 - Capacitor plugin to switch the Flashlight / Torch of your device.
 * [capacitor-fast-sql](https://github.com/Cap-go/capacitor-fast-sql) ⭐ 22 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-26 - Capacitor plugin to connect to local SQL with fast protocol.
-* [capacitor-plus](https://github.com/Cap-go/capacitor-plus) ⭐ 22 | 🐛 30 | 🌐 TypeScript | 📅 2026-10-29 - Capacitor+ is an always-synced Capacitor fork with community fixes and faster releases.
+* [capacitor-plus](https://github.com/Cap-go/capacitor-plus) ⭐ 22 | 🐛 31 | 🌐 TypeScript | 📅 2026-10-30 - Capacitor+ is an always-synced Capacitor fork with community fixes and faster releases.
 * [capacitor-shake](https://github.com/Cap-go/capacitor-shake) ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-26 - Capacitor Plugin to detect when a physical device performs a shake gesture.
 * [capacitor-share-target](https://github.com/Cap-go/capacitor-share-target) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-26 - Capacitor plugin to receive share target intent in app.
 * [capacitor-crisp](https://github.com/Cap-go/capacitor-crisp) ⭐ 19 | 🐛 2 | 🌐 JavaScript | 📅 2026-10-26 - Capacitor plugin to use Crisp native SDK.
@@ -287,6 +287,7 @@ Resources for building, shipping, and maintaining Capacitor apps with AI coding 
 * [capacitor-media-session](https://github.com/Cap-go/capacitor-media-session) ⭐ 11 | 🐛 0 | 🌐 Java | 📅 2026-10-26 - Capacitor plugin to expose media session controls of the device.
 * [capacitor-mux-player](https://github.com/Cap-go/capacitor-mux-player) ⭐ 11 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - Capacitor plugin to play video with Mux Player SDK on iOS and Android.
 * [capacitor-twilio-voice](https://github.com/Cap-go/capacitor-twilio-voice) ⭐ 11 | 🐛 0 | 🌐 Java | 📅 2026-10-26 - Capacitor plugin to create and answer calls with Twilio Voice SDK.
+* [capacitor-widget-kit](https://github.com/Cap-go/capacitor-widget-kit) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2026-10-27 - Capgo WidgetKit plugin with workout Live Activity example and Maestro smoke test.
 * [capacitor-youtube-player](https://github.com/Cap-go/capacitor-youtube-player) ⭐ 11 | 🐛 0 | 🌐 Swift | 📅 2026-10-26 - Capacitor plugin player to embed YouTube player controls in Capacitor apps.
 * [capacitor-accelerometer](https://github.com/Cap-go/capacitor-accelerometer) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-26 - Capacitor plugin to read device accelerometer measurements.
 * [capacitor-android-inline-install](https://github.com/Cap-go/capacitor-android-inline-install) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - Capacitor plugin to trigger Android inline install feature.
@@ -295,7 +296,6 @@ Resources for building, shipping, and maintaining Capacitor apps with AI coding 
 * [capacitor-launch-navigator](https://github.com/Cap-go/capacitor-launch-navigator) ⭐ 10 | 🐛 1 | 🌐 Java | 📅 2026-10-26 - Capacitor plugin which launches native route navigation apps for Android, iOS.
 * [capacitor-sheets](https://github.com/Cap-go/capacitor-sheets) ⭐ 10 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-26 - Capacitor plugin for framework-agnostic sheets, drawers, dialogs, and overlay primitives.
 * [capacitor-textinteraction](https://github.com/Cap-go/capacitor-textinteraction) ⭐ 10 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-26 - Capacitor plugin to toggle text interaction in iOS apps.
-* [capacitor-widget-kit](https://github.com/Cap-go/capacitor-widget-kit) ⭐ 10 | 🐛 0 | 🌐 Swift | 📅 2026-10-27 - Capgo WidgetKit plugin with workout Live Activity example and Maestro smoke test.
 * [capacitor-android-age-signals](https://github.com/Cap-go/capacitor-android-age-signals) ⭐ 9 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-26 - Capacitor plugin to use the Play Age Signals API to retrieve age-related signals for users.
 * [capacitor-appinsights](https://github.com/Cap-go/capacitor-appinsights) ⭐ 9 | 🐛 3 | 🌐 JavaScript | 📅 2026-10-26 - Capacitor plugin to allow interact with App insights SDK.
 * [capacitor-bluetooth-low-energy](https://github.com/Cap-go/capacitor-bluetooth-low-energy) ⭐ 9 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-15 - Capacitor plugin Bluetooth Low Energy.
@@ -329,6 +329,7 @@ Resources for building, shipping, and maintaining Capacitor apps with AI coding 
 * [capacitor-mqtt](https://github.com/Cap-go/capacitor-mqtt) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - Capacitor plugin for MQTT connectivity on Android and iOS.
 * [capacitor-passkey](https://github.com/Cap-go/capacitor-passkey) ⭐ 5 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-26 - Capacitor passkey plugin with a WebAuthn-compatible shim for native apps.
 * [capacitor-webview-version-checker](https://github.com/Cap-go/capacitor-webview-version-checker) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2026-10-15 - Capacitor plugin for checking outdated Android WebView engines with native update prompts and runtime status events.
+* [capacitor-zebra-datawedge](https://github.com/Cap-go/capacitor-zebra-datawedge) ⭐ 5 | 🐛 0 | 🌐 Java | 📅 2026-10-15 - Capacitor plugin for Zebra DataWedge profile management, notifications, queries, and soft scanning on Zebra Android devices.
 * [capacitor-zip](https://github.com/Cap-go/capacitor-zip) ⭐ 5 | 🐛 0 | 🌐 Swift | 📅 2026-10-21 - Capacitor plugin for zipping and unzipping files on iOS, Android, and Web.
 * [capacitor-age-range](https://github.com/Cap-go/capacitor-age-range) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - Capacitor plugin age range detection. Google Play Age Signals (Android) + Apple DeclaredAgeRange (iOS).
 * [capacitor-asset-cache](https://github.com/Cap-go/capacitor-asset-cache) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - Capacitor plugin for transparent local caching of large images and videos.
@@ -338,7 +339,6 @@ Resources for building, shipping, and maintaining Capacitor apps with AI coding 
 * [capacitor-privacy-screen](https://github.com/Cap-go/capacitor-privacy-screen) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - Capacitor plugin for hiding app content in Android screenshots and iOS app switcher previews.
 * [capacitor-stripe-terminal](https://github.com/Cap-go/capacitor-stripe-terminal) ⭐ 4 | 🐛 0 | 🌐 Kotlin | 📅 2026-10-15 - Capacitor plugin for Stripe Terminal in-person payments.
 * [capacitor-uwb](https://github.com/Cap-go/capacitor-uwb) ⭐ 4 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - Capacitor plugin for Ultra-Wideband (UWB) ranging on iOS and Android.
-* [capacitor-zebra-datawedge](https://github.com/Cap-go/capacitor-zebra-datawedge) ⭐ 4 | 🐛 0 | 🌐 Java | 📅 2026-10-15 - Capacitor plugin for Zebra DataWedge profile management, notifications, queries, and soft scanning on Zebra Android devices.
 * [capacitor-app-tracking-transparency](https://github.com/Cap-go/capacitor-app-tracking-transparency) ⭐ 3 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-15 - Capacitor plugin for iOS App Tracking Transparency.
 * [capacitor-appsflyer](https://github.com/Cap-go/capacitor-appsflyer) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2026-10-15 - Capacitor plugin for AppsFlyer attribution, analytics, and deep links.
 * [capacitor-auto](https://github.com/Cap-go/capacitor-auto) ⭐ 3 | 🐛 0 | 🌐 Swift | 📅 2026-10-15 - Capacitor plugin for CarPlay and Android Auto communication.
@@ -441,7 +441,7 @@ Tutorials that cover the path from an existing web app to a published mobile app
 
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ⭐ 1,662 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27
 
-* [Ionic Official Starter Templates](https://github.com/ionic-team/starters) ⭐ 483 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-29
+* [Ionic Official Starter Templates](https://github.com/ionic-team/starters) ⭐ 483 | 🐛 8 | 🌐 JavaScript | 📅 2026-10-30
 
 * [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ⚠️ Archived
 
@@ -514,7 +514,7 @@ Tutorials that cover the path from an existing web app to a published mobile app
 
 * [Dynamic Forms](https://github.com/udos86/ng2-dynamic-forms/) ⭐ 1,307 | 🐛 128 | 🌐 TypeScript | 📅 2024-02-06
 * [Selectable](https://github.com/eakoriakin/ionic-selectable) ⭐ 553 | 🐛 77 | 🌐 TypeScript | 📅 2026-10-15
-* [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) ⭐ 481 | 🐛 142 | 🌐 TypeScript | 📅 2026-10-21
+* [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) ⭐ 480 | 🐛 142 | 🌐 TypeScript | 📅 2026-10-21
 * [Autocomplete](https://github.com/kadoshms/ionic2-autocomplete) ⭐ 146 | 🐛 32 | 🌐 TypeScript | 📅 2023-10-10
 * [Masks](https://github.com/amarkes/br-mask) ⭐ 116 | 🐛 28 | 🌐 TypeScript | 📅 2023-06-09
 * [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs) ⭐ 46 | 🐛 0 | 🌐 TypeScript | 📅 2017-01-27
@@ -522,7 +522,7 @@ Tutorials that cover the path from an existing web app to a published mobile app
 
 ### Input - Date/Calendar
 
-* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,205 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
+* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,204 | 🐛 331 | 🌐 JavaScript | 📅 2025-05-26
 * [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,812 | 🐛 99 | 🌐 TypeScript | 📅 2026-04-08  (very powerful)
 * [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar) ⭐ 548 | 🐛 167 | 🌐 TypeScript | 📅 2022-12-08
 * [Calendar](https://github.com/twinssbc/Ionic2-Calendar) ⭐ 388 | 🐛 115 | 🌐 TypeScript | 📅 2026-05-31
@@ -580,7 +580,7 @@ Tutorials that cover the path from an existing web app to a published mobile app
 
 ## Open Source Projects
 
-* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,586 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-28
+* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,585 | 🐛 15 | 🌐 TypeScript | 📅 2026-10-29
 * [IonicRealty](https://github.com/ccoenraets/ionic2-realty) ⭐ 253 | 🐛 8 | 🌐 JavaScript | 📅 2016-11-15
 * [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum) ⭐ 244 | 🐛 5 | 🌐 TypeScript | 📅 2021-07-09
 * [Ionic 5 Social Network Starter](https://github.com/thenaim/ion-tk-social-network) ⭐ 164 | 🐛 17 | 🌐 TypeScript | 📅 2023-01-07
@@ -642,4 +642,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
