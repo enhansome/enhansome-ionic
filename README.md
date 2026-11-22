@@ -69,7 +69,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Official Resources
 
-* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,772 | 🐛 481 | 🌐 TypeScript | 📅 2026-11-20
+* [GitHub Repo](https://github.com/ionic-team/ionic-framework) ⭐ 52,773 | 🐛 481 | 🌐 TypeScript | 📅 2026-11-20
 * [Ionic Native](https://github.com/driftyco/ionic-native/) ⭐ 2,450 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-20
 * [Site](http://ionicframework.com/)
 * [Blog](http://blog.ionic.io/)
@@ -84,7 +84,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 Ionic apps can use Capacitor as a native runtime.
 
-* [Repository](https://github.com/ionic-team/capacitor) ⭐ 17,130 | 🐛 153 | 🌐 TypeScript | 📅 2026-11-20 - Core runtime source.
+* [Repository](https://github.com/ionic-team/capacitor) ⭐ 17,138 | 🐛 155 | 🌐 TypeScript | 📅 2026-11-20 - Core runtime source.
 * [Awesome Capacitor](https://github.com/riderx/awesome-capacitor) ⭐ 641 | 🐛 10 | 🌐 HTML | 📅 2026-10-30 - Curated Capacitor plugins, tools, and guides.
 * [Website](https://capacitorjs.com/) - Project homepage.
 * [Documentation](https://capacitorjs.com/docs) - Official docs.
@@ -229,9 +229,9 @@ Resources for building, shipping, and maintaining Capacitor apps with AI coding 
 
 ## Capgo Capacitor Plugins
 
-* [capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 891 | 🐛 6 | 🌐 Java | 📅 2026-11-21 - Capacitor plugin for Instant updates: Ship updates, fixes, changes, and features within minutes.
+* [capacitor-updater](https://github.com/Cap-go/capacitor-updater) ⭐ 891 | 🐛 7 | 🌐 Java | 📅 2026-11-22 - Capacitor plugin for Instant updates: Ship updates, fixes, changes, and features within minutes.
 * [capacitor-social-login](https://github.com/Cap-go/capacitor-social-login) ⭐ 224 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-19 - Capacitor plugin to make login with Google,Apple,Facebook and so on, simple and fast to implement.
-* [capacitor-notifications](https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications) ⭐ 214 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-21 - Send native iOS and Android push notifications with user lookup, badges, and stats.
+* [capacitor-notifications](https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications) ⭐ 214 | 🐛 32 | 🌐 TypeScript | 📅 2026-11-22 - Send native iOS and Android push notifications with user lookup, badges, and stats.
 * [capacitor-inappbrowser](https://github.com/Cap-go/capacitor-inappbrowser) ⭐ 136 | 🐛 1 | 🌐 Java | 📅 2026-11-20 - Capacitor plugin in app browser with urlChangeEvent.
 * [capacitor-data-storage-sqlite](https://github.com/Cap-go/capacitor-data-storage-sqlite) ⭐ 106 | 🐛 0 | 🌐 Swift | 📅 2026-11-18 - Capacitor Plugin for Data Storage SQLite for iOS and Android.
 * [capacitor-native-biometric](https://github.com/Cap-go/capacitor-native-biometric) ⭐ 87 | 🐛 1 | 🌐 Java | 📅 2026-11-19 - Secure biometric authentication for Capacitor with Face ID, Touch ID, and Android biometrics.
@@ -251,7 +251,7 @@ Resources for building, shipping, and maintaining Capacitor apps with AI coding 
 * [capacitor-transitions](https://github.com/Cap-go/capacitor-transitions) ⭐ 26 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-15 - Framework-agnostic page transitions for Capacitor apps. iOS-style navigation without opinions.
 * [capacitor-flash](https://github.com/Cap-go/capacitor-flash) ⭐ 25 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-18 - Capacitor plugin to switch the Flashlight / Torch of your device.
 * [capacitor-fast-sql](https://github.com/Cap-go/capacitor-fast-sql) ⭐ 23 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-18 - Capacitor plugin to connect to local SQL with fast protocol.
-* [capacitor-plus](https://github.com/Cap-go/capacitor-plus) ⭐ 22 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-21 - Capacitor+ is an always-synced Capacitor fork with community fixes and faster releases.
+* [capacitor-plus](https://github.com/Cap-go/capacitor-plus) ⭐ 22 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-22 - Capacitor+ is an always-synced Capacitor fork with community fixes and faster releases.
 * [capacitor-shake](https://github.com/Cap-go/capacitor-shake) ⭐ 21 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-18 - Capacitor Plugin to detect when a physical device performs a shake gesture.
 * [capacitor-share-target](https://github.com/Cap-go/capacitor-share-target) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-18 - Capacitor plugin to receive share target intent in app.
 * [capacitor-crisp](https://github.com/Cap-go/capacitor-crisp) ⭐ 19 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-18 - Capacitor plugin to use Crisp native SDK.
@@ -389,7 +389,7 @@ Resources for building, shipping, and maintaining Capacitor apps with AI coding 
 
 ## Tools
 
-* [Capstart](https://github.com/AdrienADV/capstart) ⭐ 30 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-20 - CLI and starter toolkit for creating Capacitor apps with React, Supabase, and shadcn/ui, or adding Capacitor to existing web framework projects.
+* [Capstart](https://github.com/AdrienADV/capstart) ⭐ 30 | 🐛 4 | 🌐 TypeScript | 📅 2026-11-22 - CLI and starter toolkit for creating Capacitor apps with React, Supabase, and shadcn/ui, or adding Capacitor to existing web framework projects.
 * [CLI](https://github.com/Cap-go/CLI) ⚠️ Archived - Upload and manage live update bundles.
 * [Docker](https://github.com/Cap-go/docker-capacitor) ⭐ 4 | 🐛 0 | 🌐 Dockerfile | 📅 2026-10-15 - Image for building native apps.
 * [Vite plugin](https://github.com/Cap-go/vite-capacitor) ⭐ 4 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-15 - Keep native platform configs in sync with the Vite dev server URL.
@@ -443,7 +443,7 @@ Tutorials that cover the path from an existing web app to a published mobile app
 
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components) ⭐ 1,659 | 🐛 23 | 🌐 TypeScript | 📅 2025-11-27
 
-* [Ionic Official Starter Templates](https://github.com/ionic-team/starters) ⭐ 483 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-21
+* [Ionic Official Starter Templates](https://github.com/ionic-team/starters) ⭐ 483 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-22
 
 * [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate) ⚠️ Archived
 
@@ -524,8 +524,8 @@ Tutorials that cover the path from an existing web app to a published mobile app
 
 ### Input - Date/Calendar
 
-* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,201 | 🐛 330 | 🌐 JavaScript | 📅 2025-05-26
-* [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,809 | 🐛 99 | 🌐 TypeScript | 📅 2026-04-08  (very powerful)
+* [Inputfield Mask](https://github.com/text-mask/text-mask) ⭐ 8,200 | 🐛 330 | 🌐 JavaScript | 📅 2025-05-26
+* [Calendar](https://github.com/mattlewis92/angular-calendar) ⭐ 2,809 | 🐛 100 | 🌐 TypeScript | 📅 2026-04-08  (very powerful)
 * [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar) ⭐ 548 | 🐛 167 | 🌐 TypeScript | 📅 2022-12-08
 * [Calendar](https://github.com/twinssbc/Ionic2-Calendar) ⭐ 388 | 🐛 115 | 🌐 TypeScript | 📅 2026-05-31
 * [Rating](https://github.com/andrucz/ionic2-rating) ⭐ 176 | 🐛 14 | 🌐 TypeScript | 📅 2022-12-06
@@ -537,7 +537,7 @@ Tutorials that cover the path from an existing web app to a published mobile app
 
 ### Lists/Table
 
-* [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) ⭐ 4,664 | 🐛 919 | 🌐 TypeScript | 📅 2026-08-11
+* [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) ⭐ 4,665 | 🐛 919 | 🌐 TypeScript | 📅 2026-08-11
 * [Smart table (sorting, filtering)](https://github.com/akveo/ng2-smart-table) ⭐ 1,618 | 🐛 953 | 🌐 TypeScript | 📅 2024-08-12
 * [Sortable/Filter Tables](https://github.com/valor-software/ng2-table) ⭐ 543 | 🐛 319 | 🌐 TypeScript | 📅 2022-10-26
 
@@ -554,7 +554,7 @@ Tutorials that cover the path from an existing web app to a published mobile app
 
 ### Charts/Diagram
 
-* [Charts](https://github.com/valor-software/ng2-charts) ⭐ 2,397 | 🐛 60 | 🌐 TypeScript | 📅 2026-10-19
+* [Charts](https://github.com/valor-software/ng2-charts) ⭐ 2,396 | 🐛 60 | 🌐 TypeScript | 📅 2026-10-19
 * [D3 Service](https://github.com/tomwanzek/d3-ng2-service) ⭐ 204 | 🐛 15 | 🌐 TypeScript | 📅 2020-03-26
 * [D3 Angular Examples](https://github.com/datencia/d3js-angular-examples) ⭐ 198 | 🐛 14 | 🌐 TypeScript | 📅 2023-03-02
 * [D3 Line/Bar/Pie Charts](https://github.com/datencia/d3js-angular2-example) ⭐ 198 | 🐛 14 | 🌐 TypeScript | 📅 2023-03-02
@@ -582,7 +582,7 @@ Tutorials that cover the path from an existing web app to a published mobile app
 
 ## Open Source Projects
 
-* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,587 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-21
+* [Ionic Conference App](https://github.com/driftyco/ionic-conference-app) ⭐ 3,587 | 🐛 8 | 🌐 TypeScript | 📅 2026-11-22
 * [IonicRealty](https://github.com/ccoenraets/ionic2-realty) ⭐ 253 | 🐛 8 | 🌐 JavaScript | 📅 2016-11-15
 * [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum) ⭐ 244 | 🐛 5 | 🌐 TypeScript | 📅 2021-07-09
 * [Ionic 5 Social Network Starter](https://github.com/thenaim/ion-tk-social-network) ⭐ 164 | 🐛 17 | 🌐 TypeScript | 📅 2023-01-07
@@ -644,4 +644,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
